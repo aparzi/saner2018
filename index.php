@@ -64,7 +64,7 @@
                     </p>
 
                     <p class="ls-l" style="top:120px;left:720px; font-size:25px;color:#000;white-space: nowrap;" data-ls="slidedirection : right; slideoutdirection : right; durationin : 2000; durationout : 2500; delayin : 1000;">
-                        Software Analysis, Evolution and Reengineering <br />Campobasso, Italy.
+                        Software Analysis, Evolution and Reengineering <br />Campobasso, Italy, March 20-23, 2018.
                     </p>
 
                     <div class="ls-l" style="top:100%; left: 50%; position: relative; opacity: 0.8;" data-ls="slidedirection : right; slideoutdirection : right; durationin : 2000; durationout : 2500; delayin : 1000;">
@@ -149,7 +149,7 @@
                     </p>
                     <br>
                     <div class="well">
-                        <p>The 25th edition of the IEEE Internation Conferance on Software Analysis, Evolution and Reengineering will be held at the University of Molise in Campobasso.</p><!-- , Italy from February 27 – March 2, 2018. -->
+                        <p>The 25th edition of the IEEE Internation Conferance on Software Analysis, Evolution and Reengineering will be held at the University of Molise in Campobasso, March 20-23, 2018.</p><!-- , Italy from February 27 – March 2, 2018. -->
                     </div>
                 </div>
                 <div class="col-md-3 col-md-offset-1 padd">
