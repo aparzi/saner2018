@@ -80,7 +80,7 @@
                             bus can be taken from Roma Tiburtina bus station and Napoli Piazza Garibaldi bus
                             station. From Pescara, it can be taken the bus from the bus station near the central train
                             station (Pescara Centrale). The bus station in Campobasso is 700m far from the train
-                            station and 1km far from the city centre.
+                            station and 1km far from the city centre. ATM also provides direct buses from <a target="_blank" href="http://atm.bus-booking.it/home/getcorse">Fiumicino Airport</a>.
                         </p>
                       </div>
                 </div><!-- end row -->
