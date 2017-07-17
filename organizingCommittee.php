@@ -201,7 +201,7 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/dongmei.png" alt="Dongmei Zhang" />
+                                                    <img class="img-circle" src="img/team/DongmeiZhang.jpg" alt="Dongmei Zhang" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
@@ -317,6 +317,32 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
+                            <h3>Finance Chair</h3>
+                            <hr class="lineHr">
+                        </div>
+                        <table class="table" style="width: 100%; margin-top: -4em;">
+                            <tbody style="text-align: center;">
+                            <tr>
+                                <td style="border: none; text-align: left;">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-2">
+                                                <img class="img-circle" src="img/team/damian_tamburri.jpg" alt="Damian Andrew Tamburri" />
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="team-date padd">
+                                                    <br />
+                                                    <h6><a target="_blank" href="http://www.s2group.cs.vu.nl/people/damian-a-tamburri/">Damian Andrew Tamburri</a></h6>
+                                                    <p>Polytechnic of Milan <br /> Italy</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <div class="top-description-text" style="text-align: left;">
                             <h3>Proceedings Chair</h3>
                             <hr class="lineHr">
                         </div>
@@ -421,7 +447,7 @@
                                         <div class="container">
                                             <div class="row">
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/gabrieleBavota.jpg" alt="Gabriele Bavota" />
+                                                    <img width="170" height="170" class="img-circle" src="img/team/gabriele_bavota.jpg" alt="Gabriele Bavota" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">

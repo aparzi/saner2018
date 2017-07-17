@@ -57,7 +57,7 @@
                 <div class="row">
                     <div class="col-md-12 padd">
                       <center>
-                        <iframe src="https://www.google.com/maps/d/embed?mid=1vDYbOCtVGZDYoZ_NgZAwcuTNi_M" width="640" height="480"></iframe>
+                        <iframe src="https://www.google.com/maps/d/embed?mid=1ong5SfL-ntxNo88D5aNldhCynl4" width="640" height="480"></iframe>
                       </center>
                     </div>
                     <div class="col-md-12 padd">

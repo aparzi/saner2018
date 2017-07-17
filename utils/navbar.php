@@ -20,6 +20,24 @@
                             <a  href="index.php">Home</a>
                         </li>
                         <!-- /Home Menu -->
+                        <!-- Call For Papers -->
+                        <li
+                            <?php
+                            if ((basename($_SERVER['PHP_SELF']) == 'restrack.php.php') || (basename($_SERVER['PHP_SELF']) == 'eratrack.php') || (basename($_SERVER['PHP_SELF']) == 'tooltrack.php')) {
+                                echo 'class = "zm-active"';
+                            }
+                            ?>
+                        ><a>Call For Paper <span class="caret"></span></a>
+                            <ul class="w-200">
+                                <li><a href="restrack.php?p=Research Track">Research Track</a></li>
+                                <li><a href="#">ERA Track</a></li>
+                                <li><a href="#">Tool Track</a></li>
+                                <li><a href="#">Industrial Track</a></li>
+                                <li><a href="#">Negative Results</a></li>
+                                <li><a href="#">Workshop Track</a></li>
+                            </ul>
+                        </li>
+                        <!-- /Call For Papers -->
                         <!-- Venue -->
                         <li <?php if (basename($_SERVER['PHP_SELF']) == 'venue.php') echo 'class = "zm-active"'?>>
                             <a href="venue.php?p=venue">Venue</a>

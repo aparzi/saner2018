@@ -137,25 +137,27 @@
                     <h2>Welcome</h2>
                     <hr class="lineHr">
                     <p>
-                        <b>SANER</b> is the premier research conference on the theory and practice of recovering information from existing software and systems. It explores innovative methods of extracting the many kinds of information that can be recovered from software, software engineering documents, and systems artifacts, and examines innovative ways of using this information in system renovation and program understanding.
+                        <b>SANER</b> is the premier event on the theory and practice of recovering information from existing software and systems. The event explores innovative methods to extract the many kinds of information that can be recovered from software, software engineering documents, and systems artifacts, and examines innovative ways of using this information in system renewal and program understanding.
                     </p>
                     <br>
                     <p>
-                        <b>SANER</b> promotes discussion and interaction among researchers and practitioners about the development of maintainable systems, and the improvement, evolution, migration, and reengineering of existing systems. It also explores innovative methods of extracting the many kinds of information of interest to software developers and examines innovative ways of using this information in system renovation and program understanding.
+                        <b>SANER</b> promotes discussion and interaction among researchers and practitioners about the development of maintainable systems, and the improvement, evolution, migration, and reengineering of existing systems. The venue also explores innovative methods of extraction for the many kinds of information of interest to software developers and examines innovative ways of using this information in system renewal and program understanding.
                     </p>
                     <br>
                     <p>
-                        <b>SANER</b> will feature technical research paper sessions, workshops, an early research achievements track, an industry paper track, a tool demonstration track, a doctoral symposium, and also a number of co-located events.
+                        <b>SANER</b> will feature technical research paper sessions, workshops, an early research achievements track, an industry paper track, a tool demonstration track, and for the first time a dedicated track on negative results in software analysis, evolution and reengineering.
                     </p>
                     <br>
                     <div class="well">
-                        <p>The 25th edition of the IEEE Internation Conferance on Software Analysis, Evolution and Reengineering will be held at the University of Molise in Campobasso, March 20-23, 2018.</p><!-- , Italy from February 27 – March 2, 2018. -->
+                        <p>This 25th edition of the IEEE Internation Conferance on Software Analysis, Evolution and Reengineering will be held at the University of Molise in Campobasso, March 20-23, 2018.</p><!-- , Italy from February 27 – March 2, 2018. -->
                     </div>
                 </div>
                 <div class="col-md-3 col-md-offset-1 padd">
                     <div class="panel panel-danger" style="border-radius: 4px;">
                         <div class="panel-heading" style="text-align: center;"><h5 class="panel-title">Latest News</h5></div>
                         <div class="panel panel-body">
+                            <!--<strong>July 21, 2017:</strong> Call for papers and important dates are now available.
+                            <br/>-->
                             <strong>February 24, 2017:</strong>&nbsp; SANER web site online!
                         </div>
                     </div>
@@ -164,7 +166,15 @@
                         <div class="panel panel-body">
                             <div id="date1" style="display: block;">
                                 <p style="width:100%; text-align: center;"><b>Research Track</b></p>
-                                <p>They will be announced asap. Stay tuned!<!-- <span style="float:right;">Thursday, March 30, 2017</span> --></p>
+                                <p>
+                                    <ul>
+                                        <li style="list-style: none;">Abstract: October 20, 2017 AoE</li>
+                                        <li style="list-style: none;">Paper: October 27, 2017 AoE</li>
+                                        <li style="list-style: none;">Notifications: December 17, 2017</li>
+                                        <li style="list-style: none;">Camera Ready: TBA</li>
+                                    </ul>
+                                    <!-- <span style="float:right;">Thursday, March 30, 2017</span> -->
+                                </p>
                             </div>
                             <div id="date2" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>ERA Track</b></p>

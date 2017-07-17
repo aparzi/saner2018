@@ -80,12 +80,11 @@
                                 </div>
                             </div><!-- end carousel-v3 -->
                         </div>
-                        <p  style="text-align: justify;">The 25th edition of the IEEE Internation Conferance on Software Analysis, Evolution and Reengineering will be held at the University of Molise in Campobasso, Italy.
-                            The University of Molise counts 4 University campuses, more than 10,000 students, more than 100 PhD students and about 600 among teaching and non-teaching staff.
-                            The University campus of Campobasso is equipped with several laboratories, multimedia and language labs, a rich library, and a sports centre.
-                            The Computer Science School is part of the Department of Bioscience and Territory and currently comprises nine associate professors, five assistant professors, and about ten scientific and technical staff members.
-                            The Computer Science programs have currently about 400 hundred students and last year we have activated an advanced Master program on “Security of software systems”.
-                            The Software and Knowledge Engineering Lab is part of the Computer Science School.
+                        <p  style="text-align: justify;">The 25th edition of the IEEE Internation Conference on Software Analysis, Evolution and Reengineering will be held at the University of Molise in Campobasso, Italy.
+                            The University of Molise counts 4 University campuses arranged across our beautiful region, over 10,000 students, 100+ PhD students and about 600 personnel, split among teaching and non-teaching staff.
+                            The University campus of Campobasso is equipped with several technical laboratories covering multimedia, languages, and more, including a rich library, and a sports centre.
+                            The Computer Science School is part of the Department of Biosciences and Territory and currently comprises 9 associate professors, 5 assistant professors, and 10+ scientific and technical staff.
+                            The Computer Science programs have currently 400+ students; last year we bootstrapped an advanced Masters’ Degree Program program on “Security of software systems”. The Software and Knowledge Engineering (STAKE) Lab is part of the Computer Science School.
                         </p>
 
                     </div>
@@ -122,11 +121,10 @@
                     </div>
                     <div class="col-md-5 padd">
                         <p style="text-align: justify;">
-                            Campobasso is the regional capital of Molise, in the central/southern Italy. It has a
-                            population of about 50,000 people. Campobasso was originally a settlement of the
-                            Samnites, an ancient Italic people. In the 3 th century b.C. the Samnitic wars resulted in
-                            their inclusion in the Roman republic: witness of such a period, there are Samnitic walls in
-                            the uptown and Roman remains in the nearby Altilia archaeological site.
+                            Campobasso is the regional capital of Molise, in central/southern Italy.
+                            The city has a population of 50,000 people circa.
+                            Campobasso is deep into history - it was originally a settlement of the Samnites, an ancient Italic people.
+                            In the 3rd century b.C. the Samnitic wars resulted in their inclusion in the Roman republic: witness of such a period, there are Samnitic walls in the uptown and Roman remains in the nearby Altilia archaeological site.
                             Besides, Campobasso has a Samnitic museum, which contains many historical finds.
                         </p>
                     </div>
@@ -141,13 +139,11 @@
                     <hr class="lineHr" style="margin-bottom: 0px;">
                     <div class="col-md-5 padd">
                         <p style="text-align: justify;">
-                            The most important historic place in Campobasso is the Monforte castle,
-                            one of the symbols of the city. Monforte castle was built before 1375 and it was restored
-                            in 1458 by Earl Nicola II Monforte, from whom it took the name. It dominates the uptown
-                            and it is visible from all over the city. Another witness of the medieval period is the
-                            ancient city, with its six gates, formerly towers, from which originates the main symbol of
-                            the city and of the University of Molise. Campobasso also has many Romanesque
-                            churches, like San Bartolomeo and San Leonardo.
+                            The most important historic place in Campobasso is the Monforte castle, one of the symbols of the city.
+                            Monforte castle was built before 1375 and it was restored in 1458 by Earl Nicola II Monforte, from whom it was named.
+                            The bastions of the castle dominate the uptown and are visible from all over the city.
+                            Another witness of the medieval period is the city’s ancient town center, with its six gates, formerly towers, from which originates the main symbol of the city and of the University of Molise.
+                            Campobasso also has many Romanesque churches, like San Bartolomeo and San Leonardo.
                         </p>
                     </div>
                     <div class="col-md-7 padd">
@@ -199,7 +195,7 @@
                             </div><!-- end carousel-v3 -->
                         </div>
                         <p class="col-md-offset-7" style="text-align: justify; margin-left: 1.333%;">
-                            The ancient Saepinum stood about five kilometers from the current city of Sepino, in the locality of Altilia. It was originally a Sannita fortified village that was conquered in 297 BC by the Roman consul Papirius Curio. Later it became a Roman town. Its origin is due to the transfer to the valley, from the village of Terracchia, of the population of a Sannita village because of the Romans' defeat.
+                            The ancient Saepinum stood about 5 kilometers from the current city of Sepino, in the locality of Altilia. It was originally a Sannita fortified village that was conquered in 297 BC by the Roman consul Papirius Curio. Later it became a Roman town. Its origin is due to the transfer to the valley, from the village of Terracchia, of the population of a Sannita village because of the Romans' defeat.
                             The ancient city of Saepinum (like all Roman towns) was rectangular in shape and was crossed by two streets, perpendicular to one another: Cardine and Decumanus. The latter was then placed in the path of the Tratturo Pescasseroli-Candela.
                             At the extremes of the two perpendicular streets there are the four doors: the door of Bojano, the door of Benevento, the door of Tammaro and the door of Terravecchia.
                             Outside the door of Bojano there is the mausoleum of Numisi whose owner was Publius Numisio Ligo, while outside the door of Benevento there is a cylindrical mausoleum on a square base dedicated to Caio Ennio Marso. The location of the graves placed outside the walls is typical of Romans' settlements.
