@@ -27,7 +27,7 @@
                                 echo 'class = "zm-active"';
                             }
                             ?>
-                        ><a>Call For Paper <span class="caret"></span></a>
+                        ><a>Call For Papers <span class="caret"></span></a>
                             <ul class="w-200">
                                 <li><a href="restrack.php?p=Research Track">Research Track</a></li>
                                 <li><a href="#">ERA Track</a></li>
