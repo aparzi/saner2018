@@ -117,7 +117,25 @@ require_once ('./utils/breadcrumb.php');
                 <h3>Committee Members</h3>
             </div>
         </div>
-        <?php include ('utils/commiteeMembers.php')?>
+        <?php
+        $content = file_get_contents('config/production.json');
+        $json = json_decode($content, true);
+        ?>
+        <div class="row"> <?php
+            foreach ($json['commiteeMembers'] as $key => $value) {
+                ?>
+                <div class="col-md-4">
+                    <?php if (!is_null($value['website'])) { ?>
+                        <a href="<?php echo $value['website'] ?>" target="_blank"><?php echo $value['name'] ?></a>
+                    <?php } else { ?>
+                        <a><?php echo $value['name'] ?></a>
+                    <?php } ?>
+                    <p><?php echo $value['affiliation'] ?></p>
+                </div>
+                <?php
+            }
+            ?>
+        </div>
     </div>
 </section>
 
