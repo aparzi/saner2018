@@ -66,14 +66,14 @@
                         <!-- Organization -->
                         <li
                         <?php
-                          if ((basename($_SERVER['PHP_SELF']) == 'organizingCommittee.php') || (basename($_SERVER['PHP_SELF']) == 'steeringCommittee.php')) {
+                          if ((basename($_SERVER['PHP_SELF']) == 'organizingCommittee.php') || (basename($_SERVER['PHP_SELF']) == 'steeringCommittee.php') || (basename($_SERVER['PHP_SELF']) == 'programCommittee.php')) {
                             echo 'class = "zm-active"';
                           }
                         ?>
                         ><a>Organization <span class="caret"></span></a>
                           <ul class="w-200">
                               <li><a href="organizingCommittee.php?p=organizing Committee">Organizing Committee</a></li>
-                              <li><a href="#">Program Committee</a></li>
+                              <li><a href="programCommittee.php?p=program Committee">Program Committee</a></li>
                               <li><a href="steeringCommittee.php?p=steering Committee">Steering Committee</a></li>
                           </ul>
                         </li>
