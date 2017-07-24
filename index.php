@@ -171,7 +171,7 @@
                                         <li style="list-style: none;">Abstract: October 20, 2017 AoE</li>
                                         <li style="list-style: none;">Paper: October 27, 2017 AoE</li>
                                         <li style="list-style: none;">Notifications: December 17, 2017</li>
-                                        <li style="list-style: none;">Camera Ready: TBA</li>
+                                        <li style="list-style: none;">Camera Ready: January 15, 2018</li>
                                     </ul>
                                     <!-- <span style="float:right;">Thursday, March 30, 2017</span> -->
                                 </p>
