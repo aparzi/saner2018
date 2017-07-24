@@ -81,10 +81,14 @@ require_once ('./utils/breadcrumb.php');
                     <li>Education related to all of the above topics</li>
                     <li>Legal aspects</li>
                 </ul>
-                <p style="text-align: justify;">
+                <br>
+                <strong>Evaluation Criteria</strong>
+                <p style="text-align: justify; margin-top: 15px;">
                 Submissions will be evaluated by at least three program committee members. The evaluation will focus on the novelty, originality, importance to the field, proper use of research methods, and presentation of the submissions. We strongly encourage authors to make available all data and software they use in their work, in order to allow for verification and replication of their results.
                 </p>
-                <p style="text-align: justify;">
+                <br>
+                <strong>Submission instructions</strong>
+                <p style="text-align: justify; margin-top: 15px;">
                 Submitted papers must have been neither previously accepted for publication nor concurrently submitted for review in another journal, book, conference, or workshop.
                 </p>
                 <p style="text-align: justify;">
@@ -97,12 +101,13 @@ require_once ('./utils/breadcrumb.php');
                 Submissions should not exceed 12 pages (the last 2 pages for references only), and should be uploaded electronically in PDF format via EasyChair.
                 </p>
                 <p style="text-align: justify;">
-                <strong>Important Dates:</strong>
+                    <br>
+                <strong>Important Dates</strong>
                 <ul>
                     <li>Abstract submission deadline: October 20, 2017 AoE</li>
                     <li>Paper submission deadline: October 27, 2017 AoE</li>
                     <li>Notifications: December 17, 2017</li>
-                    <li>Camera Ready: TBA</li>
+                    <li>Camera Ready: January 15, 2018</li>
                     <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2018">https://easychair.org/conferences/?conf=saner2018</a></li>
                 </ul>
                 </p>
@@ -115,6 +120,7 @@ require_once ('./utils/breadcrumb.php');
         <div class="row">
             <div class="col-md-12">
                 <h3>Committee Members</h3>
+                <hr class="lineHr">
             </div>
         </div>
         <?php
