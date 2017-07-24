@@ -64,39 +64,22 @@
                                 <tr>
                                     <td style="border: none; text-align: left;">
                                         <div class="container">
-                                            <div class="row">
+                                            <?php
+                                            $content = file_get_contents('config/production.json');
+                                            $json = json_decode($content, true);
+                                            ?>
+                                            <div class="row"> <?php
+                                                foreach ($json['steeringCommittee']['parte_uno'] as $key => $value) {
+                                                ?>
                                                 <div class="col-md-3">
-                                                    <img class="img-circle" src="img/steering/SergeDemeyer.png" alt="Serge Demeyer" />
+                                                    <img class="img-circle" src="<?php echo $value['img'] ?>" alt="<?php echo $value['name'] ?>" />
                                                     <div class="team-date">
                                                         <br />
-                                                        <h6><a href="http://win.ua.ac.be/~sdemey/" target="_blank">Serge Demeyer</a> (Chair)</h6>
-                                                        <p>University of Antwerp</p>
+                                                        <h6><a href="<?php echo $value['website'] ?>" target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Serge Demeyer') echo " (Chair)"; else ""?> </h6>
+                                                        <p><?php echo $value['affiliation'] ?></p>
                                                     </div>
                                                 </div>
-                                                <div class="col-md-3">
-                                                    <img class="img-circle" src="img/steering/BramAdams.png" alt="Bram Adams" />
-                                                    <div class="team-date">
-                                                        <br />
-                                                        <h6><a href="http://mcis.polymtl.ca/bram.html" target="_blank">Bram Adams</a></h6>
-                                                        <p>École Polytechnique de Montréal</p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-3">
-                                                    <img class="img-circle" src="img/steering/ElliotChikofsky.png" alt="Elliot Chikofsky" />
-                                                    <div class="team-date">
-                                                        <br />
-                                                        <h6><a href="http://pathbridge.net/chikofsky/" target="_blank">Elliot Chikofsky</a></h6>
-                                                        <p>PathBridge</p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-3">
-                                                    <img class="img-circle" src="img/steering/foutse.jpg" alt="Foutse Khomh" />
-                                                    <div class="team-date">
-                                                        <br />
-                                                        <h6><a href="http://www.khomh.net" target="_blank">Foutse Khomh</a></h6>
-                                                        <p>Ecole Polytechnique de Montréal</p>
-                                                    </div>
-                                                </div>
+                                                <?php } ?>
                                             </div>
                                         </div>
                                     </td>
@@ -111,39 +94,22 @@
                                 <tr>
                                     <td style="border: none; text-align: left;">
                                         <div class="container">
-                                            <div class="row">
-                                                <div class="col-md-3">
-                                                    <img class="img-circle" src="img/steering/HausiMuller.png" alt="Hausi Müller" />
-                                                    <div class="team-date">
-                                                        <br />
-                                                        <h6><a href="http://webhome.cs.uvic.ca/~hausi/" target="_blank">Hausi Müller</a></h6>
-                                                        <p>University of Victoria</p>
+                                            <?php
+                                            $content = file_get_contents('config/production.json');
+                                            $json = json_decode($content, true);
+                                            ?>
+                                            <div class="row"> <?php
+                                                foreach ($json['steeringCommittee']['parte_due'] as $key => $value) {
+                                                    ?>
+                                                    <div class="col-md-3">
+                                                        <img class="img-circle" src="<?php echo $value['img'] ?>" alt="<?php echo $value['name'] ?>" />
+                                                        <div class="team-date">
+                                                            <br />
+                                                            <h6><a href="<?php echo $value['website'] ?>" target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Serge Demeyer') echo " (Chair)"; else ""?> </h6>
+                                                            <p><?php echo $value['affiliation'] ?></p>
+                                                        </div>
                                                     </div>
-                                                </div>
-                                                <div class="col-md-3">
-                                                    <img class="img-circle" src="img/steering/martin.png" alt="Martin Pinzger" />
-                                                    <div class="team-date">
-                                                        <br />
-                                                        <h6><a href="http://serg.aau.at/bin/view/MartinPinzger/WebHome" target="_blank">Martin Pinzger</a></h6>
-                                                        <p>Alpen-Adria Universität Klagenfurt</p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-3">
-                                                    <img class="img-circle" src="img/steering/YannGaelGueheneuc.png" alt="Yann-Gaël Guéhéneuc" />
-                                                    <div class="team-date">
-                                                        <br />
-                                                        <h6><a href="http://www.yann-gael.gueheneuc.net/Work/Info/" target="_blank">Yann-Gaël Guéhéneuc</a></h6>
-                                                        <p>École Polytechnique de Montréal</p>
-                                                    </div>
-                                                </div>
-                                                <div class="col-md-3">
-                                                    <img class="img-circle" src="img/steering/yasutaka.png" alt="Yasutaka Kamei" />
-                                                    <div class="team-date">
-                                                        <br />
-                                                        <h6><a href="http://posl.ait.kyushu-u.ac.jp/~kamei/" target="_blank">Yasutaka Kamei</a></h6>
-                                                        <p>Kyushu University</p>
-                                                    </div>
-                                                </div>
+                                                <?php } ?>
                                             </div>
                                         </div>
                                     </td>

@@ -212,13 +212,13 @@
     },
     {
       "name": "Romain Robbes",
-      "affiliation": "Free University of Bolzano/Bozen, Italy",
+      "affiliation": "Free University of Bozen/Bolzano, Italy",
       "website": "https://www.inf.unibz.it/~rrobbes/"
     },
     {
       "name": "Tobias Roehm",
       "affiliation": "CQSE GmbH, Germany",
-      "website": "https://www1.in.tum.de/lehrstuhl_1/people/338-tobias-roehm"
+      "website": "https://www.cqse.eu/en/team/tobias-roehm/"
     },
     {
       "name": "Chanchal K. Roy",
@@ -227,7 +227,7 @@
     },
     {
       "name": "Barbara Russo",
-      "affiliation": "Free University of Bolzano/Bozen, Italy",
+      "affiliation": "Free University of Bozen/Bolzano, Italy",
       "website": "http://www.inf.unibz.it/~russo/"
     },
     {
@@ -265,5 +265,60 @@
       "affiliation": "Queen's University, Canada",
       "website": "http://my.ece.queensu.ca/People/Y-Zou/"
     }
-  ]
+  ],
+
+  "steeringCommittee": {
+    "parte_uno": [
+      {
+        "name": "Serge Demeyer",
+        "affiliation": "University of Antwerp",
+        "website": "http://win.ua.ac.be/~sdemey/",
+        "img": "img/steering/SergeDemeyer.png"
+      },
+      {
+        "name": "Bram Adams",
+        "affiliation": "École Polytechnique de Montréal",
+        "website": "http://mcis.polymtl.ca/bram.html",
+        "img": "img/steering/BramAdams.png"
+      },
+      {
+        "name": "Elliot Chikofsky",
+        "affiliation": "PathBridge",
+        "website": "http://pathbridge.net/chikofsky/",
+        "img": "img/steering/ElliotChikofsky.png"
+      },
+      {
+        "name": "Foutse Khomh",
+        "affiliation": "Ecole Polytechnique de Montréal",
+        "website": "http://www.khomh.net",
+        "img": "img/steering/foutse.jpg"
+      }
+    ],
+    "parte_due": [
+      {
+        "name": "Hausi Müller",
+        "affiliation": "University of Victoria",
+        "website": "http://webhome.cs.uvic.ca/~hausi/",
+        "img": "img/steering/HausiMuller.png"
+      },
+      {
+        "name": "Martin Pinzger",
+        "affiliation": "Alpen-Adria Universität Klagenfurt",
+        "website": "http://serg.aau.at/bin/view/MartinPinzger/WebHome",
+        "img": "img/steering/martin.png"
+      },
+      {
+        "name": "Yann-Gaël Guéhéneuc",
+        "affiliation": "École Polytechnique de Montréal",
+        "website": "http://www.yann-gael.gueheneuc.net/Work/Info/",
+        "img": "img/steering/YannGaelGueheneuc.png"
+      },
+      {
+        "name": "Yasutaka Kamei",
+        "affiliation": "Kyushu University",
+        "website": "http://posl.ait.kyushu-u.ac.jp/~kamei/",
+        "img": "img/steering/yasutaka.png"
+      }
+    ]
+  }
 }
