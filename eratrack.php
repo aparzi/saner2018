@@ -68,10 +68,12 @@ require_once ('./utils/breadcrumb.php');
                 <p style="text-align: justify;">
                     The topics of interest for the ERA track are the same as the main research track and concern all the topics in the research and practice of software analysis, evolution, and reengineering.
                 </p>
+                <br>
                 <strong>Evaluation Criteria</strong>
                 <p style="text-align: justify; margin-top: 15px;">
                     Submissions will be evaluated on the basis of their originality, potential impact, technical soundness, evaluation, quality of presentation, and appropriate comparison to related work. Emphasis will be put on the originality and timeliness of the proposed contribution; a full evaluation of the proposed ideas is not required.
                 </p>
+                <br>
                 <p style="text-align: justify;">
                 <strong>Submission instructions</strong>
                 <ul>
@@ -80,10 +82,8 @@ require_once ('./utils/breadcrumb.php');
                     <li>Papers must be submitted electronically in PDF format via the SANER 2018 EasyChair submission site</li>
                 </ul>
                 </p>
-                <br>
-                <strong>Important note: SANER 2018 follows a full double-blind review process.​ For details see the Instructions for Authors.</strong>
                 <p style="text-align: justify; margin-top: 15px;">
-                    Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review.
+                    <strong>Important note: SANER 2018 follows a full double-blind review process.​ For details see the Instructions for Authors.</strong> Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review.
                 </p>
                 <p style="text-align: justify;">
                     Papers submitted to the ERA must not have been previously accepted for publication or submitted for review to another publication venue.

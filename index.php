@@ -167,24 +167,20 @@
                             <div id="date1" style="display: block;">
                                 <p style="width:100%; text-align: center;"><b>Research Track</b></p>
                                 <p>
-                                    <ul>
-                                        <li style="list-style: none;">Abstract: October 20, 2017 AoE</li>
-                                        <li style="list-style: none;">Paper: October 27, 2017 AoE</li>
-                                        <li style="list-style: none;">Notifications: December 17, 2017</li>
-                                        <li style="list-style: none;">Camera Ready: January 15, 2018</li>
-                                    </ul>
+                                    <li style="list-style: none;">Abstract: October 20, 2017 AoE</li>
+                                    <li style="list-style: none;">Paper: October 27, 2017 AoE</li>
+                                    <li style="list-style: none;">Notifications: December 17, 2017</li>
+                                    <li style="list-style: none;">Camera Ready: January 15, 2018</li>
                                     <!-- <span style="float:right;">Thursday, March 30, 2017</span> -->
                                 </p>
                             </div>
                             <div id="date2" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>ERA Track</b></p>
                                 <p>
-                                <ul>
                                     <li style="list-style: none;">Abstract: January 5, 2018 AoE</li>
                                     <li style="list-style: none;">Paper: January 12, 2018 AoE</li>
                                     <li style="list-style: none;">Notifications: February 9, 2018</li>
                                     <li style="list-style: none;">Camera Ready: February 22, 2018</li>
-                                </ul>
                                 </p>
                             </div>
                             <div id="date3" style="display: none;">
@@ -196,8 +192,11 @@
                                 <p>They will be announced asap. Stay tuned!<!-- <span style="float:right;">Thursday, March 30, 2017</span> --></p>
                             </div>
                             <div id="date5" style="display: none;">
-                                <p style="width:100%; text-align: center;"><b>Workshop proposal</b></p>
-                                <p>They will be announced asap. Stay tuned!<!-- <span style="float:right;">Thursday, March 30, 2017</span> --></p>
+                                <p style="width:100%; text-align: center;"><b>Workshop Proposals</b></p>
+                                <p>
+                                    <li style="list-style: none;">Proposal: September 30, 2017 AoE</li>
+                                    <li style="list-style: none;">Notifications: October 9, 2017</li>
+                                </p>
                             </div>
                             <div id="date6" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>Negative Results in SANER</b></p>

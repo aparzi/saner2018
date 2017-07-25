@@ -34,7 +34,7 @@
                                 <li><a href="#">Tool Track</a></li>
                                 <li><a href="#">Industrial Track</a></li>
                                 <li><a href="#">Negative Results</a></li>
-                                <li><a href="#">Workshop Track</a></li>
+                                <li><a href="workshoproposals.php?p=Workshop Proposals">Workshop Proposals</a></li>
                             </ul>
                         </li>
                         <!-- /Call For Papers -->
