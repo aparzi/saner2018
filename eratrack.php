@@ -75,7 +75,7 @@ require_once ('./utils/breadcrumb.php');
                 </p>
                 <br>
                 <p style="text-align: justify;">
-                <strong>Submission instructions</strong>
+                <strong>Submission Instructions</strong>
                 <ul>
                     <li>Papers must not exceed five pages (including all text, figures, references, and appendices)</li>
                     <li>Papers must conform to the IEEE proceedings paper format guidelines</li>
@@ -83,7 +83,7 @@ require_once ('./utils/breadcrumb.php');
                 </ul>
                 </p>
                 <p style="text-align: justify; margin-top: 15px;">
-                    <strong>Important note: SANER 2018 follows a full double-blind review process.​ For details see the Instructions for Authors.</strong> Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review.
+                    <strong>Important note: SANER 2018 follows a full double-blind review process.​</strong> Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review.
                 </p>
                 <p style="text-align: justify;">
                     Papers submitted to the ERA must not have been previously accepted for publication or submitted for review to another publication venue.

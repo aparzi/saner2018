@@ -87,7 +87,7 @@ require_once ('./utils/breadcrumb.php');
                 Submissions will be evaluated by at least three program committee members. The evaluation will focus on the novelty, originality, importance to the field, proper use of research methods, and presentation of the submissions. We strongly encourage authors to make available all data and software they use in their work, in order to allow for verification and replication of their results.
                 </p>
                 <br>
-                <strong>Submission instructions</strong>
+                <strong>Submission Instructions</strong>
                 <p style="text-align: justify; margin-top: 15px;">
                 Submitted papers must have been neither previously accepted for publication nor concurrently submitted for review in another journal, book, conference, or workshop.
                 </p>
