@@ -243,13 +243,13 @@ require_once('./utils/breadcrumb.php');
                                 <div class="row">
                                     <div class="col-md-6">
                                         <a href="http://www.ieee.org" target="_blank">
-                                            <img src="http://saner.aau.at/wp-content/uploads/2015/11/IEEELogo-300x225.png"
+                                            <img src="img/sponsored/ieee.png"
                                                  alt="IEEELogo" width="198" height="148">
                                         </a>
                                     </div>
                                     <div class="col-md-6">
                                         <a href="http://www.cs-tcse.org" target="_blank">
-                                            <img src="http://saner.aau.at/wp-content/uploads/2015/11/TCSE-300x225.png"
+                                            <img src="img/sponsored/tcse.png"
                                                  alt="TCSE" width="206" height="154">
                                         </a>
                                     </div>
@@ -263,7 +263,7 @@ require_once('./utils/breadcrumb.php');
                                 <div class="row">
                                     <div class="col-md-6">
                                         <a href="http://www.computer.org" target="_blank">
-                                            <img src="http://saner.aau.at/wp-content/uploads/2015/11/IEEE-CS-Logo-300x225.png"
+                                            <img src="img/sponsored/ieee2.png"
                                                  alt="IEEE-CS-Logo" width="208" height="156">
                                         </a>
                                     </div>
