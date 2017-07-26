@@ -2133,3 +2133,14 @@ section#what-we-do{
     z-index: 99999; 
     border: 0;
 }
+
+div.sponsor-supported {
+    text-align: center;
+}
+
+div.sponsor-supported > img {
+    position: relative;
+    top: -53px;
+    background:white;
+    padding:0 5px;
+}
