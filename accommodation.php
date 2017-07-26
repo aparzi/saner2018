@@ -67,7 +67,7 @@
                         </p>
                         <h6 style="padding-top: 5px;"><u>Walking distances:</u></h6>
                         <ul style="padding: 0; margin-top: 10px;">
-                            <li style="list-style-type: none;"><span class="fa fa-dollar" style="padding-left: 3px;"><span style="padding-left: 2px;">&nbsp; Single room: ~65 Eurosper night</span></span></li>
+                            <li style="list-style-type: none;"><span class="fa fa-dollar" style="padding-left: 3px;"><span style="padding-left: 2px;">&nbsp; Single room: ~65 Euros per night</span></span></li>
                             <li style="list-style-type: none;"><span class="fa"><img src="img/icon/train.png" style="width: 16px;"/><span style="padding-left: 6px;">3 minutes from the train station</span></span></li>
                             <li style="list-style-type: none;"><span class="fa fa-bus" style="padding-left: 1px;">&nbsp; 5 minutes from the bus terminal</span></li>
                             <li style="list-style-type: none;"><span class="fa fa-university"> 10 minutes from the conference venue</span></li>
@@ -81,7 +81,7 @@
                         </p>
                         <h6 style="padding-top: 5px;"><u>Walking distances:</u></h6>
                         <ul style="padding: 0; margin-top: 10px;">
-                            <li style="list-style-type: none;"><i class="fa fa-dollar">&nbsp; Single room: ~70 Eurosper night</i></li>
+                            <li style="list-style-type: none;"><i class="fa fa-dollar">&nbsp; Single room: ~70 Euros per night</i></li>
                             <li style="list-style-type: none;"><span class="fa"><img src="img/icon/train.png" style="width: 16px;"/><span style="padding-left: 6px;">10 minutes from the train station</span></span></li>
                             <li style="list-style-type: none;"><span class="fa fa-bus" style="padding-left: 1px;">&nbsp; 20 minutes from the bus terminal</span></li>
                             <li style="list-style-type: none;"><span class="fa fa-university"> 20 minutes from the conference venue</span></li>
