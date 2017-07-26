@@ -185,7 +185,12 @@
                             </div>
                             <div id="date3" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>Tool Demo Track</b></p>
-                                <p>They will be announced asap. Stay tuned!<!-- <span style="float:right;">Thursday, March 30, 2017</span> --></p>
+                                <p>
+                                    <li style="list-style: none;">Abstract: January 5, 2018 AoE</li>
+                                    <li style="list-style: none;">Paper: January 12, 2018 AoE</li>
+                                    <li style="list-style: none;">Notifications: February 16, 2018</li>
+                                    <li style="list-style: none;">Camera Ready: February 22, 2018</li>
+                                </p>
                             </div>
                             <div id="date4" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>Industrial Track</b></p>
