@@ -23,7 +23,7 @@
                         <!-- Call For Papers -->
                         <li
                             <?php
-                            if ((basename($_SERVER['PHP_SELF']) == 'restrack.php.php') || (basename($_SERVER['PHP_SELF']) == 'eratrack.php') || (basename($_SERVER['PHP_SELF']) == 'tooltrack.php')) {
+                            if ((basename($_SERVER['PHP_SELF']) == 'restrack.php') || (basename($_SERVER['PHP_SELF']) == 'eratrack.php') || (basename($_SERVER['PHP_SELF']) == 'tooltrack.php') || (basename($_SERVER['PHP_SELF']) == 'industrialtrack.php') || (basename($_SERVER['PHP_SELF']) == 'negativerestrack.php') || (basename($_SERVER['PHP_SELF']) == 'workshoproposals.php')) {
                                 echo 'class = "zm-active"';
                             }
                             ?>
@@ -33,7 +33,7 @@
                                 <li><a href="eratrack.php?p=ERA Track">ERA Track</a></li>
                                 <li><a href="tooltrack.php?p=Tool Track">Tool Track</a></li>
                                 <li><a href="industrialtrack.php?p=Industrial Track">Industrial Track</a></li>
-                                <li><a href="negativerestrack.php?p=Negative Results">Negative Results</a></li>
+                                <li><a href="negativerestrack.php">RENE Track</a></li>
                                 <li><a href="workshoproposals.php?p=Workshop Proposals">Workshop Proposals</a></li>
                             </ul>
                         </li>

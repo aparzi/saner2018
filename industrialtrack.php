@@ -60,7 +60,38 @@ require_once ('./utils/breadcrumb.php');
         <div class="row">
             <div class="col-md-12">
                 <p style="text-align: justify;">
-                    The call for papers will be announced soon. Stay tuned!
+                    The 25th edition of the International Conference on Software Analysis, Evolution, and Reengineering (SANER’18) will feature an Industry track. The aim of this track is to bring together practitioners and researchers for an exchange of ideas, problems, and results. It provides a platform for people in industry and academia to interact with one another. The papers in the Industry track follow the general topics specified in the SANER 2018 research track.
+                </p>
+                <p style="text-align: justify;">
+                    A good industry paper can present industrial practice and experience reports describing problems (and their solutions) encountered in real applications, describe the challenges involved in the knowledge transfer from academia to industry and vice-versa for real projects, and discuss a challenging problem currently occurring in industry, for which practitioners want feedback and-or inputs from the academic community. ICSE SEIP (International Conference on Software Engineering, Software Engineering in Practice) track will be a good reference to get an understanding of the expectations.
+                </p>
+                <p style="text-align: justify;">
+                    Upon notification of acceptance, all authors of accepted papers will be asked to complete an IEEE Copyright form and will receive further instructions for preparing their camera ready versions. At least one author of each paper is expected to present the results at the SANER 2018 conference. All accepted contributions will be published in the conference electronic proceedings.
+                </p>
+                <br>
+                <strong>Evaluation Criteria</strong>
+                <p style="text-align: justify; margin-top: 15px;">
+                    Submissions will be reviewed by at least two members of the Program Committee of the Industry Track, and they will be evaluated on the basis of industry relevance, originality, soundness, empirical and-or practical validation, quality and consistency of presentation.
+                </p>
+                <p style="text-align: justify; margin-top: 15px;">
+                <strong>Important note:</strong> SANER 2018 follows a full double-blind review process.​ Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review.
+                </p>
+                <br>
+                <strong>Submission Instructions</strong>
+                <p style="text-align: justify; margin-top: 15px;">
+                    Submissions should be at most 5 pages (including all text, references, appendices, and figures) and conform to the <a href="http://www.ieee.org/conferences_events/conferences/publishing/templates.html" target="_blank">IEEE proceedings style</a> (i.e., the same used from the main SANER conference). All submissions have to be written exclusively in English. Submissions must not have been previously published or concurrently submitted elsewhere.
+                </p>
+                Papers must be submitted in PDF format electronically through <a href="https://easychair.org/account/signin.cgi?key=58183033.vkD3cHvYitAAdS9P" target="_blank">Easy Chair</a>.
+                <p style="text-align: justify;">
+                    <br>
+                    <strong>Important Dates</strong>
+                <ul>
+                    <li>Abstract Submission deadline: January 5, 2018 AoE</li>
+                    <li>Paper Submission deadline: January 12, 2018 AoE</li>
+                    <li>Notification: February 9, 2018</li>
+                    <li>Camera Ready: February 22, 2018</li>
+                </ul>
+
                 </p>
 
             </div>
