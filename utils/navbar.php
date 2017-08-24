@@ -30,7 +30,7 @@
                         ><a>Call For Papers <span class="caret"></span></a>
                             <ul class="w-200">
                                 <li><a href="restrack.php?p=Research Track">Research Track</a></li>
-                                <li><a href="eratrack.php?p=ERA Track">ERA Track</a></li>
+                                <li><a href="eratrack.php">ERA Track</a></li>
                                 <li><a href="tooltrack.php?p=Tool Track">Tool Track</a></li>
                                 <li><a href="industrialtrack.php?p=Industrial Track">Industrial Track</a></li>
                                 <li><a href="negativerestrack.php">RENE Track</a></li>

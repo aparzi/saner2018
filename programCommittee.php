@@ -80,7 +80,7 @@ require_once('./utils/breadcrumb.php');
                 ?>
                 </div>
                 <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
-                    <h3>ERA Track</h3>
+                    <h3>Early Research Achievement Track</h3>
                     <hr class="lineHr">
                 </div>
                 <div class="row">
@@ -101,7 +101,7 @@ require_once('./utils/breadcrumb.php');
                     <h5>TBA</h5>
                 </div>
                 <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
-                    <h3>Negative results in Software Analysis, Evolution, and Reegineering Track</h3>
+                    <h3>REproducibility Studies and NEgative Results Track</h3>
                     <hr class="lineHr">
                 </div>
                 <div class="row">

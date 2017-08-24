@@ -49,9 +49,16 @@ require_once ('./utils/navbar.php');
 ?>
 
 <!-- Breadcrumbs -->
-<?php
-require_once ('./utils/breadcrumb.php');
-?>
+<div class="breadcrumbs section-parallax parallaxBg" style="background-image: url(img/venue/university/universita1.png);">
+    <div class="layer"></div>
+    <div class="container parallax-content">
+        <h3 class="pull-left">Early Research Achievement Track</h3>
+        <ul class="pull-right breadcrumb">
+            <li><a href="index.php">Home</a></li>
+            <li class="active">ERA Track</li>
+        </ul>
+    </div>
+</div>
 <!-- end Breadcrumbs -->
 
 <!-- what-we-do -->

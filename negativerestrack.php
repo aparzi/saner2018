@@ -119,6 +119,7 @@ require_once ('./utils/navbar.php');
                     <li>Paper submission deadline: January 12, 2018 AoE</li>
                     <li>Notifications: February 9, 2018</li>
                     <li>Camera Ready: February 22, 2018</li>
+                    <li>Submission Page: <a target="_blank" href="https://easychair.org/conferences/?conf=saner2018">https://easychair.org/conferences/?conf=saner2018</a></li>
                 </ul>
                 </p>
             </div>
