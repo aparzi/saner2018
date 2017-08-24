@@ -128,7 +128,7 @@ require_once ('./utils/breadcrumb.php');
         $json = json_decode($content, true);
         ?>
         <div class="row"> <?php
-            foreach ($json['commiteeMembers'] as $key => $value) {
+            foreach ($json['commiteeMembers']['researchTrack'] as $key => $value) {
                 ?>
                 <div class="col-md-4">
                     <?php if (!is_null($value['website'])) { ?>

@@ -122,6 +122,35 @@ require_once ('./utils/breadcrumb.php');
         </div>
     </div><!-- end of row -->
 </section>
+<section id="what-we-do">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <h3>Committee Members</h3>
+                <hr class="lineHr">
+            </div>
+        </div>
+        <?php
+        $content = file_get_contents('config/production.json');
+        $json = json_decode($content, true);
+        ?>
+        <div class="row"> <?php
+            foreach ($json['commiteeMembers']['tool_track'] as $key => $value) {
+                ?>
+                <div class="col-md-4">
+                    <?php if (!is_null($value['website'])) { ?>
+                        <a href="<?php echo $value['website'] ?>" target="_blank"><?php echo $value['name'] ?></a>
+                    <?php } else { ?>
+                        <a><?php echo $value['name'] ?></a>
+                    <?php } ?>
+                    <p><?php echo $value['affiliation'] ?></p>
+                </div>
+                <?php
+            }
+            ?>
+        </div>
+    </div>
+</section>
 
 <!-- footer -->
 <?php require_once ('./utils/footer.php') ?>

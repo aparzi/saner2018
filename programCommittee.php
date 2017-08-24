@@ -65,11 +65,12 @@ require_once('./utils/breadcrumb.php');
                 $json = json_decode($content, true);
                 ?>
                 <div class="row"> <?php
-                    foreach ($json['commiteeMembers'] as $key => $value) {
+                    foreach ($json['commiteeMembers']['researchTrack'] as $key => $value) {
                         ?>
                         <div class="col-md-4">
                             <?php if (!is_null($value['website'])) { ?>
-                                <a href="<?php echo $value['website'] ?>" target="_blank"><?php echo $value['name'] ?></a>
+                                <a href="<?php echo $value['website'] ?>"
+                                   target="_blank"><?php echo $value['name'] ?></a>
                             <?php } else { ?>
                                 <a><?php echo $value['name'] ?></a>
                             <?php } ?>
@@ -77,28 +78,79 @@ require_once('./utils/breadcrumb.php');
                         </div>
                         <?php
                     }
-                ?>
+                    ?>
                 </div>
                 <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
                     <h3>Early Research Achievement Track</h3>
                     <hr class="lineHr">
                 </div>
-                <div class="row">
-                    <h5>TBA</h5>
+                <?php
+                $content = file_get_contents('config/production.json');
+                $json = json_decode($content, true);
+                ?>
+                <div class="row"> <?php
+                    foreach ($json['commiteeMembers']['era_track'] as $key => $value) {
+                        ?>
+                        <div class="col-md-4">
+                            <?php if (!is_null($value['website'])) { ?>
+                                <a href="<?php echo $value['website'] ?>"
+                                   target="_blank"><?php echo $value['name'] ?></a>
+                            <?php } else { ?>
+                                <a><?php echo $value['name'] ?></a>
+                            <?php } ?>
+                            <p><?php echo $value['affiliation'] ?></p>
+                        </div>
+                        <?php
+                    }
+                    ?>
                 </div>
                 <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
                     <h3>Tool Demo Track</h3>
                     <hr class="lineHr">
                 </div>
-                <div class="row">
-                    <h5>TBA</h5>
+                <?php
+                $content = file_get_contents('config/production.json');
+                $json = json_decode($content, true);
+                ?>
+                <div class="row"> <?php
+                    foreach ($json['commiteeMembers']['tool_track'] as $key => $value) {
+                        ?>
+                        <div class="col-md-4">
+                            <?php if (!is_null($value['website'])) { ?>
+                                <a href="<?php echo $value['website'] ?>"
+                                   target="_blank"><?php echo $value['name'] ?></a>
+                            <?php } else { ?>
+                                <a><?php echo $value['name'] ?></a>
+                            <?php } ?>
+                            <p><?php echo $value['affiliation'] ?></p>
+                        </div>
+                        <?php
+                    }
+                    ?>
                 </div>
                 <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
                     <h3>Industrial Track</h3>
                     <hr class="lineHr">
                 </div>
-                <div class="row">
-                    <h5>TBA</h5>
+                <?php
+                $content = file_get_contents('config/production.json');
+                $json = json_decode($content, true);
+                ?>
+                <div class="row"> <?php
+                    foreach ($json['commiteeMembers']['industry_track'] as $key => $value) {
+                        ?>
+                        <div class="col-md-4">
+                            <?php if (!is_null($value['website'])) { ?>
+                                <a href="<?php echo $value['website'] ?>"
+                                   target="_blank"><?php echo $value['name'] ?></a>
+                            <?php } else { ?>
+                                <a><?php echo $value['name'] ?></a>
+                            <?php } ?>
+                            <p><?php echo $value['affiliation'] ?></p>
+                        </div>
+                        <?php
+                    }
+                    ?>
                 </div>
                 <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
                     <h3>REproducibility Studies and NEgative Results Track</h3>
