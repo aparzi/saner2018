@@ -23,7 +23,7 @@
                         <!-- Call For Papers -->
                         <li
                             <?php
-                            if ((basename($_SERVER['PHP_SELF']) == 'restrack.php') || (basename($_SERVER['PHP_SELF']) == 'eratrack.php') || (basename($_SERVER['PHP_SELF']) == 'tooltrack.php') || (basename($_SERVER['PHP_SELF']) == 'industrialtrack.php') || (basename($_SERVER['PHP_SELF']) == 'negativerestrack.php') || (basename($_SERVER['PHP_SELF']) == 'workshoproposals.php')) {
+                            if ((basename($_SERVER['PHP_SELF']) == 'restrack.php') || (basename($_SERVER['PHP_SELF']) == 'eratrack.php') || (basename($_SERVER['PHP_SELF']) == 'tooltrack.php') || (basename($_SERVER['PHP_SELF']) == 'industrialtrack.php') || (basename($_SERVER['PHP_SELF']) == 'negativerestrack.php') || (basename($_SERVER['PHP_SELF']) == 'workshoproposals.php') || (basename($_SERVER['PHP_SELF']) == 'journalFirstTrack.php')) {
                                 echo 'class = "zm-active"';
                             }
                             ?>
