@@ -24,7 +24,7 @@
         <!-- Animation -->
         <link rel="stylesheet" href="css/animate.css" />
         <!-- Customizable CSS -->
-        <link rel="stylesheet" href="css/style.css" />
+        <link rel="stylesheet" href="css/home.css" />
 
         <!-- FONTS -->
         <link href='http://fonts.googleapis.com/css?family=Lato:300,400,700,900' rel='stylesheet' type='text/css'>
