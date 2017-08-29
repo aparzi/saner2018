@@ -217,6 +217,15 @@
                                 <li style="list-style: none;">Camera Ready: February 22, 2018</li>
                                 </p>
                             </div>
+                            <div id="date7" style="display: none;">
+                                <p style="width:100%; text-align: center;"><b>Journal First Track</b></p>
+                                <p>TBA
+                                <!--<li style="list-style: none;">Abstract: January 5, 2018 AoE</li>
+                                <li style="list-style: none;">Paper: January 12, 2018 AoE</li>
+                                <li style="list-style: none;">Notifications: February 9, 2018</li>
+                                <li style="list-style: none;">Camera Ready: February 22, 2018</li>-->
+                                </p>
+                            </div>
                             <ul class="pager" style="margin-top: 5px; margin-bottom: 0px;">
                                 <li class="previous">
                                     <a onclick="previous()" style="border-radius: 4px; cursor: pointer;">
@@ -233,6 +242,7 @@
                     </div>
                 </div>
             </div><!-- end of row -->
+
         </section>
 
         <!-- footer -->

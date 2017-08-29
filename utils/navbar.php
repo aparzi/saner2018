@@ -34,6 +34,7 @@
                                 <li><a href="tooltrack.php?p=Tool Track">Tool Track</a></li>
                                 <li><a href="industrialtrack.php?p=Industrial Track">Industrial Track</a></li>
                                 <li><a href="negativerestrack.php">RENE Track</a></li>
+                                <li><a href="journalFirstTrack.php?p=Journal First Track">Journal First Track</a></li>
                                 <li><a href="workshoproposals.php?p=Workshop Proposals">Workshop Proposals</a></li>
                             </ul>
                         </li>
