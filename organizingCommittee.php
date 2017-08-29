@@ -227,7 +227,7 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
-                            <h3>Negative results in Software Analysis, Evolution, and Reegineering</h3>
+                            <h3>REproducibility Studies and NEgative Results (RENE) Track co-Chairs</h3>
                             <hr class="lineHr">
                         </div>
                         <table class="table" style="width: 100%; margin-top: -4em;">
@@ -260,6 +260,33 @@
                                         </div>
                                     </td>
                                 </tr>
+                            </tbody>
+                        </table>
+                        <div class="top-description-text" style="text-align: left;">
+                            <h3>Journal First Chair</h3>
+                            <hr class="lineHr">
+                        </div>
+                        <table class="table" style="width: 100%; margin-top: -4em;">
+                            <tbody style="text-align: center;">
+                            <tr>
+                                <td style="border: none; text-align: left;">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-2">
+                                                <img class="img-circle" src="img/team/juliarubin.png" alt="Julia Rubin" />
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="team-date padd">
+                                                    <br />
+                                                    <h6><a target="_blank" href="https://people.csail.mit.edu/mjulia/">Julia Rubin</a></h6>
+                                                    <p>University of British Columbia <br /> Canada</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                </td>
+                            </tr>
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
