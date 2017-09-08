@@ -1,5 +1,6 @@
 <?php
 $page = $_GET['p'];
+$page = str_replace('_', ' ', $page);
 ?>
 <div class="breadcrumbs section-parallax parallaxBg" style="background-image: url(img/venue/university/universita1.png);">
     <div class="layer"></div>

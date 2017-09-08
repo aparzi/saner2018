@@ -29,19 +29,19 @@
                             ?>
                         ><a>Call For Papers <span class="caret"></span></a>
                             <ul class="w-200">
-                                <li><a href="restrack.php?p=Research Track">Research Track</a></li>
+                                <li><a href="restrack.php">Research Track</a></li>
                                 <li><a href="eratrack.php">ERA Track</a></li>
-                                <li><a href="tooltrack.php?p=Tool Track">Tool Track</a></li>
-                                <li><a href="industrialtrack.php?p=Industrial Track">Industrial Track</a></li>
+                                <li><a href="tooltrack.php">Tool Track</a></li>
+                                <li><a href="industrialtrack.php">Industrial Track</a></li>
                                 <li><a href="negativerestrack.php">RENE Track</a></li>
-                                <li><a href="journalFirstTrack.php?p=Journal First Track">Journal First Track</a></li>
-                                <li><a href="workshoproposals.php?p=Workshop Proposals">Workshop Proposals</a></li>
+                                <li><a href="journalFirstTrack.php">Journal First Track</a></li>
+                                <li><a href="workshoproposals.php">Workshop Proposals</a></li>
                             </ul>
                         </li>
                         <!-- /Call For Papers -->
                         <!-- Venue -->
                         <li <?php if (basename($_SERVER['PHP_SELF']) == 'venue.php') echo 'class = "zm-active"'?>>
-                            <a href="venue.php?p=venue">Venue</a>
+                            <a href="venue.php">Venue</a>
                         </li>
                         <!-- /Venue -->
                         <!-- Travel Information -->
@@ -53,15 +53,15 @@
                           ?>
                         ><a>Travel Information <span class="caret"></span></a>
                             <ul class="w-200">
-                                <li><a href="accommodation.php?p=accommodation">Accommodation</a></li>
-                                <li><a href="travelOpportunities.php?p=travel Opportunities">Travel Opportunities</a></li>
-                                <li><a href="visaInformation.php?p=visa Information">Visa Information</a></li>
+                                <li><a href="accommodation.php">Accommodation</a></li>
+                                <li><a href="travelOpportunities.php">Travel Opportunities</a></li>
+                                <li><a href="visaInformation.php">Visa Information</a></li>
                             </ul>
                         </li>
                         <!-- /Travel Information -->
                         <!-- Supporters start -->
                         <li <?php if (basename($_SERVER['PHP_SELF']) == 'supporters.php') echo 'class = "zm-active"'?>>
-                            <a href="supporters.php?p=supporters">Supporters</a>
+                            <a href="supporters.php">Supporters</a>
                         </li>
                         <!-- Supporters end -->
                         <!-- Organization -->
@@ -73,9 +73,9 @@
                         ?>
                         ><a>Organization <span class="caret"></span></a>
                           <ul class="w-200">
-                              <li><a href="organizingCommittee.php?p=organizing Committee">Organizing Committee</a></li>
-                              <li><a href="programCommittee.php?p=program Committee">Program Committee</a></li>
-                              <li><a href="steeringCommittee.php?p=steering Committee">Steering Committee</a></li>
+                              <li><a href="organizingCommittee.php">Organizing Committee</a></li>
+                              <li><a href="programCommittee.php">Program Committee</a></li>
+                              <li><a href="steeringCommittee.php">Steering Committee</a></li>
                           </ul>
                         </li>
                         <!-- Organization end -->
