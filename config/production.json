@@ -18,7 +18,7 @@
       },
       {
         "name": "Gabriele Bavota",
-        "affiliation": "Universit&agrave della Svizzera Italiana, Switzerland",
+        "affiliation": "Software Institute, Universit&agrave della Svizzera italiana, Switzerland",
         "website": "http://www.inf.usi.ch/faculty/bavota/"
       },
       {
@@ -173,7 +173,7 @@
       },
       {
         "name": "Andrea Mocci",
-        "affiliation": "Università della Svizzera Italiana, Switzerland",
+        "affiliation": "Software Institute, Università della Svizzera italiana, Switzerland",
         "website": "http://www.inf.usi.ch/postdoc/mocci/"
       },
       {
@@ -346,6 +346,11 @@
     ],
     "tool_track": [
       {
+        "name": "Jairo Aponte",
+        "affiliation": "Universidad Nacional de Colombia, Colombia",
+        "website": "http://www.docentes.unal.edu.co/jhapontem/"
+      },
+      {
         "name": "Coen De Roover",
         "affiliation": "Vrije Universiteit Brussel, Belgium",
         "website": "http://soft.vub.ac.be/~cderoove/"
@@ -367,13 +372,23 @@
       },
       {
         "name": "Sebastian Proksch",
-        "affiliation": "TU Darmstadt, Germany",
-        "website": "http://www.stg.tu-darmstadt.de/staff/sebastian_proksch/index.en.jsp"
+        "affiliation": "University of Zurich, Switzerland",
+        "website": "http://proks.ch"
+      },
+      {
+        "name": "Gregorio Robles",
+        "affiliation": "Universidad Rey Juan Carlos, Spain",
+        "website": "https://gsyc.urjc.es/~grex/"
       },
       {
         "name": "Simone Scalabrino",
         "affiliation": "University of Molise, Italy",
         "website": "http://dibt.unimol.it/staff/sscalabrino"
+      },
+      {
+        "name": "Bonita Sharif",
+        "affiliation": "Youngstown State University, USA",
+        "website": "http://www.csis.ysu.edu/~bsharif/"
       },
       {
         "name": "Christopher Vendome",

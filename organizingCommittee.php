@@ -181,7 +181,7 @@
                                                     <div class="team-date padd">
                                                         <br />
                                                         <h6><a target="_blank" href="http://www.inf.usi.ch/phd/ponzanelli/">Luca Ponzanelli</a></h6>
-                                                        <p>University of Lugano <br /> Switzerland</p>
+                                                        <p>Software Institute, Universit&agrave; della Svizzera italiana<br /> Switzerland</p>
                                                     </div>
                                                 </div>
                                             </div>
@@ -480,7 +480,7 @@
                                                     <div class="team-date padd">
                                                         <br />
                                                         <h6><a href="http://www.inf.usi.ch/faculty/bavota/" target="_blank">Gabriele Bavota</a></h6>
-                                                        <p>University of Lugano<br />Switzerland</p>
+                                                        <p>Software Institute, Universit&agrave; della Svizzera italiana<br />Switzerland</p>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
