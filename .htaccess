@@ -1,0 +1,20 @@
+RewriteEngine on
+RewriteRule ^index.php$ index.php [L]
+RewriteRule ^venue.php$ venue.php?p=venue [L]
+RewriteRule ^supporters.php$ supporters.php?p=supporters [L]
+### CALL FOR PAPERS ###
+RewriteRule ^restrack.php$ restrack.php?p=Research_Track [L]
+RewriteRule ^eratrack.php$ eratrack.php [L]
+RewriteRule ^tooltrack.php$ tooltrack.php?p=Tool_Track [L]
+RewriteRule ^industrialtrack.php$ industrialtrack.php?p=Industrial_Track [L]
+RewriteRule ^negativerestrack.php$ negativerestrack.php [L]
+RewriteRule ^journalFirstTrack.php$ journalFirstTrack.php?p=Journal_First_Track [L]
+RewriteRule ^workshoproposals.php$ workshoproposals.php?p=Workshop_Proposals [L]
+### TRAVEL INFORMATION ###
+RewriteRule ^accommodation.php$ accommodation.php?p=accommodation [L]
+RewriteRule ^travelOpportunities.php$ travelOpportunities.php?p=travel_Opportunities [L]
+RewriteRule ^visaInformation.php$ visaInformation.php?p=visa_Information [L]
+### ORGANIZATION ###
+RewriteRule ^organizingCommittee.php$ organizingCommittee.php?p=organizing_Committee [L]
+RewriteRule ^programCommittee.php$ programCommittee.php?p=program_Committee [L]
+RewriteRule ^steeringCommittee.php$ steeringCommittee.php?p=steering_Committee [L]
