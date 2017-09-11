@@ -1,3 +1,6 @@
+<!--
+LE COSTANTI FACEBOOK E LINKEDIN SONO STATE DEFINITE NELL' HEADER TOP BAR
+-->
 <footer id="footer" class="dark">
     <div class="container footer" style="width: 100%; padding-left: 50px; padding-right: 50px;">
         <div class="row">
@@ -26,13 +29,13 @@
                     </p>
                 </address>
 
-                <a href="#" class="social-icon-jump-x4 rounded">
+                <a href="<?php echo FACEBOOK; ?>" target="_blank" class="social-icon-jump-x4 rounded">
                     <div>
                         <i class="fa fa-facebook facebook-icon-jump"></i>
                         <i class="fa fa-facebook social-icon-jump-dark"></i>
                     </div>
                 </a>
-                <a href="#" class="social-icon-jump-x4 rounded">
+                <a href="<?php echo LINKEDIN; ?>"  class="social-icon-jump-x4 rounded">
                     <div>
                         <i class="fa fa-twitter twitter-icon-jump"></i>
                         <i class="fa fa-twitter social-icon-jump-dark"></i>
