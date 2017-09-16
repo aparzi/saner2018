@@ -127,11 +127,12 @@ require_once ('./utils/navbar.php');
                 ?>
                 <div class="col-md-4">
                     <?php if (!is_null($value['website'])) { ?>
-                        <a href="<?php echo $value['website'] ?>" target="_blank"><?php echo $value['name'] ?></a>
+                        <a href="<?php echo $value['website'] ?>" target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Jens Krinke' || $value['name'] == 'Shane McIntosh') { echo ' <span style="font-size: 18px;">(co-Chair)</span>';} ?>
                     <?php } else { ?>
                         <a><?php echo $value['name'] ?></a>
                     <?php } ?>
-                    <p><?php echo $value['affiliation'] ?></p>
+                    <p style="margin: 0;"><?php echo $value['affiliation'] ?></p>
+                    <p><?php echo $value['nation'] ?></p>
                 </div>
                 <?php
             }
