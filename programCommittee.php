@@ -70,11 +70,12 @@ require_once('./utils/breadcrumb.php');
                         <div class="col-md-4">
                             <?php if (!is_null($value['website'])) { ?>
                                 <a href="<?php echo $value['website'] ?>"
-                                   target="_blank"><?php echo $value['name'] ?></a>
+                                   target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Massimiliano Di Penta' || $value['name'] == 'David C. Shepherd') { echo ' <span style="font-size: 18px;">(co-Chair)</span>';} ?>
                             <?php } else { ?>
                                 <a><?php echo $value['name'] ?></a>
                             <?php } ?>
-                            <p><?php echo $value['affiliation'] ?></p>
+                            <p style="margin: 0;"><?php echo $value['affiliation'] ?></p>
+                            <p><?php echo $value['nation'] ?></p>
                         </div>
                         <?php
                     }
@@ -94,11 +95,12 @@ require_once('./utils/breadcrumb.php');
                         <div class="col-md-4">
                             <?php if (!is_null($value['website'])) { ?>
                                 <a href="<?php echo $value['website'] ?>"
-                                   target="_blank"><?php echo $value['name'] ?></a>
+                                   target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Jens Krinke' || $value['name'] == 'Shane McIntosh') { echo ' <span style="font-size: 18px;">(co-Chair)</span>';} ?>
                             <?php } else { ?>
                                 <a><?php echo $value['name'] ?></a>
                             <?php } ?>
-                            <p><?php echo $value['affiliation'] ?></p>
+                            <p style="margin: 0;"><?php echo $value['affiliation'] ?></p>
+                            <p><?php echo $value['nation'] ?></p>
                         </div>
                         <?php
                     }
@@ -118,11 +120,12 @@ require_once('./utils/breadcrumb.php');
                         <div class="col-md-4">
                             <?php if (!is_null($value['website'])) { ?>
                                 <a href="<?php echo $value['website'] ?>"
-                                   target="_blank"><?php echo $value['name'] ?></a>
+                                   target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Mario Linares Vasquez' || $value['name'] == 'Luca Ponzanelli') { echo ' <span style="font-size: 18px;">(co-Chair)</span>';} ?>
                             <?php } else { ?>
                                 <a><?php echo $value['name'] ?></a>
                             <?php } ?>
-                            <p><?php echo $value['affiliation'] ?></p>
+                            <p style="margin: 0;"><?php echo $value['affiliation'] ?></p>
+                            <p><?php echo $value['nation'] ?></p>
                         </div>
                         <?php
                     }
@@ -142,11 +145,37 @@ require_once('./utils/breadcrumb.php');
                         <div class="col-md-4">
                             <?php if (!is_null($value['website'])) { ?>
                                 <a href="<?php echo $value['website'] ?>"
-                                   target="_blank"><?php echo $value['name'] ?></a>
+                                   target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Dongmei Zhang' || $value['name'] == 'Neha Rungta') { echo ' <span style="font-size: 18px;">(co-Chair)</span>';} ?>
                             <?php } else { ?>
                                 <a><?php echo $value['name'] ?></a>
                             <?php } ?>
-                            <p><?php echo $value['affiliation'] ?></p>
+                            <p style="margin: 0;"><?php echo $value['affiliation'] ?></p>
+                            <p><?php echo $value['nation'] ?></p>
+                        </div>
+                        <?php
+                    }
+                    ?>
+                </div>
+                <div class="top-description-text" style="text-align: left; margin-bottom: 0;">
+                    <h3>Journal First Track</h3>
+                    <hr class="lineHr">
+                </div>
+                <?php
+                $content = file_get_contents('config/production.json');
+                $json = json_decode($content, true);
+                ?>
+                <div class="row"> <?php
+                    foreach ($json['commiteeMembers']['journalTrack'] as $key => $value) {
+                        ?>
+                        <div class="col-md-4">
+                            <?php if (!is_null($value['website'])) { ?>
+                                <a href="<?php echo $value['website'] ?>"
+                                   target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Julia Rubin') { echo ' <span style="font-size: 18px;">(Chair)</span>';} ?>
+                            <?php } else { ?>
+                                <a><?php echo $value['name'] ?></a>
+                            <?php } ?>
+                            <p style="margin: 0;"><?php echo $value['affiliation'] ?></p>
+                            <p><?php echo $value['nation'] ?></p>
                         </div>
                         <?php
                     }

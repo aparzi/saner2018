@@ -155,9 +155,12 @@
                 <div class="col-md-3 col-md-offset-1 padd">
                     <div class="panel panel-danger" style="border-radius: 4px;">
                         <div class="panel-heading" style="text-align: center;"><h5 class="panel-title">Latest News</h5></div>
-                        <div class="panel panel-body">
+                        <div class="panel panel-body" style="padding-bottom: 0;">
                             <!--<strong>July 21, 2017:</strong> Call for papers and important dates are now available.
                             <br/>-->
+                            <strong>September 14, 2017:</strong> Proud to announce, not 2 but 3 eminent keynotes. <a href="keynotes" style="cursor: pointer;">Read more</a>.<br>
+                            <br>
+                            <strong>September 2, 2017:</strong> Tracks information is online.<br><br>
                             <strong>February 24, 2017:</strong>&nbsp; SANER web site online!
                         </div>
                     </div>
@@ -219,12 +222,9 @@
                             </div>
                             <div id="date7" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>Journal First Track</b></p>
-                                <p>TBA
-                                <!--<li style="list-style: none;">Abstract: January 5, 2018 AoE</li>
-                                <li style="list-style: none;">Paper: January 12, 2018 AoE</li>
-                                <li style="list-style: none;">Notifications: February 9, 2018</li>
-                                <li style="list-style: none;">Camera Ready: February 22, 2018</li>-->
-                                </p>
+                                <li style="list-style: none;">Submission: January 26, 2018, 23:59 AoE</li>
+                                <li style="list-style: none;">Notification: February 16, 2018</li>
+                                <li style="list-style: none;">Camera Ready: February 22, 2018</li>
                             </div>
                             <ul class="pager" style="margin-top: 5px; margin-bottom: 0px;">
                                 <li class="previous">
