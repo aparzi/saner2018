@@ -2144,3 +2144,26 @@ div.sponsor-supported > img {
     background:white;
     padding:0 5px;
 }
+
+.padd2 {
+    padding-top: 10px;
+}
+
+#iconBosh > i:hover,
+#iconElmar > i:hover,
+#iconPeter > i:hover {
+    opacity: 0.8;
+}
+
+#iconBosh > a > i:hover,
+#iconElmar > a > i:hover,
+#iconPeter > a > i:hover {
+    opacity: 0.8;
+}
+
+@media screen and (min-width: 768px) {
+    #bioBosh > .modal-dialog,
+    #abstractBosh > .modal-dialog {
+        width: 60%;
+    }
+}
