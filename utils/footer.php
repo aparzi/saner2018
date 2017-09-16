@@ -35,7 +35,7 @@ LE COSTANTI FACEBOOK E LINKEDIN SONO STATE DEFINITE NELL' HEADER TOP BAR
                         <i class="fa fa-facebook social-icon-jump-dark"></i>
                     </div>
                 </a>
-                <a href="<?php echo LINKEDIN; ?>"  class="social-icon-jump-x4 rounded">
+                <a href="<?php echo TWITTER; ?>" target="_blank"  class="social-icon-jump-x4 rounded">
                     <div>
                         <i class="fa fa-twitter twitter-icon-jump"></i>
                         <i class="fa fa-twitter social-icon-jump-dark"></i>

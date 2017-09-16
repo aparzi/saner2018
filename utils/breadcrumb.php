@@ -7,7 +7,7 @@ $page = str_replace('_', ' ', $page);
     <div class="container parallax-content">
         <h3 class="pull-left"><?php echo ucfirst($page); ?></h3>
         <ul class="pull-right breadcrumb">
-            <li><a href="index.php">Home</a></li>
+            <li><a href="index">Home</a></li>
             <li class="active"><?php echo ucfirst($page); ?></li>
         </ul>
     </div>

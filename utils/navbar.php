@@ -17,9 +17,22 @@
 
                         <!-- Home Menu -->
                         <li <?php if (basename($_SERVER['PHP_SELF']) == 'index.php') echo 'class = "zm-active"'?> >
-                            <a  href="index.php">Home</a>
+                            <a  href="index">Home</a>
                         </li>
                         <!-- /Home Menu -->
+                        <!-- Program Menu -->
+                        <li
+                            <?php
+                            if ((basename($_SERVER['PHP_SELF']) == 'keynote.php')) {
+                                echo 'id="key" class = "zm-active"';
+                            }
+                            ?>
+                        ><a>Program <span class="caret"></span></a>
+                            <ul class="w-200">
+                                <li><a href="keynotes">Keynotes</a></li>
+                            </ul>
+                        </li>
+                        <!-- /Program Menu -->
                         <!-- Call For Papers -->
                         <li
                             <?php
@@ -29,19 +42,19 @@
                             ?>
                         ><a>Call For Papers <span class="caret"></span></a>
                             <ul class="w-200">
-                                <li><a href="restrack.php">Research Track</a></li>
-                                <li><a href="eratrack.php">ERA Track</a></li>
-                                <li><a href="tooltrack.php">Tool Track</a></li>
-                                <li><a href="industrialtrack.php">Industrial Track</a></li>
-                                <li><a href="negativerestrack.php">RENE Track</a></li>
-                                <li><a href="journalFirstTrack.php">Journal First Track</a></li>
-                                <li><a href="workshoproposals.php">Workshop Proposals</a></li>
+                                <li><a href="restrack">Research Track</a></li>
+                                <li><a href="eratrack">ERA Track</a></li>
+                                <li><a href="tooltrack">Tool Track</a></li>
+                                <li><a href="industrialtrack">Industrial Track</a></li>
+                                <li><a href="negativerestrack">RENE Track</a></li>
+                                <li><a href="journalFirstTrack">Journal First Track</a></li>
+                                <li><a href="workshoproposals">Workshop Proposals</a></li>
                             </ul>
                         </li>
                         <!-- /Call For Papers -->
                         <!-- Venue -->
                         <li <?php if (basename($_SERVER['PHP_SELF']) == 'venue.php') echo 'class = "zm-active"'?>>
-                            <a href="venue.php">Venue</a>
+                            <a href="venue">Venue</a>
                         </li>
                         <!-- /Venue -->
                         <!-- Travel Information -->
@@ -53,15 +66,15 @@
                           ?>
                         ><a>Travel Information <span class="caret"></span></a>
                             <ul class="w-200">
-                                <li><a href="accommodation.php">Accommodation</a></li>
-                                <li><a href="travelOpportunities.php">Travel Opportunities</a></li>
-                                <li><a href="visaInformation.php">Visa Information</a></li>
+                                <li><a href="accommodation">Accommodation</a></li>
+                                <li><a href="travelOpportunities">Travel Opportunities</a></li>
+                                <li><a href="visaInformation">Visa Information</a></li>
                             </ul>
                         </li>
                         <!-- /Travel Information -->
                         <!-- Supporters start -->
                         <li <?php if (basename($_SERVER['PHP_SELF']) == 'supporters.php') echo 'class = "zm-active"'?>>
-                            <a href="supporters.php">Supporters</a>
+                            <a href="supporters">Supporters</a>
                         </li>
                         <!-- Supporters end -->
                         <!-- Organization -->
@@ -73,9 +86,9 @@
                         ?>
                         ><a>Organization <span class="caret"></span></a>
                           <ul class="w-200">
-                              <li><a href="organizingCommittee.php">Organizing Committee</a></li>
-                              <li><a href="programCommittee.php">Program Committee</a></li>
-                              <li><a href="steeringCommittee.php">Steering Committee</a></li>
+                              <li><a href="organizingCommittee">Organizing Committee</a></li>
+                              <li><a href="programCommittee">Program Committee</a></li>
+                              <li><a href="steeringCommittee">Steering Committee</a></li>
                           </ul>
                         </li>
                         <!-- Organization end -->
