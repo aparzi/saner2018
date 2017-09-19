@@ -115,7 +115,7 @@ require_once('./utils/breadcrumb.php');
                     <li>Submission: January 26, 2018, 23:59 AoE</li>
                     <li>Notification: February 16, 2018</li>
                     <li>Camera Ready: February 22, 2018</li>
-                    <li>Submission Page: <a href="https://easychair.org/conferences/?conf=saner2018" target="_blank">https://easychair.org/conferences/?conf=saner2018</a></li>
+                    <li>Submission Page: <a href="https://easychair.org/conferences/?conf=saner2018j1c2" target="_blank">https://easychair.org/conferences/?conf=saner2018j1c2</a></li>
                 </ul>
                 </p>
             </div>
