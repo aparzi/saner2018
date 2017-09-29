@@ -253,7 +253,7 @@
                                                     <div class="team-date padd">
                                                         <br />
                                                         <h6><a target="_blank" href="https://www.sei.cmu.edu/about/people/profile.cfm?id=ernst_16467">Neil Ernst</a></h6>
-                                                        <p>Carnegie Mellon University <br /> USA</p>
+                                                        <p>University of Victoria <br /> Canada</p>
                                                     </div>
                                                 </div>
                                             </div>
