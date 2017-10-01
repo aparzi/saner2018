@@ -370,6 +370,18 @@
         "website": "http://petertsehsun.github.io/"
       },
       {
+        "name": "Eleni Constantinou",
+        "affiliation": "University of Mons",
+        "nation": "Belgium",
+        "website": "http://www.econst.eu"
+      },
+      {
+        "name": "Thomas Durieux",
+        "affiliation": "INRIA",
+        "nation": "France",
+        "website": "https://durieux.me"
+      },
+      {
         "name": "Marco Gerosa",
         "affiliation": "Northern Arizona University",
         "nation": "USA",
@@ -400,10 +412,28 @@
         "website": null
       },
       {
-        "name": "José Carlos Ribeiro",
+        "name": "Tanja Mayerhofer",
+        "affiliation": "TU Vienna",
+        "nation": "Austria",
+        "website": "https://www.big.tuwien.ac.at/people/tmayerhofer/"
+      },
+      {
+        "name": "Christian Newman",
+        "affiliation": "Rochester Institute of Technology",
+        "nation": "USA",
+        "website": "https://www.rit.edu/gccis/christian-d-newman"
+      },
+      {
+        "name": "Jos&eacute Carlos Ribeiro",
         "affiliation": "Polytechnic Institute of Leiria",
         "nation": "Portugal",
         "website": null
+      },
+      {
+        "name": "Sandro Schulze",
+        "affiliation": "Otto-von-Guericke-University Magdeburg",
+        "nation": "Germany",
+        "website": "http://www.dbse.ovgu.de/Mitarbeiter/Sandro+Schulze.html"
       },
       {
         "name": "Yuan Tian",
