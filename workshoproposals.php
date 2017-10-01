@@ -89,7 +89,7 @@ require_once ('./utils/breadcrumb.php');
                     <br>
                     <strong>Important Dates</strong>
                 <ul>
-                    <li>Proposal submission deadline: September 30, 2017 AoE</li>
+                    <li>Proposal submission deadline: <del>September 30, 2017 AoE</del>&nbsp;October 5, 2017 AoE</li>
                     <li>Notifications: October 9, 2017</li>
                 </ul>
                 </p>

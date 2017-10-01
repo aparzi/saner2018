@@ -156,12 +156,11 @@
                     <div class="panel panel-danger" style="border-radius: 4px;">
                         <div class="panel-heading" style="text-align: center;"><h5 class="panel-title">Latest News</h5></div>
                         <div class="panel panel-body" style="padding-bottom: 0;">
-                            <!--<strong>July 21, 2017:</strong> Call for papers and important dates are now available.
-                            <br/>-->
+                            <strong>September 30, 2017:</strong> Deadline for workshop proposals extended to October 5, 2017 AoE<br><br>
                             <strong>September 14, 2017:</strong> Proud to announce, not 2 but 3 eminent keynotes. <a href="keynotes" style="cursor: pointer;">Read more</a>.<br>
                             <br>
                             <strong>September 2, 2017:</strong> Tracks information is online.<br><br>
-                            <strong>February 24, 2017:</strong>&nbsp; SANER web site online!
+                            <!--<strong>February 24, 2017:</strong>&nbsp; SANER web site online!-->
                         </div>
                     </div>
                     <div class="panel panel-primary" style="border-radius: 4px;">
@@ -207,7 +206,7 @@
                             <div id="date5" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>Workshop Proposals</b></p>
                                 <p>
-                                    <li style="list-style: none;">Proposal: September 30, 2017 AoE</li>
+                                    <li style="list-style: none;">Proposal: October 5, 2017</li>
                                     <li style="list-style: none;">Notifications: October 9, 2017</li>
                                 </p>
                             </div>
