@@ -98,7 +98,7 @@ require_once ('./utils/breadcrumb.php');
                         <div id="iconElmar" class="col-md-6 col-xs-12">
                             <i style="cursor: not-allowed; font-size: 20px;" data-toggle="modal" class="fa fa-file-text-o" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
                             <i style="cursor: not-allowed; font-size: 20px;" data-toggle="modal" class="fa fa-user-o" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
-                            <a target="_blank" href="https://www.cqse.eu/en/team/elmar-juergens/" style="color: #000; cursor: pointer; font-size: 20px;"><i class="fa fa-home" aria-hidden="true"></i></a>
+                            <a target="_blank" href="https://www.cqse.eu/en/team/elmar-juergens/" style="color: #000; cursor: pointer; font-size: 20px;"><i title="Home" class="fa fa-home" aria-hidden="true"></i></a>
                         </div>
                     </div>
                 </div>
@@ -111,14 +111,14 @@ require_once ('./utils/breadcrumb.php');
             <div class="col-md-4 padd2">
                 <div class="team-date">
                     <br />
-                    <h6><a href="https://twitter.com/donnerpeter?lang=en" target="_blank">Peter Gromov</a>,<span style="font-size: 15px; font-weight: 200;">&nbspJetBrains (Germany)</span></h6>
-                    <i>TBA</i>
+                    <h6><a href="https://github.com/donnerpeter" target="_blank">Peter Gromov</a>,<span style="font-size: 15px; font-weight: 200;">&nbspJetBrains (Germany)</span></h6>
+                    <i>Compilers are Sprinters; IDEs are Marathoners</i>
                     <br><br>
                     <div class="row">
                         <div id="iconPeter" class="col-md-6 col-xs-12">
-                            <i style="cursor: not-allowed; font-size: 20px;" data-toggle="modal" class="fa fa-file-text-o" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
-                            <i style="cursor: not-allowed; font-size: 20px;" data-toggle="modal" class="fa fa-user-o" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
-                            <a target="_blank" href="https://twitter.com/donnerpeter?lang=en" style="color: #000; cursor: pointer; font-size: 20px;"><i class="fa fa-home" aria-hidden="true"></i></a>
+                            <i title="Abstract" style="cursor: pointer; font-size: 20px;" data-toggle="modal" class="fa fa-file-text-o" data-target="#abstractPeter" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                            <i title="Bio" style="cursor: pointer; font-size: 20px;" data-toggle="modal" class="fa fa-user-o" data-target="#bioPeter" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://twitter.com/donnerpeter?lang=en" style="color: #000; cursor: pointer; font-size: 20px;"><i title="Home" class="fa fa-home" aria-hidden="true"></i></a>
                         </div>
                     </div>
                 </div>
@@ -151,7 +151,7 @@ require_once ('./utils/breadcrumb.php');
     </div>
 </div>
 
-<!-- Modal Bio Bosh -->
+<!-- Modal Abstract Bosh -->
 <div id="abstractBosh" class="modal fade" style="z-index: 99999;" role="dialog">
     <div class="modal-dialog">
 
@@ -164,6 +164,54 @@ require_once ('./utils/breadcrumb.php');
             <div class="modal-body">
                 <p>
                     We are living in the most exciting time in the history of mankind. The last century has seen unprecedented improvements in the quality of the human condition and technology is at the heart of this progress. Now we are experiencing an even bigger leap as we move towards a new level of digitalization and automation. Ranging from self-driving cars to factories without workers to societal infrastructure, every sensor and actuator is becoming connected and new applications that enable new opportunities are appearing daily. The fuel of this emerging connected, software-driven reality is software and the key challenge is to continuously deliver value to customers. The future of software engineering in this context is centered around a new, emerging digital business operating system consisting of four dimensions: Speed, Data, Ecosystems and Empowerment. The focus on speed is concerned with the constantly increasing rate of deploying new software in the field. This continuous integration and deployment is no longer only the purview of internet companies but is also increasingly deployed in embedded systems. Second, data is concerned with the vast amounts of information collected from systems deployed in the field and the behavior of the users of these systems. Software businesses need to significantly improve their ability to exploit the value present in that data. Third, ecosystems are concerned with the transition in many companies from doing everything in-house to strategic use of innovation partners and commodity providing partners. Finally, we need new ways of organizing work in this new, digital age. The keynote discusses these four main developments but focuses on the continuous software engineering. Also, the keynote provides numerous examples from the Nordic and international industry and predicts the next steps that industry and academia need to engage in to remain competitive.
+                </p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- Modal Bio Peter -->
+<div id="bioPeter" class="modal fade" style="z-index: 99999;" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Short bio of Peter Gromov</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    Peter Gromov studied Software Engineering in St. Petersburg State University (Russia) and Linguistics in University of Essex (UK). Living in Germany. Working at JetBrains since 2003, in IntelliJ IDEA team since 2005. Contributed to Java EE, Spring, Groovy, Perforce VCS support in the IDE, Java data flow analysis and code completion. Currently mainly working on IDE platform infrastructure.
+                </p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- Modal Abstract Peter -->
+<div id="abstractPeter" class="modal fade" style="z-index: 99999;" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Compilers are Sprinters; IDEs are Marathoners</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    Compilers and IDEs both analyze source code, yet compared to IDEs, compilers are easy.<br>
+                    Compilers process source files a module at a time; IDEs have to load entire projects. Compilers exit after each run; IDEs run constantly, requiring responsible memory management and low CPU utilization. Compilers operate in batch; IDEs must constantly, incrementally re-analyze code after each change in the editor. Compilers stop when there is an error; IDEs are expected to be even more helpful when there are errors. Compilers create intermediate representations, soon throwing away source code; IDEs must always map back to source, respecting whitespaces and resolving references to the line and column number.<br>
+                    The talk discusses these and other challenges, and how IDEs based on IntelliJ platform attack them.
                 </p>
             </div>
             <div class="modal-footer">
