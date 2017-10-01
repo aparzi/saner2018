@@ -247,12 +247,12 @@
                                                     </div>
                                                 </div>
                                                 <div class="col-md-2">
-                                                    <img class="img-circle" src="img/team/neil.jpg" alt="Neil Ernst" />
+                                                    <img class="img-circle" src="img/team/neil_ernst.png" alt="Neil Ernst" />
                                                 </div>
                                                 <div class="col-md-4">
                                                     <div class="team-date padd">
                                                         <br />
-                                                        <h6><a target="_blank" href="https://www.sei.cmu.edu/about/people/profile.cfm?id=ernst_16467">Neil Ernst</a></h6>
+                                                        <h6><a target="_blank" href="https://www.uvic.ca/engineering/software/research/our-researchers/ernst-neil.php">Neil Ernst</a></h6>
                                                         <p>University of Victoria <br /> Canada</p>
                                                     </div>
                                                 </div>
