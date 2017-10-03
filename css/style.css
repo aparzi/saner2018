@@ -2171,4 +2171,9 @@ div.sponsor-supported > img {
     #abstractPeter > .modal-dialog {
         width: 60%;
     }
+
+    #bioElmar > .modal-dialog,
+    #abstractElmar > .modal-dialog {
+        width: 60%;
+    }
 }

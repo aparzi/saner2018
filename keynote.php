@@ -68,19 +68,20 @@ require_once ('./utils/breadcrumb.php');
             <div class="col-md-2">
                 <img class="img-circle" style="max-width: 150px;" src="img/keynotes/JanBosch.png" alt="Jan Bosh" />
             </div>
-            <div class="col-md-5 padd2">
+            <div class="col-md-10">
                 <div class="team-date">
-                    <br />
-                    <h6><a href="http://www.janbosch.com" target="_blank">Jan Bosch</a>,<span style="font-size: 15px; font-weight: 200;">&nbspChalmers University of Technology (Sweden)</span></h6>
+                    <h6><a href="http://www.janbosch.com" target="_blank">Jan Bosch</a>,<span style="font-size: 15px; font-weight: 200;">&nbspChalmers University of Technology (Sweden)</span>
+                        <span>
+                            <i title="Bio" style="cursor: pointer; font-size: 16px; padding-left: 3px; margin-right: -3px;" data-toggle="modal" data-target="#bioBosh" class="fa fa-user-o" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="http://www.janbosch.com/" style="color: #000; cursor: pointer; font-size: 16px;"><i title="Home" class="fa fa-home" aria-hidden="true"></i></a>
+                        </span>
+                    </h6>
                     <i>Towards a New Digital Business Operating System</i>
-                    <br><br>
-                    <div class="row">
-                        <div id="iconBosh" class="col-md-6 col-xs-12">
-                            <i title="Abstract" style="cursor: pointer; font-size: 20px;" data-toggle="modal" data-target="#abstractBosh" class="fa fa-file-text-o" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
-                            <i title="Bio" style="cursor: pointer; font-size: 20px;" data-toggle="modal" data-target="#bioBosh" class="fa fa-user-o" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
-                            <a target="_blank" href="http://www.janbosch.com/" style="color: #000; cursor: pointer; font-size: 20px;"><i title="Home" class="fa fa-home" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
+                    <h6></h6>
+                    <p><b>Abstract.</b>
+                        We are living in the most exciting time in the history of mankind. The last century has seen unprecedented improvements in the quality of the human condition and technology is at the heart of this progress.
+                        Now we are experiencing an even bigger leap as we move towards a new level of digitalization and automation...<a data-toggle="modal" data-target="#abstractBosh" style="cursor: pointer;">Read more</a>
+                    </p>
                 </div>
             </div>
         </div>
@@ -88,19 +89,22 @@ require_once ('./utils/breadcrumb.php');
             <div class="col-md-2">
                 <img class="img-circle" style="max-width: 150px;" src="img/keynotes/Elmar-Jurgens.png" alt="Elmar Jurgens" />
             </div>
-            <div class="col-md-4 padd2">
+            <div class="col-md-10">
                 <div class="team-date">
                     <br />
-                    <h6><a href="https://www.cqse.eu/en/team/elmar-juergens/" target="_blank">Elmar Jurgens</a>,<span style="font-size: 15px; font-weight: 200;">&nbspCQSE GmbH (Germany)</span></h6>
-                    <i>TBA</i>
-                    <br><br>
-                    <div class="row">
-                        <div id="iconElmar" class="col-md-6 col-xs-12">
-                            <i style="cursor: not-allowed; font-size: 20px;" data-toggle="modal" class="fa fa-file-text-o" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
-                            <i style="cursor: not-allowed; font-size: 20px;" data-toggle="modal" class="fa fa-user-o" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
-                            <a target="_blank" href="https://www.cqse.eu/en/team/elmar-juergens/" style="color: #000; cursor: pointer; font-size: 20px;"><i title="Home" class="fa fa-home" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
+                    <h6><a href="https://www.cqse.eu/en/team/elmar-juergens/" target="_blank">Elmar Jurgens</a>,<span style="font-size: 15px; font-weight: 200;">&nbspCQSE GmbH (Germany)</span>
+                        <span>
+                            <i style="cursor: pointer; font-size: 16px; margin-right: -3px; padding-left: 3px;" data-toggle="modal" data-target="#bioElmar" class="fa fa-user-o" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://www.cqse.eu/en/team/elmar-juergens/" style="color: #000; cursor: pointer; font-size: 16px;"><i title="Home" class="fa fa-home" aria-hidden="true"></i></a>
+                        </span>
+                    </h6>
+                    <i>A Decade of Software Quality Analysis in Practice: Surprises, Anecdotes and Lessons Learned</i>
+                    <h6></h6>
+                    <p><b>Abstract.</b>
+                        I ran my first clone detection in an industrial context roughly a decade ago.
+                        Fueled by both the amounts of problematic code it uncovered, and the (at least
+                        partially) positive feedback from developers..<a data-toggle="modal" data-target="#abstractElmar" style="cursor: pointer;">Read more</a>
+                    </p>
                 </div>
             </div>
         </div>
@@ -108,19 +112,21 @@ require_once ('./utils/breadcrumb.php');
             <div class="col-md-2">
                 <img class="img-circle" style="max-width: 150px;" src="img/keynotes/peter_gromov.jpg" alt="Peter Gromov" />
             </div>
-            <div class="col-md-4 padd2">
+            <div class="col-md-10">
                 <div class="team-date">
                     <br />
-                    <h6><a href="https://github.com/donnerpeter" target="_blank">Peter Gromov</a>,<span style="font-size: 15px; font-weight: 200;">&nbspJetBrains (Germany)</span></h6>
+                    <h6><a href="https://github.com/donnerpeter" target="_blank">Peter Gromov</a>,<span style="font-size: 15px; font-weight: 200;">&nbspJetBrains (Germany)</span>
+                        <span>
+                            <i title="Bio" style="cursor: pointer; padding-left: 3px; margin-right: -3px; font-size: 16px;" data-toggle="modal" class="fa fa-user-o" data-target="#bioPeter" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
+                            <a target="_blank" href="https://github.com/donnerpeter" style="color: #000; cursor: pointer; font-size: 16px;"><i title="Home" class="fa fa-home" aria-hidden="true"></i></a>
+                        </span>
+                    </h6>
                     <i>Compilers are Sprinters; IDEs are Marathoners</i>
-                    <br><br>
-                    <div class="row">
-                        <div id="iconPeter" class="col-md-6 col-xs-12">
-                            <i title="Abstract" style="cursor: pointer; font-size: 20px;" data-toggle="modal" class="fa fa-file-text-o" data-target="#abstractPeter" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
-                            <i title="Bio" style="cursor: pointer; font-size: 20px;" data-toggle="modal" class="fa fa-user-o" data-target="#bioPeter" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
-                            <a target="_blank" href="https://twitter.com/donnerpeter?lang=en" style="color: #000; cursor: pointer; font-size: 20px;"><i title="Home" class="fa fa-home" aria-hidden="true"></i></a>
-                        </div>
-                    </div>
+                    <h6></h6>
+                    <p><b>Abstract.</b>
+                        Compilers and IDEs both analyze source code, yet compared to IDEs, compilers are easy.
+                        Compilers process source files a module at a time; IDEs have to load entire projects. Compilers exit after each run; IDEs run constantly, requiring responsible memory management and low CPU utilization...<a data-toggle="modal" data-target="#abstractPeter" style="cursor: pointer;">Read more</a>
+                    </p>
                 </div>
             </div>
         </div>
@@ -164,6 +170,70 @@ require_once ('./utils/breadcrumb.php');
             <div class="modal-body">
                 <p>
                     We are living in the most exciting time in the history of mankind. The last century has seen unprecedented improvements in the quality of the human condition and technology is at the heart of this progress. Now we are experiencing an even bigger leap as we move towards a new level of digitalization and automation. Ranging from self-driving cars to factories without workers to societal infrastructure, every sensor and actuator is becoming connected and new applications that enable new opportunities are appearing daily. The fuel of this emerging connected, software-driven reality is software and the key challenge is to continuously deliver value to customers. The future of software engineering in this context is centered around a new, emerging digital business operating system consisting of four dimensions: Speed, Data, Ecosystems and Empowerment. The focus on speed is concerned with the constantly increasing rate of deploying new software in the field. This continuous integration and deployment is no longer only the purview of internet companies but is also increasingly deployed in embedded systems. Second, data is concerned with the vast amounts of information collected from systems deployed in the field and the behavior of the users of these systems. Software businesses need to significantly improve their ability to exploit the value present in that data. Third, ecosystems are concerned with the transition in many companies from doing everything in-house to strategic use of innovation partners and commodity providing partners. Finally, we need new ways of organizing work in this new, digital age. The keynote discusses these four main developments but focuses on the continuous software engineering. Also, the keynote provides numerous examples from the Nordic and international industry and predicts the next steps that industry and academia need to engage in to remain competitive.
+                </p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- Modal Bio Elmar -->
+<div id="bioElmar" class="modal fade" style="z-index: 99999;" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">Short bio of Elmar Jurgens</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    Dr. Elmar Juergens works both as a researcher and a founder. Elmar wrote
+                    his PhD thesis on clone detection and is still active as a researcher in software
+                    quality analysis. In 2009, he co-founded CQSE GmbH and since helps teams
+                    in using analysis tools effectively and in implementing organizational change.<br>
+                    Elmar sometimes talks at research conferences (e.g. ICSE, ICPC) and frequently
+                    at industry events (50+ talks since 2012). Elmar was named Junior Fellow of
+                    the GI (Gesellschaft für Informatik) in 2015.
+                </p>
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+            </div>
+        </div>
+
+    </div>
+</div>
+
+<!-- Modal Abstract Elmar -->
+<div id="abstractElmar" class="modal fade" style="z-index: 99999;" role="dialog">
+    <div class="modal-dialog">
+
+        <!-- Modal content-->
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal">&times;</button>
+                <h4 class="modal-title">A Decade of Software Quality Analysis in Practice: Surprises, Anecdotes and Lessons Learned</h4>
+            </div>
+            <div class="modal-body">
+                <p>
+                    I ran my first clone detection in an industrial context roughly a decade ago.
+                    Fueled by both the amounts of problematic code it uncovered, and the (at least
+                    partially) positive feedback from developers, our research group subsequently
+                    focused on quality analyses to improve engineering practice.<br>
+                    Since then, our research prototypes have grown into a commercial tool employed
+                    by professional software developers around the world every day. We bootstrapped
+                    our spin-off, CQSE GmbH, into a company of 30 employees (half of which hold a
+                    PhD in Software Engineering). All of us exclusively work on, or employ, software
+                    quality analyses built upon this communities research.<br>
+                    In this keynote, I want to share key surprises and experiences we made. I will
+                    cover hard lessons on how to have an impact in real-world projects, surprising
+                    results of seemingly trivial approaches, the role of software visualizations in
+                    marketing and our key learnings in research transfer from academia to practice.
                 </p>
             </div>
             <div class="modal-footer">
