@@ -91,7 +91,7 @@ require_once ('./utils/breadcrumb.php');
             </div>
             <div class="col-md-10">
                 <div class="team-date">
-                    <br />
+                    <!--<br />-->
                     <h6><a href="https://www.cqse.eu/en/team/elmar-juergens/" target="_blank">Elmar Jurgens</a>,<span style="font-size: 15px; font-weight: 200;">&nbspCQSE GmbH (Germany)</span>
                         <span>
                             <i style="cursor: pointer; font-size: 16px; margin-right: -3px; padding-left: 3px;" data-toggle="modal" data-target="#bioElmar" class="fa fa-user-o" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
@@ -114,7 +114,7 @@ require_once ('./utils/breadcrumb.php');
             </div>
             <div class="col-md-10">
                 <div class="team-date">
-                    <br />
+                    <!--<br />-->
                     <h6><a href="https://github.com/donnerpeter" target="_blank">Peter Gromov</a>,<span style="font-size: 15px; font-weight: 200;">&nbspJetBrains (Germany)</span>
                         <span>
                             <i title="Bio" style="cursor: pointer; padding-left: 3px; margin-right: -3px; font-size: 16px;" data-toggle="modal" class="fa fa-user-o" data-target="#bioPeter" aria-hidden="true"></i>&nbsp;&nbsp;&nbsp;
