@@ -159,18 +159,21 @@
                     </p>
                     <br>
                     <div class="well">
-                        <p>This 25th edition of the IEEE Internation Conferance on Software Analysis, Evolution and Reengineering will be held at the University of Molise in Campobasso, March 20-23, 2018.</p><!-- , Italy from February 27 – March 2, 2018. -->
+                        <p>
+                            This 25th edition of the IEEE Internation Conferance on Software Analysis, Evolution and Reengineering will be held at the University of Molise in Campobasso, March 20-23, 2018.
+                            <b>A special issue based on selection of best papers from SANER 2018 will be published in Springer’s Journal of <a target="_blank" href="http://www.springer.com/computer/swe/journal/10664">Empirical Software Engineering (EMSE).</a></b>
+                        </p>
                     </div>
                 </div>
                 <div class="col-md-3 col-md-offset-1 padd">
                     <div class="panel panel-danger" style="border-radius: 4px;">
                         <div class="panel-heading" style="text-align: center;"><h5 class="panel-title">Latest News</h5></div>
                         <div class="panel panel-body" style="padding-bottom: 0;">
-                            <strong>September 30, 2017:</strong> Deadline for workshop proposals extended to October 5, 2017 AoE<br><br>
+                            <strong>October 5, 2017:</strong> SANER special issue on Empirical Software Engineering journal edited by Springer.<br><br>
+                            <strong>September 30, 2017:</strong> Deadline for workshop proposals extended to October 5, 2017 AoE.<br><br>
                             <strong>September 14, 2017:</strong> Proud to announce, not 2 but 3 eminent keynotes. <a href="keynotes" style="cursor: pointer;">Read more</a>.<br>
                             <br>
-                            <strong>September 2, 2017:</strong> Tracks information is online.<br><br>
-                            <!--<strong>February 24, 2017:</strong>&nbsp; SANER web site online!-->
+                            <!--<strong>September 2, 2017:</strong> Tracks information is online.<br><br>-->
                         </div>
                     </div>
                     <div class="panel panel-primary" style="border-radius: 4px;">
