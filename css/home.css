@@ -825,7 +825,7 @@ em { font-size: 1.4em; line-height: 1.2em; margin-bottom: 20px; display: inline-
     content: "";
     position: absolute;
     height: 12px;
-    background: url(../img/header-bg.PNG) repeat;
+    background: url(../img/icon/header-bg.PNG) repeat;
     top: 35%;
     width: 1200px;
 }
@@ -2167,4 +2167,26 @@ div.sponsor-supported > img {
         max-width: 2000px;
         margin: 0 auto;
     }
+}
+
+span.supporter-logo img {
+    max-width: 150px;
+    max-height: 70px;
+    margin: 10px;
+}
+
+span.supporter-logo img:hover {
+    max-width: 150px;
+    max-height: 70px;
+    margin: 10px;
+    cursor: pointer;
+    opacity: 0.8;
+}
+
+.table-hover > tbody > tr:hover > td, .table-hover > tbody > tr:hover > th {
+    background-color: #fff;
+}
+
+#rowSupported td {
+    padding: 20px;
 }

@@ -22,7 +22,7 @@
         <!-- Bootstrap Core CSS -->
         <link rel="stylesheet" href="css/bootstrap.min.css" />
         <!-- Icons/FontAwesome -->
-        <link rel="stylesheet" href="css/font-awesome.min.css" />
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
         <!-- totop -->
         <link rel="stylesheet" href="css/ui.totop.css" />
         <!-- owl carusol -->
@@ -164,10 +164,11 @@
                             <b>A special issue based on selection of best papers from SANER 2018 will be published in Springer’s Journal of <a target="_blank" href="http://www.springer.com/computer/swe/journal/10664">Empirical Software Engineering (EMSE).</a></b>
                         </p>
                     </div>
+                    <br>
                 </div>
-                <div class="col-md-3 col-md-offset-1 padd">
+                <div class="col-md-4 padd">
                     <div class="panel panel-danger" style="border-radius: 4px;">
-                        <div class="panel-heading" style="text-align: center;"><h5 class="panel-title">Latest News</h5></div>
+                        <div class="panel-heading" style="text-align: center;"><h5 class="panel-title"><i class="fa fa-newspaper-o" aria-hidden="true"></i>&nbsp;Latest News</h5></div>
                         <div class="panel panel-body" style="padding-bottom: 0;">
                             <strong>October 5, 2017:</strong> SANER special issue on Empirical Software Engineering journal edited by Springer.<br><br>
                             <strong>September 30, 2017:</strong> Deadline for workshop proposals extended to October 5, 2017 AoE.<br><br>
@@ -177,7 +178,7 @@
                         </div>
                     </div>
                     <div class="panel panel-primary" style="border-radius: 4px;">
-                        <div class="panel-heading" style="text-align: center;"><h5 class="panel-title">Important dates</h5></div>
+                        <div class="panel-heading" style="text-align: center;"><h5 class="panel-title"><i class="fa fa-calendar-check-o" aria-hidden="true"></i>&nbsp;Important dates</h5></div>
                         <div class="panel panel-body">
                             <div id="date1" style="display: block;">
                                 <p style="width:100%; text-align: center;"><b>Research Track</b></p>
@@ -254,7 +255,73 @@
                     </div>
                 </div>
             </div><!-- end of row -->
+            <div class="row">
+                <div class="col-md-12 padd">
+                    <div class="panel panel-warning" style="border-radius: 4px;">
+                        <div class="panel-heading clearfix">
+                            <div class="panel-title text-center"><i class="fa fa-life-ring" aria-hidden="true"></i>&nbsp;Supporters</div>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="table table-hover">
+                                <tbody>
+                                <!-- SUPPORTED -->
+                                <tr>
+                                    <td>
+                                        <span class="supporter-logo">
+                                            <a href="http://www.ieee.org" target="_blank">
+                                                <img src="img/sponsored/ieee_home.png" alt="IEEELogo">
+                                            </a>
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="supporter-logo">
+                                            <a href="http://www.cs-tcse.org" target="_blank">
+                                                <img src="img/sponsored/tcse_home.png" alt="TCSE">
+                                            </a>
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="supporter-logo">
+                                            <a href="http://www.computer.org" target="_blank">
+                                                <img src="img/sponsored/ieee2_home.png" alt="IEEE-CS-Logo">
+                                            </a>
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="supporter-logo">
+                                            <a href="http://www.unimol.it/" target="_blank">
+                                                <img alt="logo unimol" src="img/sponsored/unimol_home.png">
+                                            </a>
+                                        </span>
+                                    </td>
+                                </tr>
+                                <tr id="rowSupported" href="http://www.democom.it/">
+                                    <td>
+                                        <span class="supporter-logo">
+                                            <a href="http://xeos.it/" target="_blank">
+                                                <img src="img/supported/xeos.png" alt="logo xeos" />
+                                            </a>
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="supporter-logo">
+                                            <a href="http://www.democom.it/" target="_blank">
+                                                <img src="img/supported/democom.png" alt="logo democom" />
+                                            </a>
+                                        </span>
+                                    </td>
+                                    <td></td>
+                                    <td></td>
+                                </tr>
+                                <tr href="http://www.democom.it/" class="clickable-row">
 
+                                </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </section>
 
         <!-- footer -->
