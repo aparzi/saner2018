@@ -185,8 +185,25 @@ require_once('./utils/breadcrumb.php');
                     <h3>REproducibility Studies and NEgative Results Track</h3>
                     <hr class="lineHr">
                 </div>
-                <div class="row">
-                    <h5>TBA</h5>
+                <?php
+                $content = file_get_contents('config/production.json');
+                $json = json_decode($content, true);
+                ?>
+                <div class="row"> <?php
+                    foreach ($json['commiteeMembers']['rene_track'] as $key => $value) {
+                        ?>
+                        <div class="col-md-4">
+                            <?php if (!is_null($value['website'])) { ?>
+                                <a href="<?php echo $value['website'] ?>" target="_blank"><?php echo $value['name'] ?></a><?php if ($value['name'] == 'Denys Poshyvanyk' || $value['name'] == 'Neil Ernst') { echo ' <span style="font-size: 18px;">(co-Chair)</span>';} ?>
+                            <?php } else { ?>
+                                <a><?php echo $value['name'] ?></a>
+                            <?php } ?>
+                            <p style="margin: 0;"><?php echo $value['affiliation'] ?></p>
+                            <p><?php echo $value['nation'] ?></p>
+                        </div>
+                        <?php
+                    }
+                    ?>
                 </div>
             </div>
         </div>

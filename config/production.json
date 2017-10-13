@@ -614,6 +614,68 @@
         "website": "https://sites.google.com/site/hongyujohn/"
       }
     ],
+    "rene_track": [
+      {
+        "name": "Denys Poshyvanyk",
+        "affiliation": "The College of William and Mary",
+        "nation": "USA",
+        "website": "http://www.cs.wm.edu/~denys/"
+      },
+      {
+        "name": "Neil Ernst",
+        "affiliation": "University of Victoria",
+        "nation": "Canada",
+        "website": "https://www.uvic.ca/engineering/software/research/our-researchers/ernst-neil.php"
+      },
+      {
+        "name": "Nicholas A. Kraft",
+        "affiliation": "ABB Corporate Research",
+        "nation": "USA",
+        "website": "http://nicholasakraft.com"
+      },
+      {
+        "name": "Jordi Cabot",
+        "affiliation": "ICREA - UOC (Internet interdisciplinary institute)",
+        "nation": "Spain",
+        "website": "https://jordicabot.com"
+      },
+      {
+        "name": "Alexander Serebrenik",
+        "affiliation": "Eindhoven University of Technology",
+        "nation": "The Netherlands",
+        "website": "http://www.win.tue.nl/~aserebre/"
+      },
+      {
+        "name": "Gabriele Bavota",
+        "affiliation": "Università della Svizzera italiana (USI)",
+        "nation": "Switzerland",
+        "website": "http://www.inf.unibz.it/~gbavota/"
+      },
+      {
+        "name": "Giuliano Antoniol",
+        "affiliation": "Ecole Polytechnique de Montréal",
+        "nation": "Canada",
+        "website": "http://www.antoniol.net"
+      },
+      {
+        "name": "Ayse Tosun",
+        "affiliation": "Istanbul Technical University",
+        "nation": "Turkey",
+        "website": "http://web.itu.edu.tr/~tosunay/"
+      },
+      {
+        "name": "Christian Bird",
+        "affiliation": "Microsoft Research",
+        "nation": "USA",
+        "website": "https://www.microsoft.com/en-us/research/people/cbird/"
+      },
+      {
+        "name": "Anna Perini",
+        "affiliation": "Fondazione Bruno Kessler",
+        "nation": "Italy",
+        "website": "https://se.fbk.eu/perini"
+      }
+    ],
     "journalTrack": [
       {
         "name": "Julia Rubin",
