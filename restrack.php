@@ -92,13 +92,31 @@ require_once('./utils/breadcrumb.php');
                 Submitted papers must have been neither previously accepted for publication nor concurrently submitted for review in another journal, book, conference, or workshop.
                 </p>
                 <p style="text-align: justify;">
-                Papers must conform to the IEEE proceedings paper format guidelines and must comply with the IEEE Policy on Authorship. If the paper is accepted, at least one author must attend the conference and present the paper. Accepted papers will appear in the IEEE Digital Library.
+                    All submissions must come in PDF format and conform, at time of submission, to the <a href="https://www.ieee.org/conferences_events/conferences/publishing/templates.html" target="_blank">IEEE Conference Proceedings Formatting Guidelines</a>
+                    (title in 24pt font and full text in 10pt font, LaTEX users must use <code>\documentclass[10pt,conference]{IEEEtran}</code> without including the <code>compsoc</code> or <code>compsocconf</code> option.
+                        Also, papers must comply with the <a href="https://www.ieee.org/publications_standards/publications/rights/authorrightsresponsibilities.html" target="_blank">IEEE Policy on Authorship</a>.
                 </p>
                 <p style="text-align: justify;">
-                    <strong>Important note: SANER 2018 follows a full double-blind review process.</strong> For details see the Instructions for Authors. All submissions must be in English. Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review.
+                    All submissions must be in English. Submissions should not exceed 12 pages (the last 2 pages for references only), and should be uploaded electronically in PDF format via EasyChair. Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review.
                 </p>
                 <p style="text-align: justify;">
-                Submissions should not exceed 12 pages (the last 2 pages for references only), and should be uploaded electronically in PDF format via EasyChair.
+                    <strong>Important note: SANER 2018 follows a full double-blind review process.</strong>
+                    In order to be compliant with the double-blind policy, submitted papers must adhere to the following rules (largely reused from <a href="http://ase2017.org/author_instructions" target="_blank">ASE 2017 double-blind instructions</a>):
+                    <ul>
+                        <li>Author names and affiliations must be omitted.</li>
+                        <li>References to authors' own related work must be in the third person. (For example, not "We build on our previous work..." but rather "We build on the work of...")</li>
+                        <li>There may be cases in which the current submission is clear follow up of one of your previous work, and despite what recommended in the previous point, reviewers will clearly associate authorship of such a previous work to the current submission. In this case, you may decide to anonymize the reference itself at submission time. For example: "based on previous results [10]" .. where the reference is reported as "[10] Anonymous Authors. Omitted per double blind reviewing." In doing so, however, please make sure that the ASE 2017 submission is self-contained and its content can be reviewed and understood without accessing the previous paper.</li>
+                        <li>Do not include acknowledgements of people, grants, organizations, etc. that would give away your identity. You may, of course, add these acknowledgements in the camera-ready version.</li>
+                        <li>If you use an identifiable naming convention for your work, such as a project name, use a different name for your submission, which you may indicate has been changed for the purposes of double-blind reviewing. This includes names that may unblind individual authors and their institutions. For example, if your project is called GoogleDeveloperHelper, which makes it clear the work was done at Google, for the submission version, use the name DeveloperHelper or BigCompanyDeveloperHelper instead.</li>
+                        <li>Avoid revealing the institution affiliations of authors or at which the work was performed. For example, if the evaluation includes a user study conducted with undergraduates from the CS 101 class that you teach, you might say "The study participants consist of 200 students in an introductory CS course." You can of course add the institutional information in the camera-ready. Similar suggestions apply for work conducted in specific organizations (e.g., industrial studies). In such cases, avoid to mention the organization's name. Instead, you may just refer the organization as "Org" or "Company", etc. When appropriate and when this does not help too much in revealing the company's name, you might mention the context (e.g., financial organization, videogame development company, etc.).</li>
+                        <li>Avoid linking directly to code repositories or tool deployments which can reveal your identity. Whenever possible, please use the EasyChair additional material field to submit a .zip or .tgz file including additional material. This is of course possible for small attachments. In other cases, you may post anonymized links (with a warning that following said link may reveal authors' identities), include links to anonymized code or deployments. When creating such repositories, a good practice can be asking somebody in your team to test the anonymization of the repository and of its content. In case anonymization is difficult to be achieved and you still want to provide availability of data/tools, you can simply state that you will link to the code or deployment in the camera-ready version. Program committee members are asked to keep into account the double-blind policy when reviewing papers, and therefore not requiring full availability of artifacts at submission time.</li>
+                    </ul>
+                </p>
+                <br>
+                <strong>Special Issue</strong>
+                <p style="text-align: justify; margin-top: 15px;">
+                    Authors of selected research papers accepted at SANER 2018 will be invited to submit revised,
+                    extended versions of their manuscripts for a special issue of the <a href="https://link.springer.com/journal/10664" target="_blank">Empirical Software Engineering journal (EMSE)</a>, edited by Springer.
                 </p>
                 <p style="text-align: justify;">
                     <br>
