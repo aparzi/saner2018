@@ -286,7 +286,7 @@ require_once('./utils/breadcrumb.php');
                     <hr class="lineHr"/>
                     <span>We are proud to have the following supporters</span>
                     <br>
-                    <!--<div style="text-align: center;"><span><strong>Platinum</strong></span></div>
+                    <div style="text-align: center;"><span><strong>Platinum</strong></span></div>
                     <div class="sponsor-supported">
                         <hr style="margin-top: 40px;" class="lineHr">
                         <img src="img/sponsor/platinum.png" alt="platinum">
@@ -298,7 +298,9 @@ require_once('./utils/breadcrumb.php');
                                 <div class="container">
                                     <div class="row">
                                         <div class="col-md-6">
-
+                                            <a href="http://xeos.it/" target="_blank">
+                                                <img src="img/supported/xeos.png" alt="logo xeos" />
+                                            </a>
                                         </div>
                                     </div>
                                 </div>
@@ -306,7 +308,7 @@ require_once('./utils/breadcrumb.php');
                         </tr>
                         </tbody>
                     </table>
-                    <div style="text-align: center;"><span><strong>Gold</strong></span></div>
+                    <!--<div style="text-align: center;"><span><strong>Gold</strong></span></div>
                     <div class="sponsor-supported">
                         <hr style="margin-top: 40px;" class="lineHr">
                         <img src="img/sponsor/gold.png" alt="platinum">
