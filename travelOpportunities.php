@@ -33,8 +33,8 @@
 
         <!-- HTML5 elements and media queries Support for IE8 : HTML5 shim and Respond.js -->
         <!--[if lt IE 9]>
-            <script src="js/html5shiv.js"></script>
-            <script src="js/respond.min.js"></script>
+        <script src="js/html5shiv.js"></script>
+        <script src="js/respond.min.js"></script>
         <![endif]-->
 
     </head>
@@ -42,13 +42,13 @@
     <body>
 
       <?php
-        require_once ('./utils/headerTopBar.php');
-        require_once ('./utils/navbar.php');
+        require_once('./utils/headerTopBar.php');
+        require_once('./utils/navbar.php');
       ?>
 
       <!-- Breadcrumbs -->
       <?php
-        require_once ('./utils/breadcrumb.php');
+        require_once('./utils/breadcrumb.php');
       ?>
       <!-- end Breadcrumbs -->
 
@@ -89,7 +89,7 @@
         <!-- end service section -->
 
         <!-- footer -->
-        <?php require_once ('./utils/footer.php') ?>
+        <?php require_once('./utils/footer.php') ?>
         <!-- end footer -->
 
         <!-- jQuery -->
