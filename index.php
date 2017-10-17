@@ -289,23 +289,23 @@
                                     </td>
                                     <td>
                                         <span class="supporter-logo">
-                                            <a href="http://www.unimol.it/" target="_blank">
+                                            <a href="http://www.unimol.it/english/" target="_blank">
                                                 <img alt="logo unimol" src="img/sponsored/unimol_home.png">
                                             </a>
                                         </span>
                                     </td>
                                 </tr>
-                                <tr id="rowSupported" href="http://www.democom.it/">
+                                <tr id="rowSupported">
                                     <td>
                                         <span class="supporter-logo">
-                                            <a href="http://xeos.it/" target="_blank">
+                                            <a href="http://xeos.it/?lang=en" target="_blank">
                                                 <img src="img/supported/xeos.png" alt="logo xeos" />
                                             </a>
                                         </span>
                                     </td>
                                     <td>
                                         <span class="supporter-logo">
-                                            <a href="http://www.democom.it/" target="_blank">
+                                            <a href="http://www.democom.it/index_en.html" target="_blank">
                                                 <img src="img/supported/democom.png" alt="logo democom" />
                                             </a>
                                         </span>
