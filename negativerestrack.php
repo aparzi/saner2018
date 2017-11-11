@@ -113,6 +113,10 @@ require_once ('./utils/navbar.php');
                 </p>
                 <p style="text-align: justify;">
                     <br>
+                    <strong>Important note: the RENE track of SANER 2018 DOES NOT FOLLOW a full double-blind review process.</strong>
+                </p>
+                <p style="text-align: justify;">
+                    <br>
                     <strong>Important Dates</strong>
                 <ul>
                     <li>Abstract submission deadline: January 5, 2018 AoE</li>
