@@ -56,6 +56,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
+                    <div class="col-md-12">
                         <div class="top-description-text" style="text-align: left;">
                             <h3>General Chair</h3>
                             <hr class="lineHr">
@@ -344,6 +345,32 @@
                             </tbody>
                         </table>
                         <div class="top-description-text" style="text-align: left;">
+                            <h3>Finance chair</h3>
+                            <hr class="lineHr">
+                        </div>
+                        <table class="table" style="width: 100%; margin-top: -4em;">
+                            <tbody style="text-align: center;">
+                            <tr>
+                                <td style="border: none; text-align: left;">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-2">
+                                                <img class="img-circle" src="img/team/damian_tamburri.jpg" alt="Damian Tamburri" />
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="team-date padd">
+                                                    <br />
+                                                    <h6><a target="_blank" href="https://www.researchgate.net/profile/Damian_Tamburri">Damian Tamburri</a></h6>
+                                                    <p>Polytechnic of Milan <br /> Italy</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
+                        <div class="top-description-text" style="text-align: left;">
                             <h3>Proceedings Chair</h3>
                             <hr class="lineHr">
                         </div>
@@ -385,7 +412,7 @@
                                             <div class="col-md-4">
                                                 <div class="team-date padd">
                                                     <br />
-                                                    <h6><a target="_blank" href="http://www.s2group.cs.vu.nl/people/damian-a-tamburri/">Damian Andrew Tamburri</a>&nbsp;(Chair)</h6>
+                                                    <h6><a target="_blank" href="https://www.researchgate.net/profile/Damian_Tamburri">Damian Andrew Tamburri</a>&nbsp;(Chair)</h6>
                                                     <p>Polytechnic of Milan <br /> Italy</p>
                                                 </div>
                                             </div>
