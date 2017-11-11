@@ -786,5 +786,87 @@
         "img": "img/steering/yasutaka.png"
       }
     ]
+  },
+  "workshops": {
+    "blockchainOrientedSoftwareEngineering": [
+      {
+       "name": "Roberto Tonelli",
+        "affiliation": "University of Cagliari",
+        "nation": "Italy"
+      },
+      {
+        "name": "Gianni Fenu",
+        "affiliation": "University of Cagliari",
+        "nation": "Italy"
+      },
+      {
+        "name": "Andrea Bracciali",
+        "affiliation": "University of Stirling",
+        "nation": "UK"
+      },
+      {
+        "name": "Stephane Ducasse",
+        "affiliation": "INRIA",
+        "nation": "France"
+      }
+    ],
+    "softwareClones": [
+      {
+        "name": "Ying Zou",
+        "affiliation": "Queen’s University",
+        "nation": "Canada"
+      },
+      {
+        "name": "Matthew Stephan",
+        "affiliation": "Miami University",
+        "nation": "USA"
+      }
+    ],
+    "MiningandAnalyzing": [
+      {
+        "name": "Ying Zou",
+        "affiliation": "Queen’s University",
+        "nation": "Canada"
+      },
+      {
+        "name": "Matthew Stephan",
+        "affiliation": "Miami University",
+        "nation": "USA"
+      }
+    ],
+    "MachineLearningTechniques": [
+      {
+        "name": "Francesca Arcelli Fontana",
+        "affiliation": "University of Milano-Bicocca",
+        "nation": "italy"
+      },
+      {
+        "name": "Bartosz Walter",
+        "affiliation": "Poznań University of Technology Poznań",
+        "nation": "Poland"
+      },
+      {
+      "name": "Apostolos Ampatzoglou",
+      "affiliation": "University of Macedonia Thessaloniki",
+      "nation": "Greece"
+      },
+      {
+      "name": "Fabio Palomba",
+      "affiliation": "Delft University of Technology",
+      "nation": "The Netherlands"
+      }
+    ],
+    "ValidationAnalysisSoftwareTest": [
+      {
+        "name": "Cyrille Artho",
+        "affiliation": "KTH Royal Institute of Technology",
+        "nation": "Sweden"
+      },
+      {
+        "name": "Rudolf Ramler",
+        "affiliation": "Software Competence Center Hagenberg",
+        "nation": "Austria"
+      }
+    ]
   }
 }
