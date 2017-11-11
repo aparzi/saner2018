@@ -52,6 +52,23 @@
                             </ul>
                         </li>
                         <!-- /Call For Papers -->
+                        <!-- Workshops -->
+                        <li
+                            <?php
+                            if ((basename($_SERVER['PHP_SELF']) == 'w_blockchainOriented.php') || (basename($_SERVER['PHP_SELF']) == 'w_softwareClones.php') || (basename($_SERVER['PHP_SELF']) == 'w_miningAndAnalyzing.php') || (basename($_SERVER['PHP_SELF']) == 'w_machineLearningTechniques.php') || (basename($_SERVER['PHP_SELF']) == 'w_analysisEvolutionSftTest.php')) {
+                                echo 'class = "zm-active"';
+                            }
+                            ?>
+                        ><a>Workshops <span class="caret"></span></a>
+                            <ul class="w-200">
+                                <li><a href="blockchainOrientedSoftwareEngineering">IWBOSE 2018</a></li>
+                                <li><a href="softwareClones">IWSC 2018</a></li>
+                                <li><a href="miningAndAnalyzingInteractionHistories">MAINT 2018</a></li>
+                                <li><a href="MachineLearningTechniques">MaLTeSQuE 2018</a></li>
+                                <li><a href="ValidationAnalysisEvolutionSoftwareTests">VST 2018</a></li>
+                            </ul>
+                        </li>
+                        <!-- /Workshops -->
                         <!-- Venue -->
                         <li <?php if (basename($_SERVER['PHP_SELF']) == 'venue.php') echo 'class = "zm-active"'?>>
                             <a href="venue">Venue</a>
