@@ -69,7 +69,7 @@ require_once ('./utils/breadcrumb.php');
                 <br>
                 <strong>Evaluation Criteria</strong>
                 <p style="text-align: justify; margin-top: 15px;">
-                    Each submission will be reviewed by at least three members of the tool demonstration program committee. The committee will review each submission on its merits and quality. Important note: SANER 2018 follows a full double-blind review process.​ For details see the Instructions for Authors. Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review
+                    Each submission will be reviewed by at least three members of the tool demonstration program committee. The committee will review each submission on its merits and quality. <b>Important note: SANER 2018 follows a full double-blind review process.​ For details see the Instructions for Authors. Submissions that do not adhere to these limits or that violate the formatting guidelines will be desk-rejected without review</b>
                 </p>
                 <p style="text-align: justify;">
                     A good tool paper should:
