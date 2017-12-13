@@ -10,7 +10,7 @@
         <div class="col-md-11 col-xs-11">
             <!-- start Navigation -->
             <nav class="navbar navbar-saner" role="navigation">
-                <div class="container">
+                <div class="container" style="font-size: 11.5pt;">
                     <!-- Zetta Menu 1 -->
                     <ul onClick="" class="zetta-menu zm-response-switch zm-full-width zm-effect-slide-top">
                         <li style="background: #fff;"></li>
@@ -69,6 +69,11 @@
                             </ul>
                         </li>
                         <!-- /Workshops -->
+                        <!-- Registration -->
+                        <li <?php if (basename($_SERVER['PHP_SELF']) == 'registration.php') echo 'class = "zm-active"'?>>
+                            <a href="registration">Registration</a>
+                        </li>
+                        <!-- /Registration -->
                         <!-- Venue -->
                         <li <?php if (basename($_SERVER['PHP_SELF']) == 'venue.php') echo 'class = "zm-active"'?>>
                             <a href="venue">Venue</a>

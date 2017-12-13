@@ -27,3 +27,5 @@ RewriteRule ^softwareClones$ w_softwareClones.php?p=IWSC_2018 [L]
 RewriteRule ^miningAndAnalyzingInteractionHistories$ w_miningAndAnalyzing.php?p=MAINT_2018 [L]
 RewriteRule ^MachineLearningTechniques$ w_machineLearningTechniques.php?p=MaLTeSQuE_2018 [L]
 RewriteRule ^ValidationAnalysisEvolutionSoftwareTests$ w_analysisEvolutionSftTest.php?p=VST_2018 [L]
+### Registration
+RewriteRule ^registration$ registration.php?p=Registration [L]
