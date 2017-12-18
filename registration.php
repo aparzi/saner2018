@@ -1,6 +1,14 @@
 <!DOCTYPE html>
 <?php
 $registration_mail = "saner@unimol.it";
+
+// $registration_link = "https://indico.unimol.it/event/1/";
+// $registration_all_events = "https://indico.unimol.it/event/1/manage/registration/1/";
+// $registration_one_day = "https://indico.unimol.it/event/1/manage/registration/3/";
+
+$registration_link = "#";
+$registration_all_events = "#";
+$registration_one_day = "#"
 ?>
 <html lang="en">
     <head>
@@ -90,7 +98,7 @@ $registration_mail = "saner@unimol.it";
                 <div class="row">
                     <div class="col-md-12">
                         <p style="text-align:justified;">
-                            The registration system will be open from December 18th, 2017. <!--<a href="https://indico.unimol.it/event/1/">Registration system</a>-->
+                            The registration system will be open from December 22th, 2017. <!--<a href="<?=$registration_link?>">Registration system</a>-->
                             At least <b>one author per paper</b> has to register before February 22th, 2018. Student authors can register at student rates.
                         </p>
                         
@@ -116,20 +124,20 @@ $registration_mail = "saner@unimol.it";
                                     <td valign="top" bgcolor="#3a3a3a" width="98"  style="font-weight: bold;" ><span style="color: #ffffff;">Late Registration</span></td>
                                 </tr>
                                 <tr>
-                                    <td>IEEE CS Membership<sup>+</sup></td>
-                                    <td><a href="https://indico.unimol.it/event/1/manage/registration/1/">All Events</a></td>
+                                    <td>IEEE/IEEE CS Membership<sup>+</sup></td>
+                                    <td><a href="<?=$registration_all_events?>">All Events</a></td>
                                     <td>500 €</td>
                                     <td>600 €</td>
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="https://indico.unimol.it/event/1/manage/registration/3/">One Day</a></td>
+                                    <td><a href="<?=$registration_one_day?>">One Day</a></td>
                                     <td>200 €</td>
                                     <td>240 €</td>
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="https://indico.unimol.it/event/1/manage/registration/3/">Workshops</a></td>
+                                    <td><a href="<?=$registration_one_day?>">Workshops</a></td>
                                     <td>200 €</td>
                                     <td>240 €</td>
                                 </tr>
@@ -141,19 +149,19 @@ $registration_mail = "saner@unimol.it";
                                 </tr>
                                 <tr>
                                     <td>Non member<sup>+</sup></td>
-                                    <td><a href="https://indico.unimol.it/event/1/manage/registration/1/">All Events</a></td>
+                                    <td><a href="<?=$registration_all_events?>">All Events</a></td>
                                     <td>600 €</td>
                                     <td>720 €</td>
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="https://indico.unimol.it/event/1/manage/registration/3/">One Day</a></td>
+                                    <td><a href="<?=$registration_one_day?>">One Day</a></td>
                                     <td>250 €</td>
                                     <td>300 €</td>
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="https://indico.unimol.it/event/1/manage/registration/3/">Workshops</a></td>
+                                    <td><a href="<?=$registration_one_day?>">Workshops</a></td>
                                     <td>250 €</td>
                                     <td>300 €</td>
                                 </tr>
@@ -164,20 +172,20 @@ $registration_mail = "saner@unimol.it";
                                     <td></td>
                                 </tr>
                                 <tr>
-                                    <td>IEEE CS Student Member<sup>*+</sup></td>
-                                    <td><a href="https://indico.unimol.it/event/11/manage/registration/1/">All Events</a></td>
+                                    <td>IEEE/IEEE CS Student Member<sup>*+</sup></td>
+                                    <td><a href="<?=$registration_all_events?>">All Events</a></td>
                                     <td>350 €</td>
                                     <td>420 €</td>
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="https://indico.unimol.it/event/1/manage/registration/3/">One Day</a></td>
+                                    <td><a href="<?=$registration_one_day?>">One Day</a></td>
                                     <td>140 €</td>
                                     <td>180 €</td>
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="https://indico.unimol.it/event/1/manage/registration/3/">Workshops</a></td>
+                                    <td><a href="<?=$registration_one_day?>">Workshops</a></td>
                                     <td>140 €</td>
                                     <td>180 €</td>
                                 </tr>
@@ -189,19 +197,19 @@ $registration_mail = "saner@unimol.it";
                                 </tr>
                                 <tr>
                                     <td>CS Student Non member<sup>*</sup></td>
-                                    <td><a href="https://indico.unimol.it/event/1/manage/registration/1/">All Events</a></td>
+                                    <td><a href="<?=$registration_all_events?>">All Events</a></td>
                                     <td>420 €</td>
                                     <td>520 €</td>
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="https://indico.unimol.it/event/1/manage/registration/3/">One Day</a></td>
+                                    <td><a href="<?=$registration_one_day?>">One Day</a></td>
                                     <td>180 €</td>
                                     <td>220 €</td>
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="https://indico.unimol.it/event/1/manage/registration/3/">Workshops</a></td>
+                                    <td><a href="<?=$registration_one_day?>">Workshops</a></td>
                                     <td>180 €</td>
                                     <td>220 €</td>
                                 </tr>
@@ -213,19 +221,19 @@ $registration_mail = "saner@unimol.it";
                                 </tr>
                                 <tr>
                                     <td>IEEE Life Member<sup>+</sup></td>
-                                    <td><a href="https://indico.unimol.it/event/1/manage/registration/1/">All Events</a></td>
+                                    <td><a href="<?=$registration_all_events?>">All Events</a></td>
                                     <td>300 €</td>
                                     <td>350 €</td>
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="https://indico.unimol.it/event/1/manage/registration/3/">One day</a></td>
+                                    <td><a href="<?=$registration_one_day?>">One day</a></td>
                                     <td>200 €</td>
                                     <td>240 €</td>
                                 </tr>
                                 <tr>
                                     <td></td>
-                                    <td><a href="https://indico.unimol.it/event/1/manage/registration/3/">Workshop</a></td>
+                                    <td><a href="<?=$registration_one_day?>">Workshop</a></td>
                                     <td>200 €</td>
                                     <td>240 €</td>
                                 </tr>
@@ -249,7 +257,7 @@ $registration_mail = "saner@unimol.it";
                                 </tr>
                                 <tr>
                                     <td>All events</td>
-                                    <td>Proceedings, 1 welcome diner ticket, 1 banquet ticket, 1 reception ticket, 4 lunch tickets, and access to all SANER sessions</td>
+                                    <td>Proceedings, 1 welcome dinner ticket, 1 banquet ticket, 1 reception ticket, 4 lunch tickets, and access to all SANER sessions</td>
                                 </tr>
                                 <tr>
                                     <td>Workshops</td>
@@ -275,7 +283,7 @@ $registration_mail = "saner@unimol.it";
                                     <td valign="top" bgcolor="#3a3a3a" width="207"><span style="color: #ffffff;">Fee</span></td>
                                 </tr>
                                 <tr>
-                                    <td>Welcome Diner Ticket</td>
+                                    <td>Welcome Dinner Ticket</td>
                                     <td>40 Euro per person</td>
                                 </tr>
                                 <tr>
