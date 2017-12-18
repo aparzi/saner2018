@@ -5,6 +5,7 @@ RewriteRule ^venue$ venue.php?p=venue [L]
 RewriteRule ^supporters$ supporters.php?p=supporters [L]
 ### PROGRAM ###
 RewriteRule ^keynotes$ keynote.php?p=Keynotes [L]
+RewriteRule ^accepted$ accepted.php?p=Accepted_Papers [L]
 ### CALL FOR PAPERS ###
 RewriteRule ^restrack$ restrack.php?p=Research_Track [L]
 RewriteRule ^eratrack$ eratrack.php [L]

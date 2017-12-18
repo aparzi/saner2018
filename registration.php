@@ -8,7 +8,7 @@ $registration_mail = "saner@unimol.it";
 
 $registration_link = "#";
 $registration_all_events = "#";
-$registration_one_day = "#"
+$registration_one_day = "#";
 ?>
 <html lang="en">
     <head>

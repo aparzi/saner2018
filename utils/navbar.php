@@ -23,13 +23,14 @@
                         <!-- Program Menu -->
                         <li
                             <?php
-                            if ((basename($_SERVER['PHP_SELF']) == 'keynote.php')) {
+                            if (basename($_SERVER['PHP_SELF']) == 'keynote.php' || basename($_SERVER['PHP_SELF']) == 'accepted.php') {
                                 echo 'id="key" class = "zm-active"';
                             }
                             ?>
                         ><a>Program <span class="caret"></span></a>
                             <ul class="w-200">
                                 <li><a href="keynotes">Keynotes</a></li>
+                                <li><a href="accepted">Accepted Papers</a></li>
                             </ul>
                         </li>
                         <!-- /Program Menu -->
