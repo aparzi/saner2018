@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <?php
-$registration_mail = "saner@unimol.it";
+$registration_mail = "rocco.oliveto@unimol.it";
 
 // $registration_link = "https://indico.unimol.it/event/1/";
 // $registration_all_events = "https://indico.unimol.it/event/1/manage/registration/1/";
@@ -99,7 +99,7 @@ $registration_one_day = "#";
                     <div class="col-md-12">
                         <p style="text-align:justified;">
                             The registration system will be open from December 22th, 2017. <!--<a href="<?=$registration_link?>">Registration system</a>-->
-                            At least <b>one author per paper</b> has to register before February 22th, 2018. Student authors can register at student rates.
+                            At least <b>one author per paper</b> has to register before February 22th, 2018. Student authors can register at student rates unless the student is the sole author attending for a given paper. In that case, the author must register at professional rate (see below).
                         </p>
                         
                         <!--For registering you first need to create an account. Using the account, you can register to all SANER events. Note, modifications are only possible as long as the payment has not been performed.</p>-->
@@ -118,13 +118,13 @@ $registration_one_day = "#";
                         <table>
                             <tbody>
                                 <tr>
-                                    <td valign="top" bgcolor="#3a3a3a" width="135" style="font-weight: bold;" ><span style="color: #ffffff;">Membership</span></td>
+                                    <td valign="top" bgcolor="#3a3a3a" width="200" style="font-weight: bold;" ><span style="color: #ffffff;">Membership</span></td>
                                     <td valign="top" bgcolor="#3a3a3a" width="207" style="font-weight: bold;" ><span style="color: #ffffff;">Registration Type</span></td>
                                     <td valign="top" bgcolor="#3a3a3a" width="106" style="font-weight: bold;" ><span style="color: #ffffff;">Early Registration</span></td>
                                     <td valign="top" bgcolor="#3a3a3a" width="98"  style="font-weight: bold;" ><span style="color: #ffffff;">Late Registration</span></td>
                                 </tr>
                                 <tr>
-                                    <td>IEEE/IEEE CS Membership<sup>+</sup></td>
+                                    <td>IEEE/IEEE CS Membership (professional rate)<sup>+</sup></td>
                                     <td><a href="<?=$registration_all_events?>">All Events</a></td>
                                     <td>500 €</td>
                                     <td>600 €</td>
@@ -148,7 +148,7 @@ $registration_one_day = "#";
                                     <td></td>
                                 </tr>
                                 <tr>
-                                    <td>Non member<sup>+</sup></td>
+                                    <td>Non member (professional rate)<sup>+</sup></td>
                                     <td><a href="<?=$registration_all_events?>">All Events</a></td>
                                     <td>600 €</td>
                                     <td>720 €</td>
