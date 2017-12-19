@@ -74,7 +74,8 @@ require_once ('./utils/breadcrumb.php');
     <div class="container">
         <div class="row padd">
             <div class="col-md-12">
-                <h4>Research Track</h4>
+                <h3>Research Track</h3>
+                <hr class="lineHr">
 <!--                 <p style="text-align:justified;"> -->
                     <?php
                     require_once("./program_files/research_track.php"); 
