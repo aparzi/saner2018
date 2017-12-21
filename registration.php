@@ -2,13 +2,19 @@
 <?php
 $registration_mail = "rocco.oliveto@unimol.it";
 
-// $registration_link = "https://indico.unimol.it/event/1/";
-// $registration_all_events = "https://indico.unimol.it/event/1/manage/registration/1/";
-// $registration_one_day = "https://indico.unimol.it/event/1/manage/registration/3/";
+// $open_reg = strtotime("1/1/2018 12:10 CET");
+$open_reg = strtotime("12/21/2017 12:13 CET");
+$registration_open = time() >= $open_reg;
 
-$registration_link = "#";
-$registration_all_events = "#";
-$registration_one_day = "#";
+if ($registration_open) {
+    $registration_link = "https://indico.unimol.it/event/1/";
+    $registration_all_events = "https://indico.unimol.it/event/1/manage/registration/1/";
+    $registration_one_day = "https://indico.unimol.it/event/1/manage/registration/3/";
+} else {
+    $registration_link = "#";
+    $registration_all_events = "#";
+    $registration_one_day = "#";
+}
 ?>
 <html lang="en">
     <head>
@@ -98,7 +104,14 @@ $registration_one_day = "#";
                 <div class="row">
                     <div class="col-md-12">
                         <p style="text-align:justified;">
-                            The registration system will be open from December 22th, 2017. <!--<a href="<?=$registration_link?>">Registration system</a>-->
+                            <?php 
+                            if ($registration_open) { 
+                                echo "The <a href=\"$registration_link\">registration system</a> is open.<br/>";
+                            } else {
+                                echo "The registration system will be open from January 1st, 2018.";
+                            }
+                            ?>
+                            
                             At least <b>one author per paper</b> has to register before February 22th, 2018. Student authors can register at student rates unless the student is the sole author attending for a given paper. In that case, the author must register at professional rate (see below).
                         </p>
                         
