@@ -2,8 +2,8 @@
 <?php
 $registration_mail = "rocco.oliveto@unimol.it";
 
-// $open_reg = strtotime("1/1/2018 12:10 CET");
-$open_reg = strtotime("12/21/2017 12:13 CET");
+$open_reg = strtotime("1/1/2018 12:10 CET");
+// $open_reg = strtotime("12/21/2017 12:13 CET");
 $registration_open = time() >= $open_reg;
 
 if ($registration_open) {
