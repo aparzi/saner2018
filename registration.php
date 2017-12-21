@@ -7,7 +7,7 @@ $open_reg = strtotime("12/21/2017 12:13 CET");
 $registration_open = time() >= $open_reg;
 
 if ($registration_open) {
-    $registration_link = "https://indico.unimol.it/event/1/";
+    $registration_link = "https://indico.unimol.it/event/1/registrations";
     $registration_all_events = "https://indico.unimol.it/event/1/manage/registration/1/";
     $registration_one_day = "https://indico.unimol.it/event/1/manage/registration/3/";
 } else {
