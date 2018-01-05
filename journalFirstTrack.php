@@ -79,6 +79,17 @@ require_once('./utils/breadcrumb.php');
                 </ul>
                 </p>
                 <br>
+                <strong>Scope</strong>
+                <p style="text-align: justify; margin-top: 15px;">
+                    To be eligible to participate in the J1C2 program, a paper must:
+                    <ul>
+                        <li>Be accepted in one of the participating journals after June 1, 2016 and before the J1C2 submission deadline.</li>
+                        <li>Be in scope of the conference, i.e., focus on work related to software analysis, evolution, and reengineering.</li>
+                        <li>Report on new research results that are not an extension of a previous conference publication. That is, journal versions extending prior conference publications with additional empirical results, proofs, algorithms, or other such details are out of scope for the J1C2 track.</li>
+                        <li>Not been presented at or under consideration for any journal-first program of another conference.</li>
+                    </ul>
+                </p>
+                <br>
                 <strong>Evaluation Criteria</strong>
                 <p style="text-align: justify; margin-top: 15px;">
                     The J1C2 committee will check whether the submission is in scope for the J1C2 track. As the
