@@ -193,7 +193,7 @@
                             <div id="date2" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>ERA Track</b></p>
                                 <p>
-                                    <li style="list-style: none;">Abstract: January 5, 2018 AoE</li>
+                                    <li style="list-style: none;">Abstract: <del>January 5, 2018</del> January 8, 2018 AoE</li>
                                     <li style="list-style: none;">Paper: January 12, 2018 AoE</li>
                                     <li style="list-style: none;">Notifications: February 9, 2018</li>
                                     <li style="list-style: none;">Camera Ready: February 22, 2018</li>

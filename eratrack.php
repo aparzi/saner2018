@@ -99,7 +99,7 @@ require_once ('./utils/navbar.php');
                     <br>
                     <strong>Important Dates</strong>
                 <ul>
-                    <li>Abstract submission deadline: January 5, 2018 AoE</li>
+                    <li>Abstract submission deadline: <del>January 5, 2018</del> January 8, 2018 AoE</li>
                     <li>Paper submission deadline: January 12, 2018 AoE</li>
                     <li>Notifications: February 9, 2018</li>
                     <li>Camera Ready: February 22, 2018</li>
