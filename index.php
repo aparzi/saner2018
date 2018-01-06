@@ -170,6 +170,7 @@
                     <div class="panel panel-danger" style="border-radius: 4px;">
                         <div class="panel-heading" style="text-align: center;"><h5 class="panel-title"><i class="fa fa-newspaper-o" aria-hidden="true"></i>&nbsp;Latest News</h5></div>
                         <div class="panel panel-body" style="padding-bottom: 0;">
+                            <strong>January 5, 2017:</strong> ERA Track abstract submission deadline extended to January 8, 2018.<br><br>
                             <strong>October 5, 2017:</strong> SANER special issue on Empirical Software Engineering journal edited by Springer.<br><br>
                             <strong>September 30, 2017:</strong> Deadline for workshop proposals extended to October 5, 2017 AoE.<br><br>
                             <strong>September 14, 2017:</strong> Proud to announce, not 2 but 3 eminent keynotes. <a href="keynotes" style="cursor: pointer;">Read more</a>.<br>
