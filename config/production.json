@@ -134,6 +134,12 @@
         "website": "http://www.se.cs.titech.ac.jp/~hayashi/"
       },
       {
+        "name": "Abram Hindle",
+        "affiliation": "University of Alberta",
+        "nation": "Canada",
+        "website": "https://softwareprocess.es/static/SoftwareProcess.es.html"
+      },
+      {
         "name": "Akinori Ihara",
         "affiliation": "Nara Institute of Science and Technology",
         "nation": "Japan",
@@ -330,12 +336,6 @@
         "affiliation": "Queen's University",
         "nation": "Canada",
         "website": "http://my.ece.queensu.ca/People/Y-Zou/"
-      },
-      {
-        "name": "Abram Hindle",
-        "affiliation": "University of Alberta",
-        "nation": "Canada",
-        "website": "https://softwareprocess.es/static/SoftwareProcess.es.html"
       }
     ],
     "era_track": [
@@ -584,6 +584,12 @@
         "website": "https://www.cetic.be/Mathieu-Goeminne"
       },
       {
+        "name": "Takashi Kobayashi",
+        "affiliation": "The University of Tokyo",
+        "nation": "Japan",
+        "website": "http://www.sa.cs.titech.ac.jp/~tkobaya/"
+      },
+      {
         "name": "David Lo",
         "affiliation": "Singapore Management University",
         "nation": "Singapore",
@@ -624,12 +630,6 @@
         "affiliation": "The University of Newcastle",
         "nation": "Australia",
         "website": "https://sites.google.com/site/hongyujohn/"
-      },
-      {
-        "name": "Takashi Kobayashi",
-        "affiliation": "The University of Tokyo",
-        "nation": "Japan",
-        "website": "http://www.sa.cs.titech.ac.jp/~tkobaya/"
       }
     ],
     "rene_track": [

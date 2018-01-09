@@ -49,6 +49,12 @@
             <script src="js/respond.min.js"></script>
         <![endif]-->
 
+        <style>
+            .expired {
+                color: red;
+                opacity: 0.5;
+            }
+        </style>
     </head>
 
     <body>
@@ -184,9 +190,9 @@
                             <div id="date1" style="display: block;">
                                 <p style="width:100%; text-align: center;"><b>Research Track</b></p>
                                 <p>
-                                    <li style="list-style: none;">Abstract: October 20, 2017 AoE</li>
-                                    <li style="list-style: none;">Paper: October 27, 2017 AoE</li>
-                                    <li style="list-style: none;">Notifications: December 17, 2017</li>
+                                    <li style="list-style: none;">Abstract: <span class="expired">October 20, 2017 AoE</span></li>
+                                    <li style="list-style: none;">Paper: <span class="expired">October 27, 2017 AoE</span></li>
+                                    <li style="list-style: none;">Notifications: <span class="expired">December 17, 2017</span></li>
                                     <li style="list-style: none;">Camera Ready: January 15, 2018</li>
                                     <!-- <span style="float:right;">Thursday, March 30, 2017</span> -->
                                 </p>
@@ -194,7 +200,7 @@
                             <div id="date2" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>ERA Track</b></p>
                                 <p>
-                                    <li style="list-style: none;">Abstract: <del>January 5, 2018</del> January 8, 2018 AoE</li>
+                                    <li style="list-style: none;">Abstract: <del>January 5, 2018</del> <span class="expired">January 8, 2018 AoE</span></li>
                                     <li style="list-style: none;">Paper: January 12, 2018 AoE</li>
                                     <li style="list-style: none;">Notifications: February 9, 2018</li>
                                     <li style="list-style: none;">Camera Ready: February 22, 2018</li>
@@ -203,7 +209,7 @@
                             <div id="date3" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>Tool Demo Track</b></p>
                                 <p>
-                                    <li style="list-style: none;">Abstract: January 5, 2018 AoE</li>
+                                    <li style="list-style: none;">Abstract: <span class="expired">January 5, 2018 AoE</span></li>
                                     <li style="list-style: none;">Paper: January 12, 2018 AoE</li>
                                     <li style="list-style: none;">Notifications: February 16, 2018</li>
                                     <li style="list-style: none;">Camera Ready: February 22, 2018</li>
@@ -212,7 +218,7 @@
                             <div id="date4" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>Industrial Track</b></p>
                                 <p>
-                                <li style="list-style: none;">Abstract: January 5, 2018 AoE</li>
+                                <li style="list-style: none;">Abstract: <span class="expired">January 5, 2018 AoE</span></li>
                                 <li style="list-style: none;">Paper: January 12, 2018 AoE</li>
                                 <li style="list-style: none;">Notifications: February 9, 2018</li>
                                 <li style="list-style: none;">Camera Ready: February 22, 2018</li>
@@ -221,14 +227,14 @@
                             <div id="date5" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>Workshop Proposals</b></p>
                                 <p>
-                                    <li style="list-style: none;">Proposal: October 5, 2017</li>
-                                    <li style="list-style: none;">Notifications: October 9, 2017</li>
+                                    <li style="list-style: none;">Proposal: <span class="expired">October 5, 2017</span></li>
+                                    <li style="list-style: none;">Notifications: <span class="expired">October 9, 2017</span></li>
                                 </p>
                             </div>
                             <div id="date6" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>RENE Track</b></p>
                                 <p>
-                                <li style="list-style: none;">Abstract: January 5, 2018 AoE</li>
+                                <li style="list-style: none;">Abstract: <span class="expired">January 5, 2018 AoE</span></li>
                                 <li style="list-style: none;">Paper: January 12, 2018 AoE</li>
                                 <li style="list-style: none;">Notifications: February 9, 2018</li>
                                 <li style="list-style: none;">Camera Ready: February 22, 2018</li>

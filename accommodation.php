@@ -65,9 +65,17 @@ require_once ('./utils/breadcrumb.php');
                 <p>
                     Centrum Palace is a modern hotel offers free on-site parking  has a bar and a restaurant where you can try local and national Italian cuisine. Rooms at Centrum Palace Hotel are bright and comfortable, some also have a hydromassage bath.
                 </p>
+                <p>
+                    <strong>A number of rooms are available at special rates at the Centrum Palace Hotel in Campobasso. The rates (listed below) are valid if you reserve a room by <span style="font-weight: bolder;">January 31, 2018</span>. To reserve a room at these rates, please send an email to <a href="mailto:prenotazioni@centrumpalace.it?subject=SANER2018">prenotazioni@centrumpalace.it</a> and specify that you will be a SANER 2018 attendee.</strong>
+                </p>
+                <h6 style="padding-top: 5px;"><u>Conference rates:</u></h6>
+                <ul style="padding: 0; margin-top: 10px;">
+                    <li style="list-style-type: none;"><span class="fa fa-dollar" style="padding-left: 3px;"><span style="padding-left: 2px;">&nbsp; Single room: 65 Euros per night (breakfast included)</span></span></li>
+                    <li style="list-style-type: none;"><span class="fa fa-dollar" style="padding-left: 3px;"><span style="padding-left: 2px;">&nbsp; Double room: 80 Euros per night (breakfast included)</span></span></li>
+                    <li style="list-style-type: none;"><span class="fa fa-dollar" style="padding-left: 3px;"><span style="padding-left: 2px;">&nbsp; Double room single occupancy: 75 Euros per night (breakfast included)</span></span></li>
+                </ul>
                 <h6 style="padding-top: 5px;"><u>Walking distances:</u></h6>
                 <ul style="padding: 0; margin-top: 10px;">
-                    <li style="list-style-type: none;"><span class="fa fa-dollar" style="padding-left: 3px;"><span style="padding-left: 2px;">&nbsp; Single room: ~65 Euros per night</span></span></li>
                     <li style="list-style-type: none;"><span class="fa"><img src="img/icon/train.png" style="width: 16px;"/><span style="padding-left: 6px;">3 minutes from the train station</span></span></li>
                     <li style="list-style-type: none;"><span class="fa fa-bus" style="padding-left: 1px;">&nbsp; 5 minutes from the bus terminal</span></li>
                     <li style="list-style-type: none;"><span class="fa fa-university"> 10 minutes from the conference venue</span></li>
@@ -79,9 +87,12 @@ require_once ('./utils/breadcrumb.php');
                 <p>
                     Set in Campobasso centre, Hotel San Giorgio offers an on-site restaurant, free Wi-Fi and free parking. The Campobasso Railway Station is just 500m away.
                 </p>
+                <h6 style="padding-top: 5px;"><u>Rates:</u></h6>
+                <ul style="padding: 0; margin-top: 10px;">
+                    <li style="list-style-type: none;"><span class="fa fa-dollar" style="padding-left: 3px;"><span style="padding-left: 2px;">&nbsp; Single room: ~70 Euros per night</span></span></li>
+                </ul>
                 <h6 style="padding-top: 5px;"><u>Walking distances:</u></h6>
                 <ul style="padding: 0; margin-top: 10px;">
-                    <li style="list-style-type: none;"><i class="fa fa-dollar">&nbsp; Single room: ~70 Euros per night</i></li>
                     <li style="list-style-type: none;"><span class="fa"><img src="img/icon/train.png" style="width: 16px;"/><span style="padding-left: 6px;">10 minutes from the train station</span></span></li>
                     <li style="list-style-type: none;"><span class="fa fa-bus" style="padding-left: 1px;">&nbsp; 20 minutes from the bus terminal</span></li>
                     <li style="list-style-type: none;"><span class="fa fa-university"> 20 minutes from the conference venue</span></li>
