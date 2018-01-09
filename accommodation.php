@@ -62,10 +62,10 @@ require_once ('./utils/breadcrumb.php');
             </div>
             <div class="col-md-12 padd">
                 <h5><a target="_blank" href="http://www.centrumpalace.it/en/">Centrum Palace Hotel &amp; Resorts</a> (Recommended)</h5>
-                <p>
+                <p style="text-align: justify;">
                     Centrum Palace is a modern hotel offers free on-site parking  has a bar and a restaurant where you can try local and national Italian cuisine. Rooms at Centrum Palace Hotel are bright and comfortable, some also have a hydromassage bath.
                 </p>
-                <p>
+                <p style="text-align: justify;">
                     <strong>A number of rooms are available at special rates at the Centrum Palace Hotel in Campobasso. The rates (listed below) are valid if you reserve a room by <span style="font-weight: bolder;">January 31, 2018</span>. To reserve a room at these rates, please send an email to <a href="mailto:prenotazioni@centrumpalace.it?subject=SANER2018">prenotazioni@centrumpalace.it</a> and specify that you will be a SANER 2018 attendee.</strong>
                 </p>
                 <h6 style="padding-top: 5px;"><u>Conference rates:</u></h6>
@@ -84,7 +84,7 @@ require_once ('./utils/breadcrumb.php');
             </div>
             <div class="col-md-12 padd">
                 <h5><a target="_blank" href="http://www.booking.com/hotel/it/san-giorgio-campobasso.en-gb.html?aid=311091;label=san-giorgio-campobasso-YcRWiW2X9IiGxkKt68sl2AS161714474796%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atiaud-146342138470%3Akwd-18226106057%3Alp20539%3Ali%3Adec%3Adm;sid=cad2d8ac6e62805a7f2ec168d1c62489;dest_id=-112797;dest_type=city;hpos=1;room1=A%2CA;sb_price_type=total;srfid=98e62a379c2025259693a410923ee2fd9c19d5b0X1;type=total;ucfs=1;=;lang=en-gb;lang_click=top;cdl=en-us">Hotel San Giorgio</a></h5>
-                <p>
+                <p style="text-align: justify;">
                     Set in Campobasso centre, Hotel San Giorgio offers an on-site restaurant, free Wi-Fi and free parking. The Campobasso Railway Station is just 500m away.
                 </p>
                 <h6 style="padding-top: 5px;"><u>Rates:</u></h6>
@@ -101,7 +101,7 @@ require_once ('./utils/breadcrumb.php');
             </div>
             <div class="col-md-12 padd">
                 <h5><a target="_blank" href="http://www.booking.com/hotel/it/donguglielmo.en-gb.html?aid=318615;label=Italian_Italy_IT_IT_29562091465-8qKDqz49OOykZyRj_odFUAS113417549425%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap1t1%3Aneg%3Afi%3Atiaud-146342138710%3Adsa-209353498825%3Alp20539%3Ali%3Adec%3Adm;sid=cad2d8ac6e62805a7f2ec168d1c62489;ucfs=1;room1=A,A;hpos=1;dest_type=city;dest_id=-112797;srfid=8db7f7caeba30579cb43039e2c1a3d6a51ed8d16X1;highlight_room=">Hotel Don Guglielmo</a></h5>
-                <p>
+                <p style="text-align: justify;">
                     Just outside Campobasso's historic centre, Hotel Don Guglielmo features a wellness centre with a relaxation room overlooking the town. Free parking is provided and the hotel is easily reached from the SS87 national road.
                 </p>
                 <h6 style="padding-top: 5px;"><u>Walking distances:</u></h6>
@@ -114,7 +114,7 @@ require_once ('./utils/breadcrumb.php');
             </div>
             <div class="col-md-12 padd">
                 <h5><a target="_blank" href="http://www.booking.com/hotel/it/grand-rinascimento.en-gb.html?aid=356981;label=gog235jc-hotel-it-it-grandNrinascimento-unspec-it-com-L%3Ait-O%3Alinux-B%3Afirefox-N%3AXX-S%3Abo-U%3Ac;sid=cad2d8ac6e62805a7f2ec168d1c62489;dist=0;sb_price_type=total;type=total;=;lang=en-gb;lang_click=top;cdl=it">Hotel Rinascimento</a></h5>
-                <p>
+                <p style="text-align: justify;">
                     Featuring elegant rooms with a balcony and free Wi-Fi, Hotel Rinascimento is 5 minutes' drive from central Campobasso. Free private parking is provided at the property, and a bus to the city centre stops outside the hotel.
                 <h6 style="padding-top: 5px;"><u>Walking distances:</u></h6>
                 <ul style="padding: 0; margin-top: 10px;">
@@ -137,7 +137,7 @@ require_once ('./utils/breadcrumb.php');
             </div>
             <div class="col-md-12 padd">
                 <h5><a href="http://artstudio6.it/" target="_blank">Art Studio 6</a></h5>
-                <p>
+                <p style="text-align: justify;">
                     Artstudio6 is located on the first floor of a fine building site in the center of Campobasso and Murat dating back to the Second Half of the 800.
                 </p>
                 <h6 style="padding-top: 5px;"><u>Walking distances:</u></h6>
@@ -150,7 +150,7 @@ require_once ('./utils/breadcrumb.php');
             </div>
             <div class="col-md-12 padd">
                 <h5><a href="http://www.palazzocannavina.com/?lang=en" target="_blank">Palazzo Cannavina</a></h5>
-                <p>
+                <p style="text-align: justify;">
                     An elegant place, in one of the historic buildings of Campobasso, completely refurbished but still full of the atmosphere and art originals.
                 </p>
                 <h6 style="padding-top: 5px;"><u>Walking distances:</u></h6>
@@ -163,7 +163,7 @@ require_once ('./utils/breadcrumb.php');
             </div>
             <div class="col-md-12 padd">
                 <h5><a href="http://www.ferrarisuite.it/en/" target="_blank">Ferrari Suite</a></h5>
-                <p>
+                <p style="text-align: justify;">
                     FERRARI SUITE is a refined Concept House located in Campobasso, a short walk from the cathedral and the Old Town, right in the heart of the city.
                     Freely inspired by timeless style, Ferrari Suite merges elegant design and subtle details with comfort
                 </p>
