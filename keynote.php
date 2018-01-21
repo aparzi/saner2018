@@ -101,9 +101,7 @@ require_once ('./utils/breadcrumb.php');
                     <i>A Decade of Software Quality Analysis in Practice: Surprises, Anecdotes and Lessons Learned</i>
                     <h6></h6>
                     <p><b>Abstract.</b>
-                        I ran my first clone detection in an industrial context roughly a decade ago.
-                        Fueled by both the amounts of problematic code it uncovered, and the (at least
-                        partially) positive feedback from developers..<a data-toggle="modal" data-target="#abstractElmar" style="cursor: pointer;">Read more</a>
+                        I implemented and ran my first clone detection on industrial software roughly a decade ago. Fueled by both the amounts of problematic code it uncovered, and the (at least partially) positive feedback from developers, our research group subsequently focused on quality analyses to improve engineering practice... <a data-toggle="modal" data-target="#abstractElmar" style="cursor: pointer;">Read more</a>
                     </p>
                 </div>
             </div>
@@ -221,19 +219,15 @@ require_once ('./utils/breadcrumb.php');
             </div>
             <div class="modal-body">
                 <p>
-                    I ran my first clone detection in an industrial context roughly a decade ago.
-                    Fueled by both the amounts of problematic code it uncovered, and the (at least
-                    partially) positive feedback from developers, our research group subsequently
-                    focused on quality analyses to improve engineering practice.<br>
-                    Since then, our research prototypes have grown into a commercial tool employed
-                    by professional software developers around the world every day. We bootstrapped
-                    our spin-off, CQSE GmbH, into a company of 30 employees (half of which hold a
-                    PhD in Software Engineering). All of us exclusively work on, or employ, software
-                    quality analyses built upon this communities research.<br>
-                    In this keynote, I want to share key surprises and experiences we made. I will
-                    cover hard lessons on how to have an impact in real-world projects, surprising
-                    results of seemingly trivial approaches, the role of software visualizations in
-                    marketing and our key learnings in research transfer from academia to practice.
+                    I implemented and ran my first clone detection on industrial software roughly a decade ago. Fueled by both the amounts of problematic code it uncovered, and the (at least partially) positive feedback from developers, our research group subsequently focused on quality analyses to improve engineering practice.
+                </p>
+                
+                <p>
+                    Since then, our research prototypes have grown into a commercial tool employed by professional software developers around the world every day. It implements both static and dynamic analyses for over 25 programming languages and runs in development, test and production environments of hundreds of companies. We bootstrapped our spin-off, CQSE GmbH, into a company of 30 employees (half of which hold a PhD in Software Engineering). All of us exclusively work on, or employ as part of our audit services, software quality analyses built upon this community’s research.
+                </p>
+                
+                <p>
+                    In this keynote, I want to share our key insights: experiences, surprises and anecdotes. I will cover hard lessons learned on how to have an impact in real-world projects, surprising results of seemingly trivial approaches, the role of software visualizations in marketing and our key learnings in transferring research from academia to practice.
                 </p>
             </div>
             <div class="modal-footer">
