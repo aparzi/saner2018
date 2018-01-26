@@ -1,5 +1,5 @@
 <?php
-`git pull`
+`git pull`;
 
-echo "OK";
+// echo "OK";
 ?>
