@@ -166,7 +166,7 @@
                     <br>
                     <div class="well">
                         <p>
-                            This 25th edition of the IEEE Internation Conferance on Software Analysis, Evolution and Reengineering will be held at the University of Molise in Campobasso, March 20-23, 2018.
+                            This 25th edition of the IEEE International Conference on Software Analysis, Evolution and Reengineering will be held at the University of Molise in Campobasso, March 20-23, 2018.
                             <b>A special issue based on selection of best papers from SANER 2018 will be published in Springer’s Journal of <a target="_blank" href="http://www.springer.com/computer/swe/journal/10664">Empirical Software Engineering (EMSE).</a></b>
                         </p>
                     </div>
