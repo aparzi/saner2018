@@ -12,7 +12,7 @@
             
             <li>
                 <div class="program_paper">
-                    <?= paper() ?> 
+                    <?= jf() ?> 
                     <span class="title">Towards Just-in-time Suggestions for Log Changes</span>
                     <span class="authors">Heng Li, Weiyi Shang, Ying Zou and Ahmed E. Hassan</span>
                 </div>
@@ -20,7 +20,7 @@
             
             <li>
                 <div class="program_paper">
-                    <?= paper() ?> 
+                    <?= jf() ?> 
                     <span class="title">Which Log Level Should Developers Choose for a New Logging Statement?</span>
                     <span class="authors">Heng Li, Weiyi Shang and Ahmed E. Hassan</span>
                 </div>

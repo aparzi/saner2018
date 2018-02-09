@@ -12,7 +12,7 @@
             
             <li>
                 <div class="program_paper">
-                    <?= paper() ?> 
+                    <?= jf() ?> 
                     <span class="title">Modularity and architecture of PLC-based software for automated production systems: An analysis in industrial companies</span>
                     <span class="authors">Birgit Vogel-Heuser, Juliane Fischer, Sebastian Ulewicz, Susanne Rösch and Stefan Feldmann</span>
                 </div>
@@ -20,7 +20,7 @@
             
             <li>
                 <div class="program_paper">
-                    <?= paper() ?> 
+                    <?= jf() ?> 
                     <span class="title">A Mapping Study on Design-Time Quality Attributes and Metrics</span>
                     <span class="authors">Elvira Maria Arvanitou, Apostolos Ampatzoglou, Alexander Chatzigeorgiou, Matthias Galster and Paris Avgeriou</span>
                 </div>

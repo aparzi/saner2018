@@ -4,7 +4,7 @@
         <ul>
             <li>
                 <div class="program_paper">
-                    <?= paper() ?> 
+                    <?= jf() ?> 
                     <span class="title">Review Participation in Modern Code Review: An Empirical Study of the Android, Qt, and OpenStack Projects</span>
                     <span class="authors">Patanamon Thongtanunam, Shane McIntosh, Ahmed E. Hassan and Hajimu Iida</span>
                 </div>

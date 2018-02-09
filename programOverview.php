@@ -310,11 +310,11 @@ require_once ('./utils/breadcrumb.php');
                                 <td style="text-align: left;" align="center" valign="top">Coffee Break</td>
                             </tr>
                             <tr class="prog_sessions">
-                                <td valign="top">16:30-17:30</td>
+                                <td valign="top">16:30-17:15</td>
                                 <td style="text-align: left;" align="center" valign="top">Technical Sessions (research, demo, industry, RENE)</td>
                             </tr>
                             <tr class="prog_global">
-                                <td valign="top">17:30-18:00</td>
+                                <td valign="top">17:15-18:00</td>
                                 <td style="text-align: left;" align="center" valign="top">Open Steering Committee Meeting</td>
                             </tr>
                             

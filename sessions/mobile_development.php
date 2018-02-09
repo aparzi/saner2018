@@ -12,7 +12,7 @@
             
             <li>
                 <div class="program_paper">
-                    <?= paper() ?> 
+                    <?= jf() ?> 
                     <span class="title">A Study of the Relation of Mobile Device Attributes with the User-perceived Quality of Android Apps</span>
                     <span class="authors">Patanamon Thongtanunam, Shane McIntosh, Ahmed E. Hassan and Hajimu Iida</span>
                 </div>
@@ -20,7 +20,7 @@
             
             <li>
                 <div class="program_paper">
-                    <?= paper() ?> 
+                    <?= jf() ?> 
                     <span class="title">How Developers Micro-Optimize Android Apps</span>
                     <span class="authors">Mario Linares-Vásquez, Christopher Vendome, Michele Tufano and Denys Poshyvanyk</span>
                 </div>

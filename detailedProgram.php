@@ -6,6 +6,10 @@
     function paper() {
         return "<i class=\"fas fa-file-alt\"></i>";
     }
+    
+    function jf() {
+        return "<i class=\"far fa-clipboard\"></i>";
+    }
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -157,6 +161,14 @@ require_once ('./utils/breadcrumb.php');
             <div class="col-md-12">
                 <h3>Daily Schedules</h3>
                 <hr class="lineHr">
+                
+                <h5>Legend:</h5>
+                <ul>
+                    <li><?= paper() ?> Technical Research Paper</li>
+                    <li><?= jf() ?> Journal First Paper</li>
+                </ul>
+                <br/><br/>
+                
                     <table class="program" border="1" width="100%" cellspacing="6" cellpadding="4" align="center">
                         <tbody>
                             <tr class="header">
@@ -298,12 +310,12 @@ require_once ('./utils/breadcrumb.php');
                                 <td colspan="2" style="text-align: left;" align="center" valign="top">Coffee Break</td>
                             </tr>
                             <tr class="prog_sessions">
-                                <td valign="top">16:30-17:30</td>
+                                <td valign="top">16:30-17:15</td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("language_models"); ?></td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("binary_analysis"); ?></td>
                             </tr>
                             <tr class="prog_global">
-                                <td valign="top">17:30-18:00</td>
+                                <td valign="top">17:15-18:00</td>
                                 <td colspan="2" style="text-align: left;" align="center" valign="top">Open Steering Committee Meeting</td>
                             </tr>
                             

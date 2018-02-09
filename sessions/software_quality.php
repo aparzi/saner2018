@@ -12,7 +12,7 @@
             
             <li>
                 <div class="program_paper">
-                    <?= paper() ?> 
+                    <?= jf() ?> 
                     <span class="title">The Relationship between Evolutionary Coupling and Defects in Large Industrial Software</span>
                     <span class="authors">Serkan Kirbas, Bora Caglayan, Tracy Hall, Steve Counsell, David Bowes, Alper Senand Ayse Bener</span>
                 </div>

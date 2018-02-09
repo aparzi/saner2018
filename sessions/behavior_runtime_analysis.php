@@ -12,7 +12,7 @@
             
             <li>
                 <div class="program_paper">
-                    <?= paper() ?> 
+                    <?= jf() ?> 
                     <span class="title">A Comparison Framework for Runtime Monitoring Approaches</span>
                     <span class="authors">Rick Rabiser, Sam Guinea, Michael Vierhauser, Luciano Baresi and Paul Grünbacher</span>
                 </div>

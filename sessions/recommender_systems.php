@@ -20,7 +20,7 @@
             
             <li>
                 <div class="program_paper">
-                    <?= paper() ?> 
+                    <?= jf() ?> 
                     <span class="title">Spreadsheet Guardian: An Approach to Protecting Semantic Correctness throughout the Evolution of Spreadsheets</span>
                     <span class="authors">Daniel Kulesz, Verena Käfer and Stefan Wagner</span>
                 </div>
