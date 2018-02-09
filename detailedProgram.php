@@ -159,7 +159,7 @@ require_once ('./utils/breadcrumb.php');
     <div class="container">
         <div class="row padd">
             <div class="col-md-12">
-                <h3>Daily Schedules</h3>
+                <h3>Daily Schedule</h3>
                 <hr class="lineHr">
                 
                 <h5>Legend:</h5>
