@@ -32,6 +32,7 @@
                                 <li><a href="programOverview">Overview</a></li>
                                 <li><a href="keynotes">Keynotes</a></li>
                                 <li><a href="accepted">Accepted Papers</a></li>
+                                <li><a href="detailedProgram">Detailed Program</a></li>
                             </ul>
                         </li>
                         <!-- /Program Menu -->
