@@ -62,13 +62,13 @@
                             <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1pQLdan0Blp2Tn0GwvauYmwpYxXbIg18l" width="100%" height="480"></iframe>
                         </p>
                         <p style="color: #000;" class="padd">
-                            Campobasso is near some amazing Italian places. Rome and Naples are well connected and they can be reached by train or by bus in about 3 hours.
+                            Campobasso is near some amazing Italian places. Rome and Naples are well connected and they can be reached by train or by bus in about 3 hours. Click on the placeholders in the map above to check how to get to Campobasso.
 
                         </p>
                         <p style="text-align: justify;" class="padd"><b>By airplane:</b><br />
                             The nearest international airports are Rome, Naples and Pescara.
                             Campobasso can be reached by train or by bus from such cities. Besides, there is a direct
-                            bus that connects Rome airports (Ciampino and Fiumicino) and Campobasso, operated
+                            bus that connects Fiumicino airport and Campobasso, operated
                             by ATM Molise.
                         </p>
                         <p style="text-align: justify;" class="padd"><b>By train:</b> <br />
