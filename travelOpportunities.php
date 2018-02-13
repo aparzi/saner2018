@@ -57,7 +57,10 @@
             <div class="container">
                 <div class="row">
                     <div class="col-md-12">
-                        <img class="img-responsive padd" align="right" src="img/distanceMainAirport.png" alt="location" />
+<!--                         <img class="img-responsive padd" align="right" src="img/distanceMainAirport.png" alt="location" /> -->
+                        <p style="color: #000;" class="padd">
+                            <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1pQLdan0Blp2Tn0GwvauYmwpYxXbIg18l" width="100%" height="480"></iframe>
+                        </p>
                         <p style="color: #000;" class="padd">
                             Campobasso is near some amazing Italian places. Rome and Naples are well connected and they can be reached by train or by bus in about 3 hours.
 
