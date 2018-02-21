@@ -201,8 +201,8 @@
                                 <p style="width:100%; text-align: center;"><b>ERA Track</b></p>
                                 <p>
                                     <li style="list-style: none;">Abstract: <del>January 5, 2018</del> <span class="expired">January 8, 2018 AoE</span></li>
-                                    <li style="list-style: none;">Paper: January 12, 2018 AoE</li>
-                                    <li style="list-style: none;">Notifications: February 9, 2018</li>
+                                    <li style="list-style: none;">Paper: <span class="expired">January 12, 2018 AoE</span></li>
+                                    <li style="list-style: none;">Notifications: <span class="expired">February 9, 2018</span></li>
                                     <li style="list-style: none;">Camera Ready: February 22, 2018</li>
                                 </p>
                             </div>
@@ -210,8 +210,8 @@
                                 <p style="width:100%; text-align: center;"><b>Tool Demo Track</b></p>
                                 <p>
                                     <li style="list-style: none;">Abstract: <span class="expired">January 5, 2018 AoE</span></li>
-                                    <li style="list-style: none;">Paper: January 12, 2018 AoE</li>
-                                    <li style="list-style: none;">Notifications: February 16, 2018</li>
+                                    <li style="list-style: none;">Paper: <span class="expired">January 12, 2018 AoE</span></li>
+                                    <li style="list-style: none;">Notifications: <span class="expired">February 16, 2018</span></li>
                                     <li style="list-style: none;">Camera Ready: February 22, 2018</li>
                                 </p>
                             </div>
@@ -219,8 +219,8 @@
                                 <p style="width:100%; text-align: center;"><b>Industrial Track</b></p>
                                 <p>
                                 <li style="list-style: none;">Abstract: <span class="expired">January 5, 2018 AoE</span></li>
-                                <li style="list-style: none;">Paper: January 12, 2018 AoE</li>
-                                <li style="list-style: none;">Notifications: February 9, 2018</li>
+                                <li style="list-style: none;">Paper: <span class="expired">January 12, 2018 AoE</span></li>
+                                <li style="list-style: none;">Notifications: <span class="expired">February 9, 2018</span></li>
                                 <li style="list-style: none;">Camera Ready: February 22, 2018</li>
                                 </p>
                             </div>
@@ -235,15 +235,15 @@
                                 <p style="width:100%; text-align: center;"><b>RENE Track</b></p>
                                 <p>
                                 <li style="list-style: none;">Abstract: <span class="expired">January 5, 2018 AoE</span></li>
-                                <li style="list-style: none;">Paper: January 12, 2018 AoE</li>
-                                <li style="list-style: none;">Notifications: February 9, 2018</li>
+                                <li style="list-style: none;">Paper: <span class="expired">January 12, 2018 AoE</span></li>
+                                <li style="list-style: none;">Notifications: <span class="expired">February 9, 2018</span></li>
                                 <li style="list-style: none;">Camera Ready: February 22, 2018</li>
                                 </p>
                             </div>
                             <div id="date7" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>Journal First Track</b></p>
-                                <li style="list-style: none;">Submission: January 26, 2018, 23:59 AoE</li>
-                                <li style="list-style: none;">Notification: February 16, 2018</li>
+                                <li style="list-style: none;">Submission: <span class="expired">January 26, 2018, 23:59 AoE</span></li>
+                                <li style="list-style: none;">Notification: <span class="expired">February 16, 2018</span></li>
                                 <li style="list-style: none;">Camera Ready: February 22, 2018</li>
                             </div>
                             <ul class="pager" style="margin-top: 5px; margin-bottom: 0px;">

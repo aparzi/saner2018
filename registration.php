@@ -119,7 +119,7 @@ if ($registration_open) {
                         
                         <!--<p style="text-align:justified;">Please select the corresponding registration type. Furthermore, please complete the payment to guarantee your registration. A receipt for your registration fee is separately issued and will be available at the registration desk on site.</p>-->
                         
-                        <p style="text-align:justified;">The deadline for early registration is 23:59 of <b>February 22th, 2018, Central Europe Time (GMT+1)</b></p>
+                        <p style="text-align:justified;">The deadline for early registration is 23:59 of <del>February 22th, 2018</del> <b>March 1st, 2018</b>, Central Europe Time (GMT+1)</p>
                         
                         <p style="text-align:justified;">The deadline for online registration is 23:59 of <b>March 18th, 2018, Central Europe Time (GMT+1)</b></p>
                         
