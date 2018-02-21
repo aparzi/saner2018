@@ -193,7 +193,7 @@
                                     <li style="list-style: none;">Abstract: <span class="expired">October 20, 2017 AoE</span></li>
                                     <li style="list-style: none;">Paper: <span class="expired">October 27, 2017 AoE</span></li>
                                     <li style="list-style: none;">Notifications: <span class="expired">December 17, 2017</span></li>
-                                    <li style="list-style: none;">Camera Ready: January 15, 2018</li>
+                                    <li style="list-style: none;">Camera Ready: <span class="expired">January 15, 2018</span></li>
                                     <!-- <span style="float:right;">Thursday, March 30, 2017</span> -->
                                 </p>
                             </div>
