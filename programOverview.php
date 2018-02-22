@@ -49,8 +49,11 @@
         }
         
         .prog_social td:nth-child(2) {
-            font-style: italic;
             font-weight: bold;
+        }
+        
+        .prog_social a {
+            color: black;
         }
         
         .prog_global {
@@ -180,7 +183,7 @@ require_once ('./utils/breadcrumb.php');
                             
                             <tr class="prog_social">
                                 <td valign="top">19:00</td>
-                                <td style="text-align: left;" align="center" valign="top">Welcome cocktail</td>
+                                <td style="text-align: left;" align="center" valign="top"><a href="socialEvents">Welcome cocktail</a></td>
                             </tr>
                         </tbody>
                     </table>
@@ -250,7 +253,7 @@ require_once ('./utils/breadcrumb.php');
                             
                             <tr class="prog_social">
                                 <td valign="top">19:00</td>
-                                <td style="text-align: left;" align="center" valign="top">Reception</td>
+                                <td style="text-align: left;" align="center" valign="top"><a href="socialEvents">Reception</a></td>
                             </tr>
                         </tbody>
                     </table>
@@ -320,7 +323,7 @@ require_once ('./utils/breadcrumb.php');
                             
                             <tr class="prog_social">
                                 <td valign="top">19:00</td>
-                                <td style="text-align: left;" align="center" valign="top">Banquet</td>
+                                <td style="text-align: left;" align="center" valign="top"><a href="socialEvents">Banquet</a></td>
                             </tr>
                         </tbody>
                     </table>

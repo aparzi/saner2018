@@ -23,7 +23,11 @@
                         <!-- Program Menu -->
                         <li
                             <?php
-                            if (basename($_SERVER['PHP_SELF']) == 'keynote.php' || basename($_SERVER['PHP_SELF']) == 'accepted.php') {
+                            if (basename($_SERVER['PHP_SELF']) == 'keynote.php' 
+                                    || basename($_SERVER['PHP_SELF']) == 'accepted.php'
+                                    || basename($_SERVER['PHP_SELF']) == 'detailedProgram.php'
+                                    || basename($_SERVER['PHP_SELF']) == 'programOverview.php'
+                                    || basename($_SERVER['PHP_SELF']) == 'socialEvents.php') {
                                 echo 'id="key" class = "zm-active"';
                             }
                             ?>
@@ -33,13 +37,20 @@
                                 <li><a href="keynotes">Keynotes</a></li>
                                 <li><a href="accepted">Accepted Papers</a></li>
                                 <li><a href="detailedProgram">Detailed Program</a></li>
+                                <li><a href="socialEvents">Social Events</a></li>
                             </ul>
                         </li>
                         <!-- /Program Menu -->
                         <!-- Call For Papers -->
                         <li
                             <?php
-                            if ((basename($_SERVER['PHP_SELF']) == 'restrack.php') || (basename($_SERVER['PHP_SELF']) == 'eratrack.php') || (basename($_SERVER['PHP_SELF']) == 'tooltrack.php') || (basename($_SERVER['PHP_SELF']) == 'industrialtrack.php') || (basename($_SERVER['PHP_SELF']) == 'negativerestrack.php') || (basename($_SERVER['PHP_SELF']) == 'workshoproposals.php') || (basename($_SERVER['PHP_SELF']) == 'journalFirstTrack.php')) {
+                            if ((basename($_SERVER['PHP_SELF']) == 'restrack.php') 
+                                || (basename($_SERVER['PHP_SELF']) == 'eratrack.php') 
+                                || (basename($_SERVER['PHP_SELF']) == 'tooltrack.php') 
+                                || (basename($_SERVER['PHP_SELF']) == 'industrialtrack.php') 
+                                || (basename($_SERVER['PHP_SELF']) == 'negativerestrack.php') 
+                                || (basename($_SERVER['PHP_SELF']) == 'workshoproposals.php') 
+                                || (basename($_SERVER['PHP_SELF']) == 'journalFirstTrack.php')) {
                                 echo 'class = "zm-active"';
                             }
                             ?>
@@ -58,7 +69,11 @@
                         <!-- Workshops -->
                         <li
                             <?php
-                            if ((basename($_SERVER['PHP_SELF']) == 'w_blockchainOriented.php') || (basename($_SERVER['PHP_SELF']) == 'w_softwareClones.php') || (basename($_SERVER['PHP_SELF']) == 'w_miningAndAnalyzing.php') || (basename($_SERVER['PHP_SELF']) == 'w_machineLearningTechniques.php') || (basename($_SERVER['PHP_SELF']) == 'w_analysisEvolutionSftTest.php')) {
+                            if ((basename($_SERVER['PHP_SELF']) == 'w_blockchainOriented.php') 
+                                || (basename($_SERVER['PHP_SELF']) == 'w_softwareClones.php') 
+                                || (basename($_SERVER['PHP_SELF']) == 'w_miningAndAnalyzing.php') 
+                                || (basename($_SERVER['PHP_SELF']) == 'w_machineLearningTechniques.php') 
+                                || (basename($_SERVER['PHP_SELF']) == 'w_analysisEvolutionSftTest.php')) {
                                 echo 'class = "zm-active"';
                             }
                             ?>
@@ -85,7 +100,9 @@
                         <!-- Travel Information -->
                         <li
                           <?php
-                            if ((basename($_SERVER['PHP_SELF']) == 'accommodation.php') || (basename($_SERVER['PHP_SELF']) == 'travelOpportunities.php') || (basename($_SERVER['PHP_SELF']) == 'visaInformation.php')) {
+                            if ((basename($_SERVER['PHP_SELF']) == 'accommodation.php') 
+                                || (basename($_SERVER['PHP_SELF']) == 'travelOpportunities.php') 
+                                || (basename($_SERVER['PHP_SELF']) == 'visaInformation.php')) {
                               echo 'class = "zm-active"';
                             }
                           ?>
@@ -105,7 +122,9 @@
                         <!-- Organization -->
                         <li
                         <?php
-                          if ((basename($_SERVER['PHP_SELF']) == 'organizingCommittee.php') || (basename($_SERVER['PHP_SELF']) == 'steeringCommittee.php') || (basename($_SERVER['PHP_SELF']) == 'programCommittee.php')) {
+                          if ((basename($_SERVER['PHP_SELF']) == 'organizingCommittee.php') 
+                                || (basename($_SERVER['PHP_SELF']) == 'steeringCommittee.php') 
+                                || (basename($_SERVER['PHP_SELF']) == 'programCommittee.php')) {
                             echo 'class = "zm-active"';
                           }
                         ?>

@@ -2,6 +2,7 @@ RewriteEngine on
 Options -MultiViews
 RewriteRule ^index$ index.php [L]
 RewriteRule ^venue$ venue.php?p=venue [L]
+RewriteRule ^socialEvents$ socialEvents.php?p=Social_Events [L]
 RewriteRule ^supporters$ supporters.php?p=supporters [L]
 ### PROGRAM ###
 RewriteRule ^keynotes$ keynote.php?p=Keynotes [L]
