@@ -129,8 +129,8 @@
                     <div class="col-md-5 padd">
                         <p style="text-align: justify;">
                             The conference banquet will be held on the evening of Thursday March 22nd, 19:00 at "Piana dei Mulini", an ancient residence which dates back to the end of XVIII century. Departure will be at 18:00 from the conference venue by bus (~20 minutes).<br/>
-                            <a href="http://www.lapianadeimulini.it/?lang=en" target="_blank">Website</a>
-                            <a href="https://goo.gl/maps/QfttxekVxFU2" target="_blank">Map</a></br>
+                            <a href="http://www.lapianadeimulini.it/?lang=en" target="_blank">Website</a></br>
+                            <a href="https://goo.gl/maps/QfttxekVxFU2" target="_blank">Map</a>
                         </p>
                     </div>
                 </div> <!-- end row -->
