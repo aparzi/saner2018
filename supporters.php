@@ -241,33 +241,19 @@ require_once('./utils/breadcrumb.php');
                         <td style="border: none;">
                             <div class="container">
                                 <div class="row">
-                                    <div class="col-md-6">
+                                    <div class="col-md-4">
                                         <a href="http://www.ieee.org" target="_blank">
                                             <img src="img/sponsored/ieee.png"
                                                  alt="IEEELogo" width="198" height="148">
                                         </a>
                                     </div>
-                                    <div class="col-md-6">
-                                        <a href="http://www.cs-tcse.org" target="_blank">
-                                            <img src="img/sponsored/tcse.png"
-                                                 alt="TCSE" width="206" height="154">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </td>
-                    </tr>
-                    <tr>
-                        <td style="border: none;">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-md-6">
+                                    <div class="col-md-4">
                                         <a href="http://www.computer.org" target="_blank">
                                             <img src="img/sponsored/ieee2.png"
                                                  alt="IEEE-CS-Logo" width="208" height="156">
                                         </a>
                                     </div>
-                                    <div class="col-md-6">
+                                    <div class="col-md-4">
                                         <a href="http://www.unimol.it/" target="_blank">
                                             <img src="img/sponsor/unimol.png" alt="logo unimol" width="140"
                                                  height="140">
@@ -370,6 +356,35 @@ require_once('./utils/breadcrumb.php');
                         </tr>
                         </tbody>
                     </table>-->
+                    <div class="sponsor-supported" style="margin-top: 40px;">
+                        <hr class="lineHr text-in-the-middle">
+                        <strong style="margin: 0 10px 0 10px;">&nbsp;Others&nbsp;</strong>
+                        <hr class="lineHr text-in-the-middle">
+                    </div>
+                    <table style="border: none; margin-top: 0px;">
+                        <tbody>
+                        <tr>
+                            <td style="border: none;">
+                                <div class="container">
+                                    <div class="row">
+                                        <div class="col-md-6">
+                                            <a href="http://www.cs-tcse.org" target="_blank">
+                                                <img src="img/sponsored/tcse.png"
+                                                     alt="TCSE" width="206" height="154">
+                                            </a>
+                                        </div>
+                                        <div class="col-md-6">
+                                            <a href="http://http://www.lamolisana.it/" target="_blank">
+                                                <img src="img/supported/molisana.png"
+                                                     alt="logo molisana" width="206" height="154" >
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
                 </section>
             </div>
         </div>

@@ -2177,3 +2177,50 @@ div.sponsor-supported > img {
         width: 60%;
     }
 }
+
+/*--------------------------------------------------------------------------
++  HR with text in the middle ---------------- Some text ------------------
+--------------------------------------------------------------------------*/
+hr.text-in-the-middle {
+    margin: 0;
+    display: inline-block;
+    width: 12%;
+}
+
+@media screen and (min-width: 384px) {
+    hr.text-in-the-middle {
+        margin: 0;
+        display: inline-block;
+        width: 30%;
+    }
+}
+
+@media screen and (min-width: 763px) {
+    hr.text-in-the-middle {
+        margin: 0;
+        display: inline-block;
+        width: 42%
+    }
+}
+
+
+@media screen and (min-width: 992px) {
+    hr.text-in-the-middle {
+        margin: 0;
+        display: inline-block;
+        width: 44%
+    }
+}
+
+@media screen and (min-width: 1200px) {
+    hr.text-in-the-middle {
+        margin: 0;
+        display: inline-block;
+        width: 45%
+    }
+}
+
+
+
+
+
