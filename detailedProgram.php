@@ -295,7 +295,7 @@ require_once ('./utils/breadcrumb.php');
                             </tr>
                             <tr class="header">
                                 <td valign="top">Time</td>
-                                <td style="text-align: left;" align="center" valign="top">Room 1</td>
+                                <td style="text-align: left;" align="center" valign="top">Aula Magna</td>
                                 <td style="text-align: left;" align="center" valign="top">Room 2</td>
                             </tr>
                             <tr class="prog_functional">
