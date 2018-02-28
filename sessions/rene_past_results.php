@@ -1,6 +1,6 @@
 <details>
     <summary>RENE: Examining Past Results</summary>
-    <div class="chair">Session Chair: Damian Tamburri</div>
+    <div class="chair">Session Chair: TBD</div>
     <p>
         <ul>
             <li>

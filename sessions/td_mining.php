@@ -1,5 +1,6 @@
 <details>
     <summary>Tool demo: Mining</summary>
+    <div class="chair">Session Chair: Mario Linares Vásquez</div>
     <p>
         <ul>
             <li>

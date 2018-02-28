@@ -1,5 +1,6 @@
 <details>
     <summary>Tool demo: Hands-on Session</summary>
+    <div class="chair">Session Chair: Mario Linares Vásquez</div>
     <p>
         <ul>
             <li>

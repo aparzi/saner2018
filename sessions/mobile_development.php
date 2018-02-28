@@ -1,5 +1,6 @@
 <details>
     <summary>Mobile Development</summary>
+    <div class="chair">Session Chair: Sebastiano Panichella</div>
     <p>
         <ul>
             <li>

@@ -1,5 +1,6 @@
 <details>
     <summary>Tool demo: Software Evolution</summary>
+    <div class="chair">Session Chair: Mario Linares Vásquez</div>
     <p>
         <ul>
             <li>

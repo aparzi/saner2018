@@ -1,5 +1,6 @@
 <details>
     <summary>Language Models</summary>
+    <div class="chair">Session Chair: Yasu Kamei</div>
     <p>
         <ul>
             <li>

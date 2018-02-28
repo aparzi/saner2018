@@ -1,5 +1,6 @@
 <details>
     <summary>Design Analysis</summary>
+    <div class="chair">Session Chair: Giuseppe Scaniello</div>
     <p>
         <ul>
             <li>

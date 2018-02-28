@@ -7,6 +7,22 @@
         return "<i class=\"fas fa-file-alt\"></i>";
     }
     
+    function tooldemo() {
+        return "<i class=\"fas fa-wrench\"></i>";
+    }
+    
+    function era() {
+        return "<i class=\"fas fa-spinner\"></i>";
+    }
+    
+    function rene() {
+        return "<i class=\"fas fa-flask\"></i>";
+    }
+    
+    function industry() {
+        return "<i class=\"fas fa-industry\"></i>";
+    }
+    
     function jf() {
         return "<i class=\"far fa-clipboard\"></i>";
     }
@@ -144,6 +160,12 @@
             font-style: italic;
             font-size: 10pt;
         }
+        
+        .chair {
+            font-weight: normal;
+            padding-top: 4px;
+            font-size: 10pt;
+        }
     </style>
 
 </head>
@@ -173,6 +195,10 @@ require_once ('./utils/breadcrumb.php');
                 <ul>
                     <li><?= paper() ?> Technical Research Paper</li>
                     <li><?= jf() ?> Journal First Paper</li>
+                    <li><?= tooldemo() ?> Tool Demo</li>
+                    <li><?= era() ?> ERA Track Paper</li>
+                    <li><?= rene() ?> RENE Track Paper</li>
+                    <li><?= industry() ?> Industry Track Paper</li>
                 </ul>
                 <br/><br/>
                 
@@ -192,11 +218,17 @@ require_once ('./utils/breadcrumb.php');
                             </tr>
                             <tr class="prog_global">
                                 <td valign="top">08:30-09:00</td>
-                                <td colspan="2" style="text-align: left;" align="center" valign="top">Opening</td>
+                                <td colspan="2" style="text-align: left;" align="center" valign="top">
+                                    Opening<br/>
+                                    <div class="chair">Session Chairs: Rocco Oliveto, Massimiliano Di Penta, David C. Shepherd</div>
+                                </td>
                             </tr>
                             <tr class="prog_global">
                                 <td valign="top">09:00-10:15</td>
-                                <td colspan="2" style="text-align: left;" align="center" valign="top">Keynote (Elmar Jurgens)</td>
+                                <td colspan="2" style="text-align: left;" align="center" valign="top">
+                                    Keynote (Elmar Jurgens)<br/>
+                                    <div class="chair">Session Chair: Massimiliano Di Penta</div>
+                                </td>
                             </tr>
                             <tr class="prog_leisure">
                                 <td valign="top">10:15-10:30</td>
@@ -205,7 +237,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_sessions">
                                 <td valign="top">10:30-11:30</td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("program_analysis"); ?></td>
-                                <td style="text-align: left;" align="center" valign="top">(industry, demo, ERA, RENE)</td>
+                                <td style="text-align: left;" align="center" valign="top"><?php insession("td_mining"); ?></td>
                             </tr>
                             <tr class="prog_leisure">
                                 <td valign="top">11:30-11:45</td>
@@ -214,7 +246,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_sessions">
                                 <td valign="top">11:45-12:45</td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("software_logging"); ?></td>
-                                <td style="text-align: left;" align="center" valign="top">(industry, demo, ERA, RENE)</td>
+                                <td style="text-align: left;" align="center" valign="top"><?php insession("i_reengineering"); ?></td>
                             </tr>
                             
                             <tr class="prog_leisure">
@@ -225,7 +257,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_sessions">
                                 <td valign="top">13:45-14:45</td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("testing"); ?></td>
-                                <td style="text-align: left;" align="center" valign="top">(industry, demo, ERA, RENE)</td>
+                                <td style="text-align: left;" align="center" valign="top"><?php insession("td_software_evolution"); ?></td>
                             </tr>
                             <tr class="prog_leisure">
                                 <td valign="top">14:45-15:00</td>
@@ -234,7 +266,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_sessions">
                                 <td valign="top">15:00-16:00</td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("program_repair"); ?></td>
-                                <td style="text-align: left;" align="center" valign="top">(industry, demo, ERA, RENE)</td>
+                                <td style="text-align: left;" align="center" valign="top"><?php insession("rene_past_results"); ?></td>
                             </tr>
                             <tr class="prog_leisure">
                                 <td valign="top">16:00-16:30</td>
@@ -243,12 +275,12 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_sessions">
                                 <td valign="top">16:30-17:30</td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("mobile_development"); ?></td>
-                                <td style="text-align: left;" align="center" valign="top">(industry, demo, ERA, RENE)</td>
+                                <td style="text-align: left;" align="center" valign="top"></td>
                             </tr>
                             
                             <tr class="prog_social">
                                 <td valign="top">19:00</td>
-                                <td colspan="2" style="text-align: left;" align="center" valign="top"><a href="socialEvents">Reception</a></td>
+                                <td colspan="2" style="text-align: left;" align="center" valign="top"><a href="socialEvents">Reception @ Mazzamaurielle</a></td>
                             </tr>
                         </tbody>
                     </table>
@@ -272,7 +304,10 @@ require_once ('./utils/breadcrumb.php');
                             </tr>
                             <tr class="prog_global">
                                 <td valign="top">09:00-10:15</td>
-                                <td colspan="2" style="text-align: left;" align="center" valign="top">Keynote (Jan Bosch)</td>
+                                <td colspan="2" style="text-align: left;" align="center" valign="top">
+                                    Keynote (Jan Bosch)<br/>
+                                    <div class="chair">Session Chair: Rocco Oliveto</div>
+                                </td>
                             </tr>
                             <tr class="prog_leisure">
                                 <td valign="top">10:15-10:30</td>
@@ -301,7 +336,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_sessions">
                                 <td valign="top">13:45-14:45</td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("apis"); ?></td>
-                                <td style="text-align: left;" align="center" valign="top">(industry, demo, ERA, RENE)</td>
+                                <td style="text-align: left;" align="center" valign="top"><?php insession("era"); ?></td>
                             </tr>
                             <tr class="prog_leisure">
                                 <td valign="top">14:45-15:00</td>
@@ -310,7 +345,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_sessions">
                                 <td valign="top">15:00-16:00</td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("exploring_code_bases"); ?></td>
-                                <td style="text-align: left;" align="center" valign="top">(industry, demo, ERA, RENE)</td>
+                                <td style="text-align: left;" align="center" valign="top"><?php insession("td_hands_on"); ?></td>
                             </tr>
                             <tr class="prog_leisure">
                                 <td valign="top">16:00-16:30</td>
@@ -328,7 +363,7 @@ require_once ('./utils/breadcrumb.php');
                             
                             <tr class="prog_social">
                                 <td valign="top">19:00</td>
-                                <td colspan="2" style="text-align: left;" align="center" valign="top"><a href="socialEvents">Banquet</a></td>
+                                <td colspan="2" style="text-align: left;" align="center" valign="top"><a href="socialEvents">Banquet @ Piana dei Mulini</a></td>
                             </tr>
                         </tbody>
                     </table>
@@ -351,7 +386,10 @@ require_once ('./utils/breadcrumb.php');
                             </tr>
                             <tr class="prog_global">
                                 <td valign="top">09:00-10:15</td>
-                                <td colspan="2" style="text-align: left;" align="center" valign="top">Keynote (Peter Gromov)</td>
+                                <td colspan="2" style="text-align: left;" align="center" valign="top">
+                                    Keynote (Peter Gromov)<br/>
+                                    <div class="chair">Session Chair: David C. Shepherd</div>
+                                </td>
                             </tr>
                             <tr class="prog_leisure">
                                 <td valign="top">10:15-10:30</td>
@@ -360,7 +398,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_sessions">
                                 <td valign="top">10:30-11:30</td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("developers_collaboration"); ?></td>
-                                <td style="text-align: left;" align="center" valign="top">(industry, demo, ERA, RENE)</td>
+                                <td style="text-align: left;" align="center" valign="top"><?php insession("rene_code_smells"); ?></td>
                             </tr>
                             <tr class="prog_leisure">
                                 <td valign="top">11:30-11:45</td>
@@ -369,7 +407,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_sessions">
                                 <td valign="top">11:45-12:45</td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("refactoring"); ?></td>
-                                <td style="text-align: left;" align="center" valign="top">(industry, demo, ERA, RENE)</td>
+                                <td style="text-align: left;" align="center" valign="top"><?php insession("i_development_testing"); ?></td>
                             </tr>
                             
                             <tr class="prog_leisure">
@@ -380,7 +418,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_sessions">
                                 <td valign="top">13:45-14:45</td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("recommender_systems"); ?></td>
-                                <td style="text-align: left;" align="center" valign="top">(industry, demo, ERA, RENE)</td>
+                                <td style="text-align: left;" align="center" valign="top"></td>
                             </tr>
                             <tr class="prog_leisure">
                                 <td valign="top">14:45-15:00</td>
@@ -389,7 +427,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_sessions">
                                 <td valign="top">15:00-16:00</td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("software_security"); ?></td>
-                                <td style="text-align: left;" align="center" valign="top">(industry, demo, ERA, RENE)</td>
+                                <td style="text-align: left;" align="center" valign="top"></td>
                             </tr>
                             <tr class="prog_leisure">
                                 <td valign="top">16:00-16:30</td>
@@ -397,11 +435,17 @@ require_once ('./utils/breadcrumb.php');
                             </tr>
                             <tr class="prog_global">
                                 <td valign="top">16:30-17:30</td>
-                                <td colspan="2" style="text-align: left;" align="center" valign="top">Most Influential Papers</td>
+                                <td colspan="2" style="text-align: left;" align="center" valign="top">
+                                    Most Influential Papers<br/>
+                                    <div class="chair">Session Chair: TBD</div>
+                                </td>
                             </tr>
                             <tr class="prog_global">
                                 <td valign="top">17:30-18:00</td>
-                                <td colspan="2" style="text-align: left;" align="center" valign="top">Closing</td>
+                                <td colspan="2" style="text-align: left;" align="center" valign="top">
+                                    Closing<br/>
+                                    <div class="chair">Session Chair: Rocco Oliveto</div>
+                                </td>
                             </tr>
                         </tbody>
                     </table>

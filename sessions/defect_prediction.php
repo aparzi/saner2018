@@ -1,5 +1,6 @@
 <details>
     <summary>Defect Prediction</summary>
+    <div class="chair">Session Chair: Martin Pinzger</div>
     <p>
         <ul>
             <li>

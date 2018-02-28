@@ -1,5 +1,6 @@
 <details>
     <summary>Exploring Code Bases</summary>
+    <div class="chair">Session Chair: Chanchal Roy</div>
     <p>
         <ul>
             <li>

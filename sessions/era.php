@@ -1,6 +1,6 @@
 <details>
     <summary>ERA</summary>
-    <div class="chair">Session Chair: Damian Tamburri</div>
+    <div class="chair">Session Chairs: Jens Krinke and Shane McIntosh</div>
     <p>
         <ul>
             <li>

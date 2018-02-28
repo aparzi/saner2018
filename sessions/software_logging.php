@@ -1,5 +1,6 @@
 <details>
     <summary>Software Logging</summary>
+    <div class="chair">Session Chair: Takashi Kobayashi</div>
     <p>
         <ul>
             <li>

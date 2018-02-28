@@ -1,5 +1,6 @@
 <details>
     <summary>Software Quality</summary>
+    <div class="chair">Session Chair: Rainer Koschke</div>
     <p>
         <ul>
             <li>

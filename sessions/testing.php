@@ -1,5 +1,6 @@
 <details>
     <summary>Testing</summary>
+    <div class="chair">Session Chair: Dario di Nucci</div>
     <p>
         <ul>
             <li>

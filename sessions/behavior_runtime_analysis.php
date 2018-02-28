@@ -1,5 +1,6 @@
 <details>
     <summary>Behavior and Runtime Analysis</summary>
+    <div class="chair">Session Chair: Nevena Milojković</div>
     <p>
         <ul>
             <li>

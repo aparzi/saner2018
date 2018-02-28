@@ -1,5 +1,6 @@
 <details>
     <summary>Binary Analysis</summary>
+    <div class="chair">Session Chair: Coen De Roover</div>
     <p>
         <ul>
             <li>

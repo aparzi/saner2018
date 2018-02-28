@@ -1,5 +1,6 @@
 <details>
     <summary>Recommender Systems</summary>
+    <div class="chair">Session Chair: Shane McIntosh</div>
     <p>
         <ul>
             <li>

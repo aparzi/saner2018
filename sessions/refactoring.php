@@ -1,5 +1,6 @@
 <details>
     <summary>Refactoring</summary>
+    <div class="chair">Session Chair: Foutse Khomh</div>
     <p>
         <ul>
             <li>

@@ -1,5 +1,6 @@
 <details>
     <summary>Developers' Collaboration</summary>
+    <div class="chair">Session Chair: Andrea De Lucia</div>
     <p>
         <ul>
             <li>

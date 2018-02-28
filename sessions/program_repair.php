@@ -1,5 +1,6 @@
 <details>
     <summary>Program Repair</summary>
+    <div class="chair">Session Chair: Serge Demeyer</div>
     <p>
         <ul>
             <li>

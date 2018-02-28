@@ -1,5 +1,6 @@
 <details>
     <summary>Software Security</summary>
+    <div class="chair">Session Chair: TBD</div>
     <p>
         <ul>
             <li>
