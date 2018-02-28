@@ -257,7 +257,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_sessions">
                                 <td valign="top">13:45-14:45</td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("testing"); ?></td>
-                                <td style="text-align: left;" align="center" valign="top"><?php insession("td_software_evolution"); ?></td>
+                                <td style="text-align: left;" align="center" valign="top"><?php insession("rene_past_results"); ?></td>
                             </tr>
                             <tr class="prog_leisure">
                                 <td valign="top">14:45-15:00</td>
@@ -266,7 +266,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_sessions">
                                 <td valign="top">15:00-16:00</td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("program_repair"); ?></td>
-                                <td style="text-align: left;" align="center" valign="top"><?php insession("rene_past_results"); ?></td>
+                                <td style="text-align: left;" align="center" valign="top"><?php insession("td_software_evolution"); ?></td>
                             </tr>
                             <tr class="prog_leisure">
                                 <td valign="top">16:00-16:30</td>
