@@ -259,6 +259,7 @@ require_once ('./utils/breadcrumb.php');
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("testing"); ?></td>
                                 <td style="text-align: left;" align="center" valign="top"><?php insession("rene_past_results"); ?></td>
                             </tr>
+                            
                             <tr class="prog_leisure">
                                 <td valign="top">14:45-15:00</td>
                                 <td colspan="2" style="text-align: left;" align="center" valign="top">Coffee Break</td>
