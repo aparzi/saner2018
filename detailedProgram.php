@@ -226,7 +226,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_global">
                                 <td valign="top">09:00-10:15</td>
                                 <td colspan="2" style="text-align: left;" align="center" valign="top">
-                                    Keynote (Elmar Jurgens)<br/>
+                                    "A Decade of Software Quality Analysis in Practice: Surprises, Anecdotes and Lessons Learned" by Elmar Jurgens<br/>
                                     <div class="chair">Session Chair: Massimiliano Di Penta</div>
                                 </td>
                             </tr>
@@ -305,7 +305,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_global">
                                 <td valign="top">09:00-10:15</td>
                                 <td colspan="2" style="text-align: left;" align="center" valign="top">
-                                    Keynote (Jan Bosch)<br/>
+                                    "Towards a New Digital Business Operating System" by Jan Bosch<br/>
                                     <div class="chair">Session Chair: Rocco Oliveto</div>
                                 </td>
                             </tr>
@@ -387,7 +387,7 @@ require_once ('./utils/breadcrumb.php');
                             <tr class="prog_global">
                                 <td valign="top">09:00-10:15</td>
                                 <td colspan="2" style="text-align: left;" align="center" valign="top">
-                                    Keynote (Peter Gromov)<br/>
+                                    "Compilers are Sprinters; IDEs are Marathoners" by Peter Gromov<br/>
                                     <div class="chair">Session Chair: David C. Shepherd</div>
                                 </td>
                             </tr>
@@ -444,7 +444,7 @@ require_once ('./utils/breadcrumb.php');
                                 <td valign="top">17:30-18:00</td>
                                 <td colspan="2" style="text-align: left;" align="center" valign="top">
                                     Closing<br/>
-                                    <div class="chair">Session Chair: Rocco Oliveto</div>
+                                    <div class="chair">Session Chairs: Rocco Oliveto, Serge Demeyer</div>
                                 </td>
                             </tr>
                         </tbody>
