@@ -1,5 +1,5 @@
 <details>
-    <summary>ERA</summary>
+    <summary>Early Research Achievement (ERA)</summary>
     <div class="chair">Session Chairs: Jens Krinke and Shane McIntosh</div>
     <p>
         <ul>
