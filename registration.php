@@ -3,18 +3,27 @@
 $registration_mail = "rocco.oliveto@unimol.it";
 
 $open_reg = strtotime("1/1/2018 12:10 CET");
-// $open_reg = strtotime("12/21/2017 12:13 CET");
+$early_reg = strtotime("3/1/2018 23:59 CET");
+
 $registration_open = time() >= $open_reg;
+$late_registration = time() >= $early_reg;
 
 if ($registration_open) {
-    $registration_link = "https://indico.unimol.it/event/1/registrations";
-    $registration_all_events = "https://indico.unimol.it/event/1/manage/registration/1/";
-    $registration_one_day = "https://indico.unimol.it/event/1/manage/registration/3/";
+    if (!$late_registration) {
+        $registration_link = "https://indico.unimol.it/event/1/registrations";
+        $registration_all_events = "https://indico.unimol.it/event/1/registrations/1/";
+        $registration_one_day = "https://indico.unimol.it/event/1/registrations/3/";
+    } else {
+        $registration_link = "https://indico.unimol.it/event/1/registrations";
+        $registration_all_events = "https://indico.unimol.it/event/1/registrations/8/";
+        $registration_one_day = "https://indico.unimol.it/event/1/registrations/9/";
+    }
 } else {
     $registration_link = "#";
     $registration_all_events = "#";
     $registration_one_day = "#";
 }
+
 ?>
 <html lang="en">
     <head>
