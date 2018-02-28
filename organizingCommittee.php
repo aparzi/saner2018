@@ -522,6 +522,28 @@
                                 </tr>
                             </tbody>
                         </table>
+                        <table class="table" style="width: 100%;">
+                            <tbody>
+                            <tr>
+                                <td style="border: none; text-align: left;">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-md-2">
+                                                <img class="img-circle" src="img/team/gianni_carugno.png" alt="Gianni Carugno" />
+                                            </div>
+                                            <div class="col-md-4">
+                                                <div class="team-date padd">
+                                                    <br />
+                                                    <h6><a href="#">Gianni Carugno</a></h6>
+                                                    <p>University of Molise<br />Italy</p>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                            </tbody>
+                        </table>
                         <div class="top-description-text" style="text-align: left;">
                             <h3>Web Master</h3>
                             <hr class="lineHr">

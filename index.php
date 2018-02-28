@@ -267,35 +267,28 @@
                 <div class="col-md-12 padd">
                     <div class="panel panel-warning" style="border-radius: 4px;">
                         <div class="panel-heading clearfix">
-                            <div class="panel-title text-center"><i class="fa fa-life-ring" aria-hidden="true"></i>&nbsp;Supporters</div>
+                            <div class="panel-title text-center"><i class="fa fa-life-ring" aria-hidden="true"></i>&nbsp;Sponsors</div>
                         </div>
                         <div class="table-responsive">
                             <table class="table table-hover">
                                 <tbody>
                                 <!-- SUPPORTED -->
                                 <tr>
-                                    <td>
+                                    <td class="col-md-4" style="text-align: center;">
                                         <span class="supporter-logo">
                                             <a href="http://www.ieee.org" target="_blank">
                                                 <img src="img/sponsored/ieee_home.png" alt="IEEELogo">
                                             </a>
                                         </span>
                                     </td>
-                                    <td>
-                                        <span class="supporter-logo">
-                                            <a href="http://www.cs-tcse.org" target="_blank">
-                                                <img src="img/sponsored/tcse_home.png" alt="TCSE">
-                                            </a>
-                                        </span>
-                                    </td>
-                                    <td>
+                                    <td class="col-md-4" style="text-align: center;">
                                         <span class="supporter-logo">
                                             <a href="http://www.computer.org" target="_blank">
                                                 <img src="img/sponsored/ieee2_home.png" alt="IEEE-CS-Logo">
                                             </a>
                                         </span>
                                     </td>
-                                    <td>
+                                    <td class="col-md-4" style="text-align: center;">
                                         <span class="supporter-logo">
                                             <a href="http://www.unimol.it/english/" target="_blank">
                                                 <img alt="logo unimol" src="img/sponsored/unimol_home.png">
@@ -303,6 +296,21 @@
                                         </span>
                                     </td>
                                 </tr>
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12 padd">
+                    <div class="panel panel-info" style="border-radius: 4px;">
+                        <div class="panel-heading clearfix">
+                            <div class="panel-title text-center"><i class="fa fa-life-ring" aria-hidden="true"></i>&nbsp;Supporters</div>
+                        </div>
+                        <div class="table-responsive">
+                            <table class="table table-hover">
                                 <tr id="rowSupported">
                                     <td>
                                         <span class="supporter-logo">
@@ -318,13 +326,21 @@
                                             </a>
                                         </span>
                                     </td>
-                                    <td></td>
-                                    <td></td>
+                                    <td>
+                                        <span class="supporter-logo">
+                                            <a href="http://www.cs-tcse.org" target="_blank">
+                                                <img src="img/sponsored/tcse_home.png" alt="TCSE">
+                                            </a>
+                                        </span>
+                                    </td>
+                                    <td>
+                                        <span class="supporter-logo">
+                                            <a href="http://www.lamolisana.it/" target="_blank">
+                                                <img src="img/supported/molisana_home.png" alt="logo molisana">
+                                            </a>
+                                        </span>
+                                    </td>
                                 </tr>
-                                <tr href="http://www.democom.it/" class="clickable-row">
-
-                                </tr>
-                                </tbody>
                             </table>
                         </div>
                     </div>
