@@ -1,12 +1,12 @@
 <details>
     <summary>Industry: Reengineering</summary>
-    <div class="chair">Session Chair: Damian Tamburri</div>
+    <div class="chair">Session Chair: Simone Scalabrino</div>
     <p>
         <ul>
             <li>
                 <div class="program_paper">
                     <?= industry() ?> 
-                    <span class="title">Reengineering an Industrial HMI : Approach, Objectives and Challenges</span>
+                    <span class="title">Reengineering an Industrial HMI: Approach, Objectives and Challenges</span>
                     <span class="authors">Bernhard Dorninger, Albin Kern, Michael Moser</span>
                 </div>
             </li>

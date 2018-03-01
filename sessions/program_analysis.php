@@ -1,6 +1,6 @@
 <details>
     <summary>Program Analysis</summary>
-    <div class="chair">Session Chair: TBD</div>
+    <div class="chair">Session Chair: Jim Cordy</div>
     <p>
         <ul>
             <li>

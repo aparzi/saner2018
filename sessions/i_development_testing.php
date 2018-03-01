@@ -1,6 +1,6 @@
 <details>
     <summary>Industry: Development and Testing</summary>
-    <div class="chair">Session Chair: TBD</div>
+    <div class="chair">Session Chair: Damian Tamburri</div>
     <p>
         <ul>
             <li>

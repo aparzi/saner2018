@@ -1,6 +1,6 @@
 <details>
     <summary>Software Security</summary>
-    <div class="chair">Session Chair: TBD</div>
+    <div class="chair">Session Chair: Shinpei Hayashi</div>
     <p>
         <ul>
             <li>
