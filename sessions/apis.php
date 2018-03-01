@@ -1,6 +1,6 @@
 <details>
     <summary>APIs</summary>
-    <div class="chair">Session Chair: Pananamon Thongtanunam</div>
+    <div class="chair">Session Chair: Patanamon Thongtanunam</div>
     <p>
         <ul>
             <li>
