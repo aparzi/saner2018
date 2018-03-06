@@ -90,7 +90,7 @@
                     
                     <div class="col-md-5 padd">
                         <p style="text-align: justify;">
-                            The conference reception will be held on the evening of Wednesday March 21st, 20:30 at Blue Note, the main Music Club in Campobasso. Before the the reception, there will be a guided tour of the historical center of Campobasso at 19:00.</br>
+                            The conference reception will be held on the evening of Wednesday March 21st, 20:30 at Blue Note, the main Music Club in Campobasso. Before the the reception, there will be a guided tour of the historical center of Campobasso.</br>
                             <a href="https://goo.gl/maps/SaKMsPRCHAS2" target="_blank">Map</a>
                         </p>
                     </div>
