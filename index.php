@@ -204,7 +204,7 @@
                                     <li style="list-style: none;">Abstract: <del>January 5, 2018</del> <span class="expired">January 8, 2018 AoE</span></li>
                                     <li style="list-style: none;">Paper: <span class="expired">January 12, 2018 AoE</span></li>
                                     <li style="list-style: none;">Notifications: <span class="expired">February 9, 2018</span></li>
-                                    <li style="list-style: none;">Camera Ready: February 22, 2018</li>
+                                    <li style="list-style: none;">Camera Ready: <span class="expired">February 22, 2018</span></li>
                                 </p>
                             </div>
                             <div id="date3" style="display: none;">
@@ -213,7 +213,7 @@
                                     <li style="list-style: none;">Abstract: <span class="expired">January 5, 2018 AoE</span></li>
                                     <li style="list-style: none;">Paper: <span class="expired">January 12, 2018 AoE</span></li>
                                     <li style="list-style: none;">Notifications: <span class="expired">February 16, 2018</span></li>
-                                    <li style="list-style: none;">Camera Ready: February 22, 2018</li>
+                                    <li style="list-style: none;">Camera Ready: <span class="expired">February 22, 2018</span></li>
                                 </p>
                             </div>
                             <div id="date4" style="display: none;">
@@ -222,7 +222,7 @@
                                 <li style="list-style: none;">Abstract: <span class="expired">January 5, 2018 AoE</span></li>
                                 <li style="list-style: none;">Paper: <span class="expired">January 12, 2018 AoE</span></li>
                                 <li style="list-style: none;">Notifications: <span class="expired">February 9, 2018</span></li>
-                                <li style="list-style: none;">Camera Ready: February 22, 2018</li>
+                                <li style="list-style: none;">Camera Ready: <span class="expired">February 22, 2018</span></li>
                                 </p>
                             </div>
                             <div id="date5" style="display: none;">
@@ -238,14 +238,14 @@
                                 <li style="list-style: none;">Abstract: <span class="expired">January 5, 2018 AoE</span></li>
                                 <li style="list-style: none;">Paper: <span class="expired">January 12, 2018 AoE</span></li>
                                 <li style="list-style: none;">Notifications: <span class="expired">February 9, 2018</span></li>
-                                <li style="list-style: none;">Camera Ready: February 22, 2018</li>
+                                <li style="list-style: none;">Camera Ready: <span class="expired">February 22, 2018</span></li>
                                 </p>
                             </div>
                             <div id="date7" style="display: none;">
                                 <p style="width:100%; text-align: center;"><b>Journal First Track</b></p>
                                 <li style="list-style: none;">Submission: <span class="expired">January 26, 2018, 23:59 AoE</span></li>
                                 <li style="list-style: none;">Notification: <span class="expired">February 16, 2018</span></li>
-                                <li style="list-style: none;">Camera Ready: February 22, 2018</li>
+                                <li style="list-style: none;">Camera Ready: <span class="expired">February 22, 2018</span></li>
                             </div>
                             <ul class="pager" style="margin-top: 5px; margin-bottom: 0px;">
                                 <li class="previous">

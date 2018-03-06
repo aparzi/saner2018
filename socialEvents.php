@@ -90,19 +90,21 @@
                     
                     <div class="col-md-5 padd">
                         <p style="text-align: justify;">
-                            The conference reception will be held on the evening of Wednesday March 21st, 19:00 at Mazzamaurielle, a bruschetteria/pub located in the heart of the Campobasso historical center. The reception includes a rich buffet with free open bar and a guided tour of the historical center.</br>
-                            <a href="https://goo.gl/maps/D1oP5wMHvQG2" target="_blank">Map</a>
+                            The conference reception will be held on the evening of Wednesday March 21st, 20:30 at Blue Note, the main Music Club in Campobasso. Before the the reception, there will be a guided tour of the historical center of Campobasso at 19:00.</br>
+                            <a href="https://goo.gl/maps/SaKMsPRCHAS2" target="_blank">Map</a>
                         </p>
                     </div>
                     
                     <div class="col-md-7 padd">
                         <div class="owl-carousel owl-item-1">
-                            <div class="item">
-                                <img src="img/social/mazzamaurielle1.jpg" alt="Mazzamaurielle" />
-                                <div class="description">
-                                    <p class="layerCaption">Mazzamaurielle</p>
+                            <?php for ($i = 1; $i <= 12; $i++) { ?>
+                                <div class="item">
+                                    <img src="img/social/bluenote<?=$i?>.jpeg" alt="Blue Note" />
+                                    <div class="description">
+                                        <p class="layerCaption">Blue Note Music Club</p>
+                                    </div>
                                 </div>
-                            </div>
+                            <?php } ?>
                         </div>
                     </div>
 
@@ -117,12 +119,14 @@
                     
                     <div class="col-md-7 padd">
                         <div class="owl-carousel owl-item-1">
-                            <div class="item">
-                                <img src="img/social/piana.jpg" alt="Piana dei Mulini"/>
-                                <div class="description">
-                                    <p class="layerCaption">Piana dei Mulini</p>
+                            <?php for ($i = 1; $i <= 4; $i++) { ?>
+                                <div class="item">
+                                    <img src="img/social/piana<?=$i?>.jpg" alt="Piana dei Mulini" />
+                                    <div class="description">
+                                        <p class="layerCaption">Piana dei Mulini</p>
+                                    </div>
                                 </div>
-                            </div>
+                            <?php } ?>
                         </div>
                     </div>
                     
