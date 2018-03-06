@@ -281,7 +281,7 @@ require_once ('./utils/breadcrumb.php');
                             
                             <tr class="prog_social">
                                 <td valign="top">19:00</td>
-                                <td colspan="2" style="text-align: left;" align="center" valign="top"><a href="socialEvents">Reception @ Blue Note Music Club</a></td>
+                                <td colspan="2" style="text-align: left;" align="center" valign="top"><a href="socialEvents">Reception @ Blue Note</a></td>
                             </tr>
                         </tbody>
                     </table>
