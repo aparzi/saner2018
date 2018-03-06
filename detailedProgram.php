@@ -438,7 +438,7 @@ require_once ('./utils/breadcrumb.php');
                                 <td valign="top">16:30-17:30</td>
                                 <td colspan="2" style="text-align: left;" align="center" valign="top">
                                     Most Influential Papers<br/>
-                                    <div class="chair">Session Chair: TBD</div>
+                                    <div class="chair">Session Chair: Serge Demeyer</div>
                                 </td>
                             </tr>
                             <tr class="prog_global">
