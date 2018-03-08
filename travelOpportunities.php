@@ -62,7 +62,7 @@
                             <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1pQLdan0Blp2Tn0GwvauYmwpYxXbIg18l" width="100%" height="480"></iframe>
                         </p>
                         <p style="color: #000;" class="padd">
-                            Campobasso is near some amazing Italian places. Rome and Naples are well connected and they can be reached by train or by bus in about 3 hours. Click on the placeholders in the map above to check how to get to Campobasso.
+                            Campobasso is near some amazing Italian places. Rome and Naples are well connected and they can be reached by train or by bus in about 3 hours. Click on the placeholders in the map above to check how to get to Campobasso. Zoom on Campobasso to see how to reach the conference venue from the Centrum Palace hotel.
 
                         </p>
                         <p style="text-align: justify;" class="padd"><b>By airplane:</b><br />
@@ -74,8 +74,8 @@
                         <p style="text-align: justify;" class="padd"><b>By train:</b> <br />
                             <a href="http://www.trenitalia.it">Trenitalia</a> operates the train connections from Rome and
                             Naples to Campobasso. The travel usually takes about 3 hours from both Roma Termini
-                            station and Napoli Centrale station. The main station of Campobasso is located in the city
-                            centre and it is near the Centrum Palace hotel.
+                            station and Napoli Centrale station. The main station of Campobasso is located in the city centre and it is near the Centrum Palace hotel.
+                            <b>Note:</b> sometimes the train from/to Rome stops at platform 20bis in Roma Termini. Check its location on the map.
                         </p>
                         <p style="text-align: justify;" class="padd"><b>By bus:</b> <br />
                             ATM Molise operates the bus connections from Rome and Naples to

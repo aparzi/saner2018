@@ -19,7 +19,7 @@ RewriteRule ^journalFirstTrack$ journalFirstTrack.php?p=Journal_First_Track [L]
 RewriteRule ^workshoproposals$ workshoproposals.php?p=Workshop_Proposals [L]
 ### TRAVEL INFORMATION ###
 RewriteRule ^accommodation$ accommodation.php?p=accommodation [L]
-RewriteRule ^travelOpportunities$ travelOpportunities.php?p=travel_Opportunities [L]
+RewriteRule ^howToArrive$ travelOpportunities.php?p=how_to_get_to_the_venue [L]
 RewriteRule ^visaInformation$ visaInformation.php?p=visa_Information [L]
 ### ORGANIZATION ###
 RewriteRule ^organizingCommittee$ organizingCommittee.php?p=organizing_Committee [L]

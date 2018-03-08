@@ -84,7 +84,7 @@
                             The University of Molise counts 4 University campuses arranged across our beautiful region, over 10,000 students, 100+ PhD students and about 600 personnel, split among teaching and non-teaching staff.
                             The University campus of Campobasso is equipped with several technical laboratories covering multimedia, languages, and more, including a rich library, and a sports centre.
                             The Computer Science School is part of the Department of Biosciences and Territory and currently comprises 9 associate professors, 5 assistant professors, and 10+ scientific and technical staff.
-                            The Computer Science programs have currently 400+ students; last year we bootstrapped an advanced Masters’ Degree Program program on “Security of software systems”. The Software and Knowledge Engineering (STAKE) Lab is part of the Computer Science School.
+                            The Computer Science programs have currently 400+ students; last year we bootstrapped an advanced Masters’ Degree Program program on “Security of software systems”. The Software and Knowledge Engineering (STAKE) Lab is part of the Computer Science School. <a href="howToArrive">Check how to reach the conference venue</a>.
                         </p>
 
                     </div>

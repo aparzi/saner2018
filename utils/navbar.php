@@ -109,7 +109,7 @@
                         ><a>Travel Information <span class="caret"></span></a>
                             <ul class="w-200">
                                 <li><a href="accommodation">Accommodation</a></li>
-                                <li><a href="travelOpportunities">Travel Opportunities</a></li>
+                                <li><a href="howToArrive">How to get to the venue</a></li>
                                 <li><a href="visaInformation">Visa Information</a></li>
                             </ul>
                         </li>
