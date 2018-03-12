@@ -1,6 +1,6 @@
 <details>
     <summary>Developers' Collaboration</summary>
-    <div class="chair">Session Chair: Andrea De Lucia</div>
+    <div class="chair">Session Chair: Simone Scalabrino</div>
     <p>
         <ul>
             <li>

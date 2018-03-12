@@ -1,6 +1,6 @@
 <details>
     <summary>Industry: Reengineering</summary>
-    <div class="chair">Session Chair: Simone Scalabrino</div>
+    <div class="chair">Session Chair: Andrea De Lucia</div>
     <p>
         <ul>
             <li>
