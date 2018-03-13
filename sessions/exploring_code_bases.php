@@ -7,7 +7,7 @@
                 <div class="program_paper">
                     <?= paper() ?> 
                     <span class="title">Mining Framework Usage Graphs from App Corpora</span>
-                    <span class="authors">Sergio Mover, Rhys Olsen, Bor-Yuh Evan Chang and Sriram Sankaranarayanan</span>
+                    <span class="authors">Sergio Mover, Sriram Sankaranarayanan, Rhys Olsen, Bor-Yuh Evan Chang</span>
                 </div>
             </li>
             

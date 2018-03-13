@@ -7,7 +7,7 @@
                 <div class="program_paper">
                     <?= rene() ?> 
                     <span class="title">Keep It Simple: Is Deep Learning Good for Linguistic Smell Detection?</span>
-                    <span class="authors">Sarah Fakhoury, Venera Arnaoudova, Foutse Khomh, Giuliano Antoniol, Cédric Noiseux</span>
+                    <span class="authors">Sarah Fakhoury, Venera Arnaoudova, Cédric Noiseux, Foutse Khomh, Giuliano Antoniol</span>
                 </div>
             </li>
             

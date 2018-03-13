@@ -6,8 +6,8 @@
             <li>
                 <div class="program_paper">
                     <?= industry() ?> 
-                    <span class="title">Fuzzing Testing in Practice: Obstacles and Solutions</span>
-                    <span class="authors">Mingzhe Wang, Jie Liang, Yuanliang Chen, Yu Jiang, Renwei Zhang</span>
+                    <span class="title">Fuzz Testing in Practice: Obstacles and Solutions</span>
+                    <span class="authors">Jie Liang, Mingzhe Wang, Yuanliang Chen, Yu Jiang, Renwei Zhang</span>
                 </div>
             </li>
             

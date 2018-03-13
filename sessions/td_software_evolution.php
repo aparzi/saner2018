@@ -22,7 +22,7 @@
             <li>
                 <div class="program_paper">
                     <?= tooldemo() ?> 
-                    <span class="title">Feature Identification, Localization and Tracing Tool</span>
+                    <span class="title">FINALIsT2: Feature Identification, Localization and Tracing Tool</span>
                     <span class="authors">Andreas Burger and Sten Gruener</span>
                 </div>
             </li>

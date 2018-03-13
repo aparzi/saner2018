@@ -7,7 +7,7 @@
                 <div class="program_paper">
                     <?= paper() ?> 
                     <span class="title">Syntax and Sensibility: Using language models to detect and correct syntax errors</span>
-                    <span class="authors">Eddie Antonio Santos, Joshua Charles Campbell, Dhvani Patel, Abram Hindleand José Nelson Amaral</span>
+                    <span class="authors">Eddie Antonio Santos, Joshua Charles Campbell, Dhvani Patel, Abram Hindle, José Nelson Amaral</span>
                 </div>
             </li>
             

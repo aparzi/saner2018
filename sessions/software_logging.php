@@ -7,7 +7,7 @@
                 <div class="program_paper">
                     <?= paper() ?> 
                     <span class="title">SMARTLOG: Place Error Log Statement by Deep Understanding of Log Intention</span>
-                    <span class="authors">Zhouyang Jia, Shanshan Li, Yunhuai Liu, Xiaodong Liu, and Xiangke Liao </span>
+                    <span class="authors">Zhouyang Jia, Shanshan Li, Xiaodong Liu, Xiangke Liao, Yunhuai Liu</span>
                 </div>
             </li>
             

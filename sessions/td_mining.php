@@ -7,15 +7,15 @@
                 <div class="program_paper">
                     <?= tooldemo() ?> 
                     <span class="title">The Statechart Workbench - Enabling Scalable Software Event Log Analysis using Process Mining</span>
-                    <span class="authors">Maikel Leemans, Wil van der Aalst and Mark Van Den BrandMaikel Leemans, Wil van der Aalst and Mark Van Den Brand</span>
+                    <span class="authors">Maikel Leemans, Wil van der Aalst, Mark van der Brand</span>
                 </div>
             </li>
             
             <li>
                 <div class="program_paper">
                     <?= tooldemo() ?> 
-                    <span class="title">APIDiff: Detecting API Breaking-Changes</span>
-                    <span class="authors">Aline Brito, Laerte Xavier, Andre Hora and Marco Tulio Valente</span>
+                    <span class="title">APIDiff: Detecting API Breaking Changes</span>
+                    <span class="authors">Aline Brito, Laerte Xavier, Andre Hora, Marco Tulio Valente</span>
                 </div>
             </li>
             
@@ -23,7 +23,7 @@
                 <div class="program_paper">
                     <?= tooldemo() ?> 
                     <span class="title">LICCA: a Tool for Cross-Language Clone Detection</span>
-                    <span class="authors">Tijana Vislavski, Gordana Rakic, Nicolás Cardozo and Zoran Budimac</span>
+                    <span class="authors">Tijana Vislavski, Gordana Rakic, Nicolás Cardozo, Zoran Budimac</span>
                 </div>
             </li>
             

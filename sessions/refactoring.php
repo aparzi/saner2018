@@ -7,7 +7,7 @@
                 <div class="program_paper">
                     <?= paper() ?> 
                     <span class="title">The Impact of Refactoring Changes on the SZZ Algorithm: An Empirical Study</span>
-                    <span class="authors">Edmilson Campos Neto, Daniel Alencar Da Costa and Uirá Kulesza</span>
+                    <span class="authors">Edmilson Campos Neto, Daniel Alencar da Costa and Uirá Kulesza</span>
                 </div>
             </li>
             

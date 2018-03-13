@@ -22,7 +22,7 @@
             <li>
                 <div class="program_paper">
                     <?= paper() ?> 
-                    <span class="title">Micro-Clones in Evolving Software</span>
+                    <span class="title">Microclones in Evolving Software</span>
                     <span class="authors">Manishankar Mondal, Chanchal K. Roy and Kevin Schneider</span>
                 </div>
             </li>

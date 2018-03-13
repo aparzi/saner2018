@@ -15,7 +15,7 @@
                 <div class="program_paper">
                     <?= jf() ?> 
                     <span class="title">Modularity and architecture of PLC-based software for automated production systems: An analysis in industrial companies</span>
-                    <span class="authors">Birgit Vogel-Heuser, Juliane Fischer, Sebastian Ulewicz, Susanne Rösch and Stefan Feldmann</span>
+                    <span class="authors">Birgit Vogel-Heuser, Juliane Fischer, Stefan Feldmann, Sebastian Ulewicz, Susanne Rösch</span>
                 </div>
             </li>
             

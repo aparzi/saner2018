@@ -7,14 +7,14 @@
                 <div class="program_paper">
                     <?= industry() ?> 
                     <span class="title">Reengineering an Industrial HMI: Approach, Objectives and Challenges</span>
-                    <span class="authors">Bernhard Dorninger, Albin Kern, Michael Moser</span>
+                    <span class="authors">Bernhard Dorninger, Michael Moser, Albin Kern</span>
                 </div>
             </li>
             
             <li>
                 <div class="program_paper">
                     <?= industry() ?> 
-                    <span class="title">Model-Based Software Restructuring</span>
+                    <span class="title">Model-Based Software Restructuring: Lessons from Cleaning Up COM Interfaces in Industry Legacy Code</span>
                     <span class="authors">Dennis Dams, Arjan Mooij, Pepijn Kramer, Andrei Radulescu, Jaromir Vanhara</span>
                 </div>
             </li>
