@@ -312,28 +312,36 @@
                         <div class="table-responsive">
                             <table class="table table-hover">
                                 <tr id="rowSupported">
-                                    <td>
+                                    <td style="text-align: center;">
                                         <span class="supporter-logo">
                                             <a href="http://xeos.it/?lang=en" target="_blank">
                                                 <img src="img/supported/xeos.png" alt="logo xeos" />
                                             </a>
                                         </span>
                                     </td>
-                                    <td>
+                                    <td style="text-align: center;">
                                         <span class="supporter-logo">
                                             <a href="http://www.democom.it/index_en.html" target="_blank">
                                                 <img src="img/supported/democom.png" alt="logo democom" />
                                             </a>
                                         </span>
                                     </td>
-                                    <td>
+                                    <td style="text-align: center;">
                                         <span class="supporter-logo">
                                             <a href="http://www.cs-tcse.org" target="_blank">
                                                 <img src="img/sponsored/tcse_home.png" alt="TCSE">
                                             </a>
                                         </span>
                                     </td>
-                                    <td>
+                                    <td style="text-align: center;">
+                                        <span class="supporter-logo">
+                                            <a href="http://abb.com/" target="_blank">
+                                                <img src="img/supported/abb.png"
+                                                    alt="logo abb" width="206" height="154" >
+                                            </a>
+                                        </span>
+                                    </td>
+                                    <td style="text-align: center;">
                                         <span class="supporter-logo">
                                             <a href="http://www.lamolisana.it/" target="_blank">
                                                 <img src="img/supported/molisana_home.png" alt="logo molisana">
