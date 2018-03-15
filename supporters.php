@@ -272,7 +272,7 @@ require_once('./utils/breadcrumb.php');
                     <hr class="lineHr"/>
                     <span>We are proud to have the following supporters</span>
                     <br>
-                    <div style="text-align: center;"><span><strong>Platinum</strong></span></div>
+                    <!--<div style="text-align: center;"><span><strong>Platinum</strong></span></div>
                     <div class="sponsor-supported">
                         <hr style="margin-top: 40px;" class="lineHr">
                         <img src="img/sponsor/platinum.png" alt="platinum">
@@ -294,26 +294,6 @@ require_once('./utils/breadcrumb.php');
                         </tr>
                         </tbody>
                     </table>
-                    <!--<div style="text-align: center;"><span><strong>Gold</strong></span></div>
-                    <div class="sponsor-supported">
-                        <hr style="margin-top: 40px;" class="lineHr">
-                        <img src="img/sponsor/gold.png" alt="platinum">
-                    </div>
-                    <table style="border: none; margin-top: 0px;">
-                        <tbody>
-                        <tr>
-                            <td style="border: none;">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <h5>TBA</h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table>-->
                     <div style="text-align: center;"><span><strong>Silver</strong></span></div>
                     <div class="sponsor-supported">
                         <hr style="margin-top: 40px;" class="lineHr">
@@ -336,26 +316,6 @@ require_once('./utils/breadcrumb.php');
                         </tr>
                         </tbody>
                     </table>
-                    <!--<div style="text-align: center;"><span><strong>Bronze</strong></span></div>
-                    <div class="sponsor-supported">
-                        <hr style="margin-top: 40px;" class="lineHr">
-                        <img src="img/sponsor/bronze.png" alt="platinum">
-                    </div>
-                    <table style="border: none; margin-top: 0px;">
-                        <tbody>
-                        <tr>
-                            <td style="border: none;">
-                                <div class="container">
-                                    <div class="row">
-                                        <div class="col-md-6">
-                                            <h5>TBA</h5>
-                                        </div>
-                                    </div>
-                                </div>
-                            </td>
-                        </tr>
-                        </tbody>
-                    </table>-->
                     <div class="sponsor-supported" style="margin-top: 40px;">
                         <hr class="lineHr text-in-the-middle">
                         <strong style="margin: 0 10px 0 10px;">&nbsp;Others&nbsp;</strong>
@@ -390,7 +350,40 @@ require_once('./utils/breadcrumb.php');
                             </td>
                         </tr>
                         </tbody>
-                    </table>
+                    </table>-->
+                    
+                    <div class="row">
+                        <div class="col-md-6" style="text-align: center;">
+                            <a href="http://xeos.it/" target="_blank">
+                                <img src="img/supported/xeos.png" alt="logo xeos" />
+                            </a>
+                        </div>
+                        <div class="col-md-6" style="text-align: center;">
+                            <a href="http://www.democom.it/" target="_blank">
+                                <img src="img/supported/democom.png" alt="logo democom" />
+                            </a>
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col-md-4" style="text-align: center;">
+                            <a href="http://www.cs-tcse.org" target="_blank">
+                                <img src="img/sponsored/tcse.png"
+                                        alt="TCSE" width="206" height="154">
+                            </a>
+                        </div>
+                        <div class="col-md-4" style="text-align: center;">
+                            <a href="http://abb.com/" target="_blank">
+                                <img src="img/supported/abb.png"
+                                        alt="logo abb" width="206" height="154" >
+                            </a>
+                        </div>
+                        <div class="col-md-4" style="text-align: center;">
+                            <a href="http://www.lamolisana.it/" target="_blank">
+                                <img src="img/supported/molisana.png"
+                                        alt="logo molisana" width="206" height="154" >
+                            </a>
+                        </div>
+                    </div>
                 </section>
             </div>
         </div>
