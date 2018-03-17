@@ -83,7 +83,52 @@
                             bus can be taken from Roma Tiburtina bus station and Napoli Piazza Garibaldi bus
                             station. From Pescara, it can be taken the bus from the bus station near the central train
                             station (Pescara Centrale). The bus station in Campobasso is 700m far from the train
-                            station and 1km far from the city centre. ATM also provides direct buses from <a target="_blank" href="http://atm.bus-booking.it/home/getcorse">Fiumicino Airport</a>.
+                            station and 1km far from the city centre. ATM also provides direct buses from <a target="_blank" href="http://atm.bus-booking.it/home/getcorse">Fiumicino Airport</a>. The bus will depart from Terminal T3, platform 4 (arrivals). Tickets can be purchased onboard. There is a change of bus during the trip. The driver will indicate when/where to take the next bus. The timetable of the direct bus is the following:
+                            <div style="text-align: center;">
+                                <table border="1" style="border: 1px; border-color: black; margin-left: 20px;display: inline;">
+                                    <tr>
+                                        <td colspan="3" style="padding: 8px;"><b>From Fiumicino Airport to Campobasso</b></td>
+                                        <td rowspan="6" width="10" style="border-top: 0px; border-bottom: 0px;"></td>
+                                        <td colspan="3" style="padding: 8px;"><b>From Campobasso to Fiumicino Airport</b></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 8px;"><b>Days</b></td>
+                                        <td style="padding: 8px;"><b>Departure</b></td>
+                                        <td style="padding: 8px;"><b>Arrival</b></td>
+                                        
+                                        <td style="padding: 8px;"><b>Days</b></td>
+                                        <td style="padding: 8px;"><b>Departure</b></td>
+                                        <td style="padding: 8px;"><b>Arrival</b></td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 8px;">Mon-Sat</td>
+                                        <td style="padding: 8px; text-align: right;">11:15 AM</td>
+                                        <td style="padding: 8px; text-align: right;"> 4:10 PM</td>
+                                        
+                                        <td style="padding: 8px;">Mon-Sat</td>
+                                        <td style="padding: 8px; text-align: right;"> 5:45 AM</td>
+                                        <td style="padding: 8px; text-align: right;">10:25 AM</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 8px;">Mon-Sun</td>
+                                        <td style="padding: 8px; text-align: right;"> 2:00 PM</td>
+                                        <td style="padding: 8px; text-align: right;"> 5:45 PM</td>
+
+                                        <td style="padding: 8px;">Mon-Sun</td>
+                                        <td style="padding: 8px; text-align: right;"> 9:30 PM</td>
+                                        <td style="padding: 8px; text-align: right;"> 1:25 PM</td>
+                                    </tr>
+                                    <tr>
+                                        <td style="padding: 8px;">Mon-Fri</td>
+                                        <td style="padding: 8px; text-align: right;"> 7:10 PM</td>
+                                        <td style="padding: 8px; text-align: right;">11:30 PM</td>
+
+                                        <td style="padding: 8px;">Mon-Sat</td>
+                                        <td style="padding: 8px; text-align: right;"> 2:10 PM</td>
+                                        <td style="padding: 8px; text-align: right;"> 6:55 PM</td>
+                                    </tr>
+                                </table>
+                            </div>
                         </p>
                       </div>
                 </div><!-- end row -->
