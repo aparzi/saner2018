@@ -76,7 +76,8 @@ require_once ('./utils/breadcrumb.php');
                             <a target="_blank" href="http://www.janbosch.com/" style="color: #000; cursor: pointer; font-size: 16px;"><i title="Home" class="fa fa-home" aria-hidden="true"></i></a>
                         </span>
                     </h6>
-                    <i>Towards a New Digital Business Operating System</i>
+                    <i>Towards a New Digital Business Operating System</i>&nbsp;&nbsp;
+                    <span><a href="https://www.youtube.com/watch?v=b-DQk9MeF4w&feature=youtu.be" target="_blank"><i style="cursor: pointer; color: black;" title="Video" class="fa fa-video-camera" aria-hidden="true"></i></a></span>
                     <h6></h6>
                     <p><b>Abstract.</b>
                         We are living in the most exciting time in the history of mankind. The last century has seen unprecedented improvements in the quality of the human condition and technology is at the heart of this progress.
@@ -119,7 +120,15 @@ require_once ('./utils/breadcrumb.php');
                             <a target="_blank" href="https://github.com/donnerpeter" style="color: #000; cursor: pointer; font-size: 16px;"><i title="Home" class="fa fa-home" aria-hidden="true"></i></a>
                         </span>
                     </h6>
-                    <i>Compilers are Sprinters; IDEs are Marathoners</i>
+                    <i>Compilers are Sprinters; IDEs are Marathoners</i>&nbsp;&nbsp;
+                    <span>
+                        <a href="https://www.youtube.com/watch?v=KXqkb4fQKpc&feature=youtu.be" target="_blank">
+                            <i onmouseover="showWarning()" onmouseout="hideWarning()" style="cursor: pointer; color: black;" title="Video" class="fa fa-video-camera" aria-hidden="true"></i>
+                        </a>
+                    </span>
+                    <div id="panelWarning" class="alert alert-warning" style="display: none;">
+                        <strong>Warning!</strong> For technical reasons, the first 7 minutes are without audio.
+                    </div>
                     <h6></h6>
                     <p><b>Abstract.</b>
                         Compilers and IDEs both analyze source code, yet compared to IDEs, compilers are easy.
@@ -285,6 +294,7 @@ require_once ('./utils/breadcrumb.php');
 
     </div>
 </div>
+
 <!-- footer -->
 <?php require_once ('./utils/footer.php') ?>
 <!-- end footer -->
@@ -314,6 +324,14 @@ require_once ('./utils/breadcrumb.php');
     $("#bioBosh, #abstractBosh").on('hidden.bs.modal', function(e){
         $('#key').addClass('zm-active')
     });
+
+    function showWarning() {
+        $('#panelWarning').css('display', 'block');
+    }
+
+    function hideWarning() {
+        $('#panelWarning').css('display', 'none');
+    }
 </script>
 
 <script>
