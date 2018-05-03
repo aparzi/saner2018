@@ -155,6 +155,7 @@
                     <p>
                         <b>SANER 2018</b> is over. Thank you ALL for making this conference an exciting event and hope to see you at SANER 2019 in Hangzhou, China.
                     </p>
+                    <br>
                     <p>
                         <b>SANER</b> is the premier event on the theory and practice of recovering information from existing software and systems. The event explores innovative methods to extract the many kinds of information that can be recovered from software, software engineering documents, and systems artifacts, and examines innovative ways of using this information in system renewal and program understanding.
                     </p>
