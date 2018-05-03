@@ -37,7 +37,7 @@
                                 <li><a href="programOverview">Overview</a></li>
                                 <li><a href="keynotes">Keynotes</a></li>
                                 <li><a href="accepted">Accepted Papers</a></li>
-                                <li><a href="gallery">Foto Gallery</a></li>
+                                <li><a href="gallery">Photo Gallery</a></li>
                                 <li><a href="detailedProgram">Detailed Program</a></li>
                                 <li><a href="socialEvents">Social Events</a></li>
                             </ul>
