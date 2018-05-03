@@ -25,6 +25,7 @@
                             <?php
                             if (basename($_SERVER['PHP_SELF']) == 'keynote.php' 
                                     || basename($_SERVER['PHP_SELF']) == 'accepted.php'
+                                    || basename($_SERVER['PHP_SELF']) == 'gallery.php'
                                     || basename($_SERVER['PHP_SELF']) == 'detailedProgram.php'
                                     || basename($_SERVER['PHP_SELF']) == 'programOverview.php'
                                     || basename($_SERVER['PHP_SELF']) == 'socialEvents.php') {
@@ -36,6 +37,7 @@
                                 <li><a href="programOverview">Overview</a></li>
                                 <li><a href="keynotes">Keynotes</a></li>
                                 <li><a href="accepted">Accepted Papers</a></li>
+                                <li><a href="gallery">Foto Gallery</a></li>
                                 <li><a href="detailedProgram">Detailed Program</a></li>
                                 <li><a href="socialEvents">Social Events</a></li>
                             </ul>
